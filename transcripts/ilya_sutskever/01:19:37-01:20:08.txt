@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:19:37",
+  "End": "01:20:08",
+  "Text": "think having a body will be useful. I don't think it's necessary, I think it's very useful to have a body for sure. Because you can learn whole new. You, you can learn things which cannot be learned without a body. at the same time, I think that you can, if you don't have a body, you could compensate for it and still succeed. You think so? Yes. Well, there is evidence for this. For example, there are many people who were born deaf and blind and were able to compensate for the lack of modalities. I'm thinking about Helen Taylor specifically."
+}

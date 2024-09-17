@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:36:22",
+  "End": "00:36:39",
+  "Text": "sort of on the topic of the science of deep learning? Talk about one of the recent papers that you've released that deep double descent where bigger models and more data hurt. I think it's a really interesting paper. Can you describe the main idea? And"
+}

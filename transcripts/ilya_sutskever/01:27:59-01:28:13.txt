@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:27:59",
+  "End": "01:28:13",
+  "Text": "let me sort of, that's actually OK, that's a beautiful vision. I think as long as it's possible to press the reset button, you think it will always be possible to press the reset button?"
+}

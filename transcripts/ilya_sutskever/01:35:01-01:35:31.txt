@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:35:01",
+  "End": "01:35:31",
+  "Text": "I can answer that I can answer both questions. Of course, there are, there's a huge number of choices and decisions that I've made that with the benefit of hindsight, I wouldn't have made them. And I do experience some regret. But, you know, I try to take solace in the knowledge that at the time I did the best I could. in terms of things that I'm proud of there are, I'm very fortunate to have things I'm proud to have done things I'm proud of they made me happy for some time. But I don't think that that is the source of happiness."
+}

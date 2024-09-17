@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:04:23",
+  "End": "01:04:38",
+  "Text": "the take off that we start the takeoff period next year or in 20 years and then it takes year or 10 years. Well, you can even say one year or five years, whatever you want for the takeoff."
+}

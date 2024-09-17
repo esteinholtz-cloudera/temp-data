@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:27:33",
+  "End": "00:28:32",
+  "Text": "we finished last summer. Um We immediately started it to people to uh to red team. Um We started doing a bunch of our own internal safety LS on it. We started trying to work on different ways to align it. Um that combination of an internal and external effort plus building a whole bunch of new ways to align the model and we didn't get it perfect by far. But one thing that I care about is that our degree of alignment increases faster than our rate of capability progress and that I think will become more and more important over time. And know, I think we made reasonable progress there to a, to a more aligned system than we've ever had before. I think this is the most capable and most aligned model that we've put out. We were able to do a lot of testing on it. Uh And that takes a while and I totally get why people were like, give us GP T four right away, I'm happy we did it this way. Is"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:58:30",
+  "End": "00:59:18",
+  "Text": "that world, the positive trajectories with A I, that world is with an A I that's aligned with humans and doesn't hurt, doesn't limit, doesn't um try to get rid of humans. And there's some folks who consider all the different problems with the super intelligent A I system. So uh one of them is Eliza Yukos. He warns that A I will likely kill all humans there's a bunch of different cases. But I think one way to summarize it is that it's almost impossible to keep A I aligned as it becomes super intelligent. Can you steel man the case for that? And to what degree do you disagree with that trajectory?"
+}

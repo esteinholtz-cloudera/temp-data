@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:50:08",
+  "End": "01:50:13",
+  "Text": "definition of those words? I think the details really matter, but as I understand them, yes, I do."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:10:14",
+  "End": "00:10:47",
+  "Text": "the only, so the good examples of things which don't have clear cost functions are gains. again, you have a game. So instead of thinking of a cost function you want to optimize where you know that you have an algorithm gradient descent, which will optimize the cost function. And then you can reason about the behavior of your system in terms of what it optimizes with. Again, you say I have a game and I'll reason about the behavior of the system in terms of the equilibrium of the game. it's all about coming up with these mathematical objects that help us reason about the behavior of our system."
+}

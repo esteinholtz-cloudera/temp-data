@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:17:50",
+  "End": "02:18:07",
+  "Text": ", I think you do want, um, style of the way GP T four talks to you really matters. You probably want something different than what I want, but we both probably want something different than the current GP T four. And that will be really important even for a very tool like thing."
+}

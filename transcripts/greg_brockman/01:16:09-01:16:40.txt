@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:16:09",
+  "End": "01:16:40",
+  "Text": ". So that's a really good point. So the question in terms of ideas, you have a lot of projects that are exploring different areas of intelligence. uh the question is when you, when you think of scale, do you think about growing scale of those individual projects or do you think about adding new projects and uh sorry. And if you are thinking of adding new projects or if you look at the past, what's the of coming up with new projects and new ideas?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:48:46",
+  "End": "01:49:11",
+  "Text": "don't really know, it might be better. I expect it would be better. But would it be better than super intelligent or 1000 super intelligent? A GIS sort of a liberal democratic system arguing? Yes. Now, also how much of that can happen internally in one super intelligent A G I so obvious"
+}

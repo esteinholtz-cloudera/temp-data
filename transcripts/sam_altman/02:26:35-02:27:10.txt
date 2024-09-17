@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:26:35",
+  "End": "02:27:10",
+  "Text": ". We are going to try our hardest to get to get to a good place here. I think the challenges are tough. I understand that not everyone agrees with our approach of iterative deployment and also iterative discovery. Um it's what we believe in. Uh I think we're making good progress and I think the pace is fast, but so is the progress. So, so like the pace of capabilities and change is fast. Um But I think that also means we will have new tools to figure out alignment and sort of the capital s safety problem."
+}

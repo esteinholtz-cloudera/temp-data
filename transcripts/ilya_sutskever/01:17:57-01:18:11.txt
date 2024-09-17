@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:17:57",
+  "End": "01:18:11",
+  "Text": "100% of the training was done in simulation. And the policy that was learned in simulation was trained to be very adaptive. So adaptive that when you transfer it, it could very quickly adapt to the physical to the physical"
+}

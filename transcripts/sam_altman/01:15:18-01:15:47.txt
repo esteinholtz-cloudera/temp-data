@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:15:18",
+  "End": "01:15:47",
+  "Text": "do you under this pressure that there's going to be a lot of open source? There's going to be a lot of large language models this pressure. How do you continue prioritizing safety versus, I mean, there's several pressures. So one of them is a market driven pressure from other companies, Google Apple meta and smaller companies. How do you resist the pressure from that or how do you navigate that pressure?"
+}

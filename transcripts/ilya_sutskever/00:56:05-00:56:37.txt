@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:56:05",
+  "End": "00:56:37",
+  "Text": ". Yeah, I think those ones are a very natural example as well. You know, if you can prove an unproven theorem, then it's hard to argue you don't treason. so by the way, and this comes back to the point about the hard results. You know, if you got a hard, if you have machine learning, deep learning as a field is very fortunate because we have the ability to sometimes produce these unambiguous results. And when they happen, the debate changes, the conversation changes, it's a convers, we have the ability to produce conversation, changing results,"
+}

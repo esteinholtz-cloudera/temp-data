@@ -1,0 +1,6 @@
+{
+  "Speaker": "Greg Brockman",
+  "Start": "00:51:48",
+  "End": "00:52:10",
+  "Text": ". Well, have you ever seen the uh there, there's a, you know, pop popular meme of uh of uh robot uh with, with a physical physical arm and pen clicking. The I'm not a robot button. think, I think that the truth is that uh that really trying to distinguish between robot and human is a losing battle,"
+}

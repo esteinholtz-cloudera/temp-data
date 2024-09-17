@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:16:32",
+  "End": "00:16:45",
+  "Text": ", there's all these different eels that we could talk about and what's an eel like how we, how we measure a model as we're training it after we've trained it and say, like, you know, how good is this at some set of tasks"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:57:41",
+  "End": "00:58:31",
+  "Text": ". I mean, I hate to sound like Utopic tech, bro here. But if you'll excuse me for three seconds, like the, the, the level of the increase in quality of life that A I can deliver is extraordinary. can make the world amazing and we can make people's lives amazing. We can cure diseases, we can increase material wealth. We can help people be happier, more fulfilled, all of these sorts of things. then people are like, oh, well, no one is going to work but people want, people want drama, people want new things. People want to create, people want to like, feel useful. Um People want to do all these things and we're just going to find new and different ways to do them even in a vastly better, like unimaginably good standard of living world."
+}

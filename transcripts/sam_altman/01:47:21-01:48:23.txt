@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:47:21",
+  "End": "01:48:23",
+  "Text": "? I recoil at the idea of living in a communist system I don't know how much of that is just the biases of the world I've grow up in and what I have been taught and probably more than I realize. But I think like more, more human will, more ability to self determine important. also think the ability to try new things and not need permission and not need some sort of central planning, on human ingenuity and this sort of like distributed process believe is always going to beat centralized planning. I think that like for all of the deep flaws of America, I think it is the greatest place in the world it's the best of this"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Greg Brockman",
+  "Start": "00:30:52",
+  "End": "00:31:06",
+  "Text": "But so if you look actually at the opening I charter that there's almost two paths embedded within it. There is we are primarily trying to build A G I ourselves, but we're also OK if someone else does it. this is a weird thing for a company. It's"
+}

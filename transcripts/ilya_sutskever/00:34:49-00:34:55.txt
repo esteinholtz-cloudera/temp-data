@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:34:49",
+  "End": "00:34:55",
+  "Text": "mean, I can't be sure when you say one computer, you mean how, how large"
+}

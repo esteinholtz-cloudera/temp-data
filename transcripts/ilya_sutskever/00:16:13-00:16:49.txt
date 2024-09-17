@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:16:13",
+  "End": "00:16:49",
+  "Text": ". Could you say that? So sort of, do you think there's a future of building large scale knowledge bases within the neural networks? we're going to pause on that confidence because I want to explore that. Well, let me zoom back out and ask um to the history of image net neural networks have been around for many decades. As you mentioned, what do you think were the key ideas that led to their success, that image net moment and beyond the the success in the past 10"
+}

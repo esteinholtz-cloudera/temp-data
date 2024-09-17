@@ -1,0 +1,6 @@
+{
+  "Speaker": "Greg Brockman",
+  "Start": "00:11:01",
+  "End": "00:11:21",
+  "Text": "? So I, I think there's kind of two problems uh entailed in that question. Uh The first is more of the question of how can you even picture what a world with a new technology will be like? Now imagine we're in 1950 I'm trying to describe Uber to someone,"
+}

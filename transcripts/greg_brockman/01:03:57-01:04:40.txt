@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:03:57",
+  "End": "01:04:40",
+  "Text": "you there's a partially an emotional, you know, I think that a response that people often have this computer is so important for state of the art performance, you know, individual developers, maybe a 13 year old sitting somewhere in Kansas or something like that, you know, they're sitting, they, they might not even have a GP U and or may have a single GP U or 1080 or something like that. there's this feeling like, well, how can I possibly compete or contribute to this world of A I if scale is so important. if you can comment on that and in general, do you think we need to also in the future focus on uh democratizing compute resources more, more or as much as we democratize the algorithms. Well,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:21:55",
+  "End": "01:22:22",
+  "Text": "we talk about consciousness, but let me talk about another poorly defined concept of intelligence., we've talked about reasoning, we've talked about memory. What do you think is a good test of intelligence for you? Are you impressed by the test that Alan Turing formulated with the imitation game with natural language? Is there something in your mind that you would be deeply impressed by? If a system was able to"
+}

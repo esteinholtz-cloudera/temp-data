@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:59:18",
+  "End": "01:00:42",
+  "Text": "first of all, I will say, I think that some chance of that and it's really important to acknowledge it because if we don't talk about it, if we don't treat it as potentially real we won't put enough effort into solving it. I think we do have to discover new techniques to be able to solve it. I think a lot of the predictions, this is true for any new field, but a lot of the predictions about A I in terms of capabilities um in terms of what the safety challenges and the easy parts are going to be, have turned out to be wrong. only way I know how to solve a problem like this is our way through it, learning early limiting the number of one shot to get it right scenarios that we have to steel man., there's I, I can't just pick like one A I safety case or A I alignment case. But I think Eliezer wrote a really great blog post. think some of his work has been sort of somewhat difficult to follow or had what I view as like quite significant logical flaws. But he wrote this one blog post outlining why he believed that alignment was such a hard problem that I thought was again, don't agree with a lot of it, but well reasoned and thoughtful and very worth reading. So I think I'd point people to that as the steel man."
+}

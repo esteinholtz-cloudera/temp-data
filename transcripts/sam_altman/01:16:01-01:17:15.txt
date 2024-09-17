@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:16:01",
+  "End": "01:17:15",
+  "Text": "think there's gonna be many A GIS in the world. So we don't have to like outcompete everyone. We're gonna contribute, one people are going to contribute some, I think, I think multiple A GIS in the world with some differences in how they're built and what they do and what they're focused on. I think that's good. Um We have a very unusual structure so we don't have this incentive to capture unlimited value. I worry about the people who do, but, you know, hopefully it's all going to work out but a weird org and we're good at resisting. Like we have been a misunderstood and badly mocked orc for a long time. Like when we started, like announced the or at the end of 2015 said we're going to work on A G I. Like people thought we were batshit insane. You know, like I remember at the time a eminent A I scientist at a industrial A I lab was like D ming individual reporters being like, you know, these people aren't very good and it's ridiculous to talk about A G I and I can't believe you're giving them time of day. And it's like that was the level of like pettiness and Rancor in the field at a new group of people saying we're going to try to build a G I."
+}

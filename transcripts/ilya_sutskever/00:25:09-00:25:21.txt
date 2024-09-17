@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:25:09",
+  "End": "00:25:21",
+  "Text": "think that asking if a problem is hard, is slightly wrong. I think the question is a little bit wrong and I want to explain why. what does it mean for a problem to be hard?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:34:20",
+  "End": "00:34:49",
+  "Text": "all these questions that nobody knows the answer to. But you're one of the smartest people I know. So I'm gonna keep asking the, so let's imagine all the breakthroughs that happen in the next 30 years in deep learning. Do you think most of those breakthroughs can be done by one person with one computer of in the space of breakthroughs? Do you think compute will be uh compute and large efforts will be necessary?"
+}

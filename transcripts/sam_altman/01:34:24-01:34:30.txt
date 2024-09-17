@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:34:24",
+  "End": "01:34:30",
+  "Text": "emotional load. there might be pressure, there might be political pressure."
+}

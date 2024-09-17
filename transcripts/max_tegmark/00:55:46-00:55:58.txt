@@ -1,0 +1,6 @@
+{
+  "Speaker": "Max Tegmark",
+  "Start": "00:55:46",
+  "End": "00:55:58",
+  "Text": "after the DGA teach yourself Russian language?"
+}

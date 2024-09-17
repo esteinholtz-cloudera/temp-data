@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:15:47",
+  "End": "01:15:59",
+  "Text": "stick with what you believe and you stick to your mission, you know, I'm sure people will get ahead of us in all sorts of ways and take shortcuts we're not going to take. And we just aren't gonna do that."
+}

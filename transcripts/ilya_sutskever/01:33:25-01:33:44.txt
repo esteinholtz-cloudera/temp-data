@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:33:25",
+  "End": "01:33:44",
+  "Text": ", but I was making a slightly different point is that humans want things and their wants create the drives that cause them to, you know, our wants are our objective functions, our individual objective functions, we can later decide that we want to change that. What we wanted before is no longer good and we want something else"
+}

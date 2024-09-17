@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:53:54",
+  "End": "00:54:03",
+  "Text": "Buddhists say when they watch the water and that, that there is some beauty that there is some depth and beauty nature that they can communicate with."
+}

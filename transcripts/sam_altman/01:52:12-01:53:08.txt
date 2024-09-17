@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:52:12",
+  "End": "01:53:08",
+  "Text": "world. Yeah, it's very interesting. It's very interesting and I think that's not, that's, that actually doesn't communicate the fact that we're like, fundamentally dark inside, but we like to go to the dark places in order to, um,, maybe rediscover the light. feels like dark humor is a part of that. Some of the, some of the toughest things you go through if you suffer in life in a war zone, the people I've interacted with that are in the midst of a war, they're usually joking around and they're dark jokes. there's something there, I totally agree about that tension. So, just to the model, how do you decide what isn't misinformation? do you decide what is true? You actually have open A's internal factual performance benchmark. There's a lot of cool benchmarks here. Uh How do you build a benchmark for? What is true? is truth? Sam"
+}

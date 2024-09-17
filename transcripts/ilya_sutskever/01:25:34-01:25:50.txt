@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:25:34",
+  "End": "01:25:50",
+  "Text": "very first time, first time? Well, the first time I'll just, would just ask all kinds of questions and try to make it to get it to make a mistake. And I would be amazed that it doesn't make mistakes and just keep, keep asking broad."
+}

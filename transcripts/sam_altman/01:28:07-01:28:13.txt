@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:28:07",
+  "End": "01:28:13",
+  "Text": "little bit more. Love. do you admire in the name of? Love? Abadi Al Musk,"
+}

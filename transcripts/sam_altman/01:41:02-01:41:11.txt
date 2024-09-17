@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:41:02",
+  "End": "01:41:11",
+  "Text": "think the world is going to find out that if you can have 10 times as much code at the same price, you can just use even more to write even more code. It just needs way more code."
+}

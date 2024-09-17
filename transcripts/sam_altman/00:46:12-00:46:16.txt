@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:46:12",
+  "End": "00:46:16",
+  "Text": "users like adults is a thing I say very frequently inside, inside the"
+}

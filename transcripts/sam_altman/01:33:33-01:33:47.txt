@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:33:33",
+  "End": "01:33:47",
+  "Text": "times. But it's something I often do. You know, I ask people an interview or whatever to steel man, uh, the beliefs of someone they really disagree with and the inability of a lot of people to even pretend like they're willing to do. That is remarkable."
+}

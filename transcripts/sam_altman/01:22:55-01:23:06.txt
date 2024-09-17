@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:22:55",
+  "End": "01:23:06",
+  "Text": "I don't have and I don't want like any like super voting power or any special, like the, you know, I have no like control of the board or anything like that. Open the eye."
+}

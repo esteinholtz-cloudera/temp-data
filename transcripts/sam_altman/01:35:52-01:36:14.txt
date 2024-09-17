@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:35:52",
+  "End": "01:36:14",
+  "Text": "think there's like a lot of like quirks about me that make me a great CEO for open eye, but a thing in the positive column is I think I am good at being affected by pressure for the sake of pressure,"
+}

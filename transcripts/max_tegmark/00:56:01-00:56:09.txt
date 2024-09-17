@@ -1,0 +1,6 @@
+{
+  "Speaker": "Max Tegmark",
+  "Start": "00:56:01",
+  "End": "00:56:09",
+  "Text": "know, my wife has some calculation, but my point was if you play chess now, have you looked at the alpha zero games? The uh"
+}

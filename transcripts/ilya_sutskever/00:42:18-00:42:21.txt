@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:42:18",
+  "End": "00:42:21",
+  "Text": "out that we can't find back propagation in the brain, if"
+}

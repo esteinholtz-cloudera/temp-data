@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:43:00",
+  "End": "00:43:08",
+  "Text": "let me ask a sort of big picture question. Do you think can, you think neural networks can be made to reason"
+}

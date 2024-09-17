@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:49:52",
+  "End": "00:50:11",
+  "Text": ". Complexity, including the entirety of the history of human civilization that built up all the different advancements of technology that build up all the content. The data that GP T was trained on that is on the internet that it's the compression of all of humanity, of all of the maybe not the experience."
+}

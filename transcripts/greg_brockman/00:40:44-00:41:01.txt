@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:40:44",
+  "End": "00:41:01",
+  "Text": "of the interesting things in the charter is this idea that it'd be great if you could try to describe or untangle, switching from competition to collaboration and late stage A G I development. It was really interesting this dance between competition and collaboration. How do you think about"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:18:00",
+  "End": "01:18:21",
+  "Text": "uh in terms of reasoning, super exciting topic. do you, what kind of benchmarks? Uh What kind of tests of reasoning do you envision? What, what would if you set back with whatever drink and you would be impressed that the system is able to do something, what would that look"
+}

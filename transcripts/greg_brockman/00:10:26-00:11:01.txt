@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:10:26",
+  "End": "00:11:01",
+  "Text": ", what do you think about that psychology that uh looks at all the different possible trajectories of an A G I system, of which perhaps the majority of which are positive and nevertheless focuses on the negative trajectories. I mean, you get to interact with folks, you get to think about this maybe within yourself as well. Um You look at Sam Harris and so on, it seems to be sorry to put it this way, but almost more fun to think about the negative possibilities, that's deep in our psychology. What do you think about that? And how do we deal with it because we want a I to help"
+}

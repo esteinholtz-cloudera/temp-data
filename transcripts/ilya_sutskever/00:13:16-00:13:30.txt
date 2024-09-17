@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:13:16",
+  "End": "00:13:30",
+  "Text": "you sound really while saying it. But the timing. That's one thing that's missing temporal dynamics is not captured. I think that's a fundamental property of the brain is the timing of the of the signals."
+}

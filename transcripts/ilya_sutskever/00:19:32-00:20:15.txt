@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:19:32",
+  "End": "00:20:15",
+  "Text": ". Well, but it's more than that. kind of when, when put this way it sounds like, well, you know, those silly people who didn't believe, what were they, what were they missing? But in reality things were confusing because neuros really did not work on anything. And they were not the best method on pretty much anything as well. And it was pretty rational to say, yeah, this stuff doesn't have any traction. that's why you need to have these very hard tasks which are, which produce undeniable evidence. And that's how we make progress. And that's why the field is making progress today because we have these hard benchmarks which represent true progress. And so and this is why we are able to avoid endless debate."
+}

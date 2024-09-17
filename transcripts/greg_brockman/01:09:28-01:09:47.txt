@@ -1,0 +1,6 @@
+{
+  "Speaker": "Greg Brockman",
+  "Start": "01:09:28",
+  "End": "01:09:47",
+  "Text": ", so to that point with, with dota and PPO, like, I mean, here's, here's a very concrete one, right? It's like, um it's actually one thing that's very surprising about dota that I think people don't really pay that much attention to is the degree of generalization out of distribution that happens, right? That you have this A I that's trained against other bots for its entirety, the entirety of its existence."
+}

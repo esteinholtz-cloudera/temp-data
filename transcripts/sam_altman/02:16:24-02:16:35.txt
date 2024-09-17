@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:16:24",
+  "End": "02:16:35",
+  "Text": "are companies now that offer, for lack of a better word, like romantic companionship. A is"
+}

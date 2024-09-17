@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:13:32",
+  "End": "00:14:13",
+  "Text": "you think of that as I mean, that's a very crude, simplified what's that called? The a clock I guess to recurrent neural networks, this seems like the brain is the continuous version of that the generalization where all possible timings are possible. And then within those timings is contained some information. think recurrent neural networks, the recurrence in recurrent neural networks can capture the same kind of phenomena as the timing seems to be important for the brain in the, in the firing of neurons in the brain. I I"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:36:21",
+  "End": "01:36:24",
+  "Text": "long a list."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:05:02",
+  "End": "00:05:18",
+  "Text": ". I mean there was some evidence before that it was OK. But the theory was most the theory was that if you had a big data set and a big neural native was going to work, the over parameterization just did um figure much as, as a problem I thought well with images, you're just going to add some data augmentation, it's going to be OK. So where was any"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:37:05",
+  "End": "00:37:12",
+  "Text": "step back what's the X axis and the y axis of a double descent"
+}

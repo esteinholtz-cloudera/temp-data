@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:15:58",
+  "End": "00:16:32",
+  "Text": "let's go even higher. I don't know if you've read the book Sapiens, but there's an idea that, you know, that as a collective as us human beings, we kind of develop together ideas that we hold. There's no in that context, objective truth, we just kind of all agree to certain ideas and hold them as a collective. Did you have a sense that there is in the world of good and evil? Do you have a sense that to the first approximation, there are some things that are good that you could teach systems to behave, to be good."
+}

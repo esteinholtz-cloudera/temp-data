@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:23:25",
+  "End": "00:23:34",
+  "Text": "I'd say something slightly differently. I'd say that reinforcement learning is neither but it naturally interfaces and integrates with the two of them."
+}

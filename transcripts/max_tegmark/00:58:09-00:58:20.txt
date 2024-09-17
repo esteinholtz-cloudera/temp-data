@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:58:09",
+  "End": "00:58:20",
+  "Text": ", and that kind of information helps to build trust and helps build the alignment, the alignment of goals, the least awareness that your goals, your values are"
+}

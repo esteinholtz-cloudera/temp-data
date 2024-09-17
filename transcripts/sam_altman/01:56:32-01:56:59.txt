@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:56:32",
+  "End": "01:56:59",
+  "Text": "good answer. Yeah, it laid out the, the, the, the hypotheses. The the interesting thing it said, which is refreshing to hear is there's something like there's very little evidence for either hypothesis, direct evidence, which is important to state a lot of people. Kind of the reason why there's a lot of uncertainty a lot of debate is because there's not strong physical evidence of either"
+}

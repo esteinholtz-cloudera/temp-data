@@ -1,0 +1,6 @@
+{
+  "Speaker": "Greg Brockman",
+  "Start": "00:59:48",
+  "End": "01:00:49",
+  "Text": "think it's unlikely that if we just scale uh GP T two that will have reasoning in, in the full fledged way. And I think that there is like, you know, the type signature is a little bit wrong, right? That like there's something we do with that we call thinking right, where we spend a lot of compute like a variable amount of compute to get to better answers, right? I think a little bit harder I get a better answer that that kind of type signature isn't quite encoded in a G BT, right. G BT will kind of like it's been a long time and it's like evolutionary history baking in all this information getting very, very good at this predictive process. And then at run time, I just kind of do one forward pass and uh and I am able to generate stuff. And so, you know, there might be small to what we do in order to get the type signature, right? For example, well, you know, it's not really one forward pass, right? You know, you generate symbol by symbol and so maybe you generate like a whole sequence of, of, of thoughts and you only keep like the last bit or something. Um But I think that at the very least I would expect you have to make changes like that."
+}

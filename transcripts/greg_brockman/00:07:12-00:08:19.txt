@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:07:12",
+  "End": "00:08:19",
+  "Text": "really beautifully put. So another example of that I think about, you know, I recently looked at it, I looked at Wikipedia, the formation of Wikipedia I wonder what the internet would be like if Wikipedia had ads? You know, there's an interesting argument that uh why they chose not to make it uh put advertisement on Wikipedia. I think it's uh I think Wikipedia is one of the greatest resources we have on the internet. It's, it's extremely surprising how well it works and how well it was able to aggregate all this kind of uh good information essentially the creator of Wikipedia. I don't know, there's probably some debates there but set the initial conditions and now it carried itself forward. That's really interesting. So you're the way you're thinking about A G I or artificial intelligence is you're focused on setting the initial conditions for, for the progress. That's right. That's powerful. OK. So look into the future, if you create an A G I system, one that can ace the turing test natural language, what do you think would be the interactions you would have with it? What do you think are the questions you would ask? Like, what would be the first question you would ask hurt"
+}

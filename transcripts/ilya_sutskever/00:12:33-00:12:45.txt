@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:12:33",
+  "End": "00:12:45",
+  "Text": "mean, 11 thing which may potentially be useful. I think people neuroscientists have figured out something about the learning rule of the brain or I'm talking about spike time independent plasticity and it would be nice if some people were to study that in simulation."
+}

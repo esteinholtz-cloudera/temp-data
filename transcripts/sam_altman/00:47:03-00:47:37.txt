@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:47:03",
+  "End": "00:47:37",
+  "Text": ", it's a lot of technical leaps in the base model. One of the things we are good at, at open A I is finding a lot of small wins and multiplying them together each of them maybe is like a pretty big secret in some sense. But it really is the multiplicative impact of all of them the detail and care we put into it that gets us these big leaps and then, you know, it looks like to the outside like, oh they just probably like did one thing to get from 3 to 3.5 to 4. like hundreds of complicated things. So"
+}

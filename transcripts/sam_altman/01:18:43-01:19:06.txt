@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:18:43",
+  "End": "01:19:06",
+  "Text": "like do what we needed to go do. We had tried and failed enough to raise the money as a nonprofit. We didn't see a path forward there. So we needed some of the benefits of capitalism but not too much. I remember at the time, someone said, you know, as a nonprofit, not enough will happen as a for profit, too much will happen. So we need this sort of strange and immediate,"
+}

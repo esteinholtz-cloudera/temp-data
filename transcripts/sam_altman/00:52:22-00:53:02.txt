@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:52:22",
+  "End": "00:53:02",
+  "Text": "don't think it needs that, I wouldn't, I wouldn't say any of this stuff with certainty. Like we're deep into the unknown here. For me, a system that cannot go significantly add to the sum total of scientific knowledge. We have access to kind of discover invent whatever you want to call it. New. Fundamental science not a superintelligence do that really well, I think we will need to expand on the GP T paradigm in pretty important ways that we're still missing ideas for. I don't know what those ideas are worth trying to find"
+}

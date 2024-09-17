@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:06:49",
+  "End": "02:07:36",
+  "Text": "so those control provisions help you help make sure that uh the capitalist imperative does not affect the development of A I., let me just ask you as an aside about Satya Nadella, the CEO of Microsoft, he seems to have successfully transformed Microsoft into, into this fresh innovative developer friendly company. I agree. What do you, I mean, it's really hard to do for a very large company. Uh What, what have you learned from him? Why do you think he was able to do this kind of thing?, what, what insights do you have about why this one human being is able to contribute to the pivot of a large company into something very new?"
+}

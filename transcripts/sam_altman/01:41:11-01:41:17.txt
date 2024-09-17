@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:41:11",
+  "End": "01:41:17",
+  "Text": "is true that a lot more could be digitized. There could be a lot more code and a lot more"
+}

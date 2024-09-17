@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:14:13",
+  "End": "00:14:32",
+  "Text": ", I think, I think recurrent neural recurrent neural networks are amazing and they can do, I think they can do anything we'd want them to, we'd want a system to do right now. Recurrent neural networks have been superseded by transformers, but maybe one day they'll make a comeback, maybe they'll be back. We'll see."
+}

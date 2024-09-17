@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:36:39",
+  "End": "01:36:54",
+  "Text": ", with Chomsky on this. I think charisma is a dangerous thing. I think, I think flaws in in communication style, I think is a feature, not a bug in general. At least for humans, it, at least for humans in power."
+}

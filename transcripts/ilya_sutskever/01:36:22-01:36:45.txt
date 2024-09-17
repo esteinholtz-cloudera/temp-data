@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:36:22",
+  "End": "01:36:45",
+  "Text": "humble in the face of the uncertainty. It seems to be also a part of this whole happiness thing. Well, I don't think there's a better way to end it than meaning of life and discussions of happiness. So I thank you so much. You've given me a few incredible ideas. You've given the world many incredible ideas. I really appreciate it. And thanks for talking today."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:50:42",
+  "End": "00:51:19",
+  "Text": ", I'm there with you. I've stopped betting against neural networks at this point because they continued to surprise us. about long term memory? Can you all know have long term memory, something like basis? So being able to aggregate important information over long periods of time would then serve as useful sort of representations of state uh you can make decisions by so have a long term context based on what you make the decision."
+}

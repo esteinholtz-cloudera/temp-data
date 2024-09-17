@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:03:51",
+  "End": "01:04:19",
+  "Text": "yet we adapt really quickly. And now there's a of cognitive scientists write articles saying that GP T two models don't truly understand language. So we adapt quickly to how amazing the fact that they're able to model the language so well. Is so what do you think is the bar what for impressing us that it,"
+}

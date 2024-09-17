@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:00:20",
+  "End": "02:00:37",
+  "Text": ". Is that, is some of it fun? How much of it is a security threat? I mean, what, how much do you have to take it seriously? How is it even possible to solve this? Problem. Where does it rank on the set of problems? I just keep asking questions, prompting."
+}

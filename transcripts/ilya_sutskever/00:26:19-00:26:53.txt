@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:26:19",
+  "End": "00:26:53",
+  "Text": "think I know I changed my mind. I'd say language is probably going to be harder. I mean, it depends on how you define it. Like if you mean absolute top notch 100% language understanding, I go with language. so, but then if I show you a piece of paper with letters on it is that if you see what I mean is you have a vision system, you say it's the best human level vision system. I show you, I open a book and I show you letters, will it to understand how these letters form into words and sentences and meaning is this part of the vision problem? Where does vision end and language begin?"
+}

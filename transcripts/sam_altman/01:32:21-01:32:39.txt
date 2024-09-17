@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:32:21",
+  "End": "01:32:39",
+  "Text": "is the part that we understand the least. Well, we're great at the pre training machinery. Um We're now trying to figure out how we're going to select those people, how we'll verify that we get a representative sample, how we'll do different ones for different places, but we don't have that functionality built out yet."
+}

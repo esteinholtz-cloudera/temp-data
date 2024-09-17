@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:10:51",
+  "End": "01:10:52",
+  "Text": "heard of it, but I haven't seen"
+}

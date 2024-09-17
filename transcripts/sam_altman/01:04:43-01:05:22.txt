@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:04:43",
+  "End": "01:05:22",
+  "Text": "do I, so I'm in, I'm in the slow take off. Short timelines is the most likely good world and we optimize the company to maximum impact in that world to try to push for that kind of a world. And the decisions that we make are, know, there's like probability masses but weighted towards that. And I think very afraid of the fast takeoffs, think in the longer timelines it's harder to have a slow take off. There's a bunch of other problems too., but that's what we're trying to do. Do you think GP T four is an A G? I,"
+}

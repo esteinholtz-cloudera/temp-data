@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:18:35",
+  "End": "00:19:33",
+  "Text": "that's really interesting. So I guess the presence of compute and the presence supervised data the empirical evidence to do the convincing of the majority of the computer science community. So I guess there's a key moment with Jitendra Malik and Alex Alyosha Efros who are very skeptical, right? And then there's a Jeffrey Hinton that was the opposite of skeptical. there was a convincing moment. And I think I had served as that moment and that represented this kind of where the big pillars of computer vision community kind of the wizards got together. And then all of a sudden there was a shift and not enough for the ideas to all be there and the computer be there. It's for it to convince the cynicism that existed. That, that's interesting that people just didn't believe for a couple of decades."
+}

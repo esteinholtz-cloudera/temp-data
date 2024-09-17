@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:32:09",
+  "End": "01:32:15",
+  "Text": "bias I'm most nervous about is the bias of the human feedback Raiders."
+}

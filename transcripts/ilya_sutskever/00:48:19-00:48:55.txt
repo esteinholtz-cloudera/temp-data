@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:48:19",
+  "End": "00:48:55",
+  "Text": "mean, if you can definitely, think it's kind of the answer is kind of yes. If we can do it, we should do things that we can do it. It's it's the reason we are pushing on deep learning. fundamental reason the the root cause is that we are able to train them. in other words, training comes first, we've got our pillar, which is the training pillar. now we are trying to contort our neural networks around the training pillar. We got to stay trainable. This is an in this is an invariant we cannot violate. And so"
+}

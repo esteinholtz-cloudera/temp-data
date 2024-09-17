@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:59:37",
+  "End": "00:59:48",
+  "Text": "you think uh what's your intuition? Do you think if you just scale language modeling may like uh significantly scale that reasoning can emerge from the same exact mechanisms?"
+}

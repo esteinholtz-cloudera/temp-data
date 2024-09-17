@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:18:10",
+  "End": "01:18:19",
+  "Text": ". So the kind of perturbations with the or whatever the heck it was, those weren't, were those part of the SIM simulation?"
+}

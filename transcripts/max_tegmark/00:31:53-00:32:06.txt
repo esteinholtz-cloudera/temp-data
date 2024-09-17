@@ -1,0 +1,6 @@
+{
+  "Speaker": "Max Tegmark",
+  "Start": "00:31:53",
+  "End": "00:32:06",
+  "Text": "key of mechanics of the micro world? So this with this equation, we can check like everything to do with atoms, molecules and all the way up to."
+}

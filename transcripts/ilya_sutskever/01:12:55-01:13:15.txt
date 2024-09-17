@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:12:55",
+  "End": "01:13:15",
+  "Text": "that's, that's a place where it's important to gradually build trust between companies because ultimately the A I developers are building technology which is going to be increasingly more powerful. And so it's way to think about it is that ultimately we only eat together."
+}

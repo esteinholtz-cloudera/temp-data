@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:59:58",
+  "End": "02:00:17",
+  "Text": "know, when I was like a kid, basically, I got worked once on jailbreak in an iphone the first iphone I think, thought it was so cool. will say it's very strange to be on the other side of that."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:09:11",
+  "End": "02:09:36",
+  "Text": "am I from a distance? mean, you have so much in your life trajectory that I can ask you about, we can probably talk for many more hours, but I got to ask you because of Y Combinator because of start ups and so on the recent you've tweeted about this about the Silicon Valley Bank SVB. What's your best understanding of what happened? What is interesting, what is interesting to understand about what happened in SV"
+}

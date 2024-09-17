@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:23:48",
+  "End": "01:23:55",
+  "Text": "open source GP T four."
+}

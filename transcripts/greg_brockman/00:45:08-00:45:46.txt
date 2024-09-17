@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:45:08",
+  "End": "00:45:46",
+  "Text": "uh recently released a paper on uh GP T two language modeling uh uh but uh did not release the full model because you had concerns about the possible negative effects of the availability of such model. It's uh outside of just that decision is super interesting because of uh the discussion as at a societal level, the discourse it creates. So it's fascinating that aspect. But if you think that's the specifics here at first, what are some negative effects that you envisioned? And of course, what are some of the positive effects?"
+}

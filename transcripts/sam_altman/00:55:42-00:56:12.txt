@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:55:42",
+  "End": "00:56:12",
+  "Text": "the contribution and there may be like, I think we're going to find. I suspect that is happening with great programmers and that GP T like models are far away from that one thing, even though they're going to automate a lot of other programming. again, most programmers have some sense of, know, anxiety about what the future is going to look like, but mostly they're like, this is amazing. I am 10 times more productive. Don't ever take this away from me. There's not a lot of people that use it and say like, turn this off, you know,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:10:14",
+  "End": "01:11:27",
+  "Text": "mean, I think that my take on this is that the field of A I has been in a state of childhood and now it's exiting that state and it's entering a state of maturity. that means is that A I is very successful and also very impactful and its impact is not only large, but it's also growing. so for that reason, it seems wise to start thinking about the impact of our systems before releasing them maybe a little bit too soon, rather than a little bit too late. with the case of GP T two, like I mentioned earlier, the results really were stunning it seemed plausible, it didn't seem certain, it seemed plausible that something like GP T two could easily use to reduce the cost of this information. so there was a question of what's the best way to release it and staged release seem logical. A small model was released and there was time to see the people use these models in lots of cool ways. There've been lots of really cool applications. There haven't been any negative application that we know of and so eventually it was released, but also other people replicated similar models. That's an"
+}

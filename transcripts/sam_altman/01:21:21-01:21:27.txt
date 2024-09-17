@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:21:21",
+  "End": "01:21:27",
+  "Text": "do think it's strange that it's maybe a few, tens of thousands of people in the world, a few thousands of people in the world."
+}

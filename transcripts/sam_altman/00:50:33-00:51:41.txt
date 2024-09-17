@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:50:33",
+  "End": "00:51:41",
+  "Text": "a number of parameters of parameters? I think people got caught up in the parameter count race in the same way they got caught up in the Gigahertz race of processors in like the nineties and two thousands or whatever., I think probably have no idea how many Gigahertz the processor on your phone is, what you care about is what the thing can do for you. And there's, you know, different ways to accomplish that. You can bump up the clock speed. Sometimes that causes other problems. Sometimes it's not the best way to get gains. Um I think what matters is getting the best performance. And, know, we, I think one thing that works well about open A I we're pretty truth seeking in just doing whatever is going to make the best performance, whether or not it's the most elegant solution. So I think like MS are a sort of hated result in parts of the field. Everybody wanted to come up with a more elegant way to get to generalized intelligence. we have been willing to just keep doing what works and looks like it'll keep working."
+}

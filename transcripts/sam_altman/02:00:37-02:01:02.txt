@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:00:37",
+  "End": "02:01:02",
+  "Text": "want to have lot of control and get the models to behave in the way they want some very broad bounds. And I think the whole reason for jailbreak is right now, we haven't yet figured out how to give that to people. And the more we solve that problem, I think the less need there will be for jailbreak."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:31:06",
+  "End": "00:31:20",
+  "Text": "interesting actually that there is an element of competition that you do want to be the one that does it. at the same time, you're OK if somebody else doesn't and we'll talk about that a little bit that trade off, that's the dance. That's really"
+}

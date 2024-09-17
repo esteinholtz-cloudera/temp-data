@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:18:21",
+  "End": "00:19:35",
+  "Text": "know, a funny thing about the way we're training these models is suspect too much of the like processing power for lack of a better word is going into the model as a database instead of using the model as a reasoning engine. The thing that's really amazing about this system is that it for some definition of reasoning and we could of course quibble about it and there's plenty for which definitions this wouldn't be accurate. But for some definition, can do some kind of reasoning and, you know, maybe like the scholars and the experts and like the armchair quarterbacks on Twitter would say no, I can't, you're misusing the word, you know, whatever, whatever. But I think most people who have used the system would say, ok, it's doing something in this direction and, I think that's and the thing that's most exciting somehow out of human knowledge, it's coming up with this reasoning capability. However, we want to talk about that. Um Now, in some senses, I think that will be additive to human wisdom and in some other senses, you can use G BT four for all kinds of things and say that appears that there's no wisdom in here whatsoever."
+}

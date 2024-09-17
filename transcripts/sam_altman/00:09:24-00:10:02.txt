@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:09:24",
+  "End": "00:10:02",
+  "Text": "is a good question. I sort of think of progress as this continual exponential. It's not like we could say here was the moment where A I went from not happening to happening. And I'd have a very hard time pinpointing a single thing. I think it's this very continual curve. the history books write about G BT one or two or three or four or seven. for them to decide. I don't, I don't really know. I think I had to pick some moment from what we've seen so far, I'd sort of pick chat GP t, you know, it wasn't the underlying model that mattered. It was the usability of it, both the RLHF and the interface to it."
+}

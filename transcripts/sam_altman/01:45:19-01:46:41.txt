@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:45:19",
+  "End": "01:46:41",
+  "Text": "love that you asked them together because I think they're super related. I think the economic transformation will drive much of the political transformation here. Not the other way around. Um working model for the last years has been that two dominant changes will be that the cost of intelligence and the cost of energy are going over the next couple of decades to dramatically dramatically fall from where they are today. the impact of that you're already seeing it with the way you now have like, you know, programming ability beyond what you had as an individual before is society gets much, much richer, much wealthier in ways that are probably hard to imagine. I think every time that's happened before, it has been economic impact has had positive political impact as well. And I think it does go the other way too, like the the sociopolitical values of the enlightenment enabled the running technological revolution and scientific discovery process we've had for past centuries. Um I think we're just gonna see more, sure the shape will change, I think it's this long and beautiful exponential curve."
+}

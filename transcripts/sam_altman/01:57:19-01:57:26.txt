@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:57:19",
+  "End": "01:57:26",
+  "Text": ". Remember when like the social media platforms were banning people for it was a lab leak."
+}

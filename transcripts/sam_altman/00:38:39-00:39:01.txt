@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:38:39",
+  "End": "00:39:01",
+  "Text": "a large number of things that we don't significantly disagree on, but there's also a large number of things that we disagree on. What, what's an A I supposed to do? What does it mean to, what is, what does hate speech mean? What is uh what is harmful output of a model that in the automated fashion? Some"
+}

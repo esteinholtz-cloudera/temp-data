@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:34:29",
+  "End": "01:34:37",
+  "Text": ", there might be pressure to make a biased system. What I meant is the technology I think will be capable of being less biased."
+}

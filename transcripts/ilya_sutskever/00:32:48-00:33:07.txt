@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:32:48",
+  "End": "00:33:07",
+  "Text": "in between. But would be nice if machine learning somehow helped us discover the unification of the two as opposed to sort of the in between. you're right that you're kind of trying to juggle both. So do you think there are still beautiful and mysterious properties in your networks that are yet to be"
+}

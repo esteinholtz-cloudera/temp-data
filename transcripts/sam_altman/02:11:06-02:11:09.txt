@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:11:06",
+  "End": "02:11:09",
+  "Text": "how do you avoid depositors from doubting their bank?"
+}

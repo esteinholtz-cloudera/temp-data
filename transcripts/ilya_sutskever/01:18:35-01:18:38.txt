@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:18:35",
+  "End": "01:18:38",
+  "Text": ", correct? It's not in theory in practice"
+}

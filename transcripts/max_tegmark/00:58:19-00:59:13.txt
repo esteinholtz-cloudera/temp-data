@@ -1,0 +1,6 @@
+{
+  "Speaker": "Max Tegmark",
+  "Start": "00:58:19",
+  "End": "00:59:13",
+  "Text": ". And I, I think even in the very short term, if you look at how you know that today, right, this absolutely pathetic state of cybersecurity that we have, right? Or is it three Yahoo accounts were packed in almost every credit card and, and so on. You know, it's uh why is this happening? It's ultimately happening because we have software that nobody fully understood how it worked. That's why the bugs hadn't been found, right? And uh I think a I can be used very effectively for offense for hacking, but it can also be used for defense, hopefully automating verifiability and creating systems that are in different ways. So you can actually prove things about them and it's important."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:26:23",
+  "End": "00:27:05",
+  "Text": ", the small stuff is the big stuff in aggregate. So I get it. It's just like I I also like I get why this is such an important issue. This is a really important issue. But that somehow we like this is the thing that we get caught up in versus like what is this going to mean for our future now? Maybe you say this is critical to what this is going to mean for our future. The thing that it says more characters about this person than this person and who's deciding that and how it's being decided and how the users get control over that. Maybe that is the most important issue, but I wouldn't have guessed it at the time when I was like eight year old."
+}

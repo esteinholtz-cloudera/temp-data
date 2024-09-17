@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:40:13",
+  "End": "01:40:14",
+  "Text": "the learning curve is"
+}

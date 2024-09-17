@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:02:47",
+  "End": "01:03:04",
+  "Text": "you surprised how well Transformers worked? And GP T two worked? So you worked on language, you've had a lot of great ideas before Transformers came about in language. So you got to see the whole set of revolutions before and after. Were you surprised?"
+}

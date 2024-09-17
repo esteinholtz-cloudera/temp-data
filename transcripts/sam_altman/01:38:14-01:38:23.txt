@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:38:14",
+  "End": "01:38:23",
+  "Text": "makes me nervous about the future, not in an A I safety way but like change, change. And like, there's a nervousness about change and more"
+}

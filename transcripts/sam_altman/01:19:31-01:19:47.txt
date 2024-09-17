@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:19:31",
+  "End": "01:19:47",
+  "Text": "know, A G I can make a lot more than 100 eggs for sure. And so how do you, how do you compete, stepping outside of open A I? How do you look at a world where Google is playing, where apple and and meta are"
+}

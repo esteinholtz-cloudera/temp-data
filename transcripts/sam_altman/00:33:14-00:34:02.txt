@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:33:14",
+  "End": "00:34:02",
+  "Text": ". Yeah. But there are still some parallels that don't break down. There is some kind of because it's trained on human data. There's, it feels like it's a way to learn about ourselves by interacting with it. Some of it as the smarter and smarter it gets, the more it represents, more it feels like another human in terms of um kind of way you would phrase a prompt to get the kind of thing you want back. that's interesting because that is the art form as you collaborate with it as an assistant, this becomes more relevant for now. This is relevant everywhere, but it's also very relevant for programming, for example. Um I mean, just on that topic, how do you think G BT four and all the advancements with G BT change the nature of programming"
+}

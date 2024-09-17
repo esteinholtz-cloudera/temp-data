@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:09:09",
+  "End": "01:10:14",
+  "Text": "another interesting thing that open A brought up with GP T two, which is when you create a, a powerful artificial intelligence system and it was unclear what kind of detrimental once you release GP T two, what kind of detrimental effect it will have. Because if you have an a model that can generate pretty realistic text, you can start to imagine that, you know, on the it would be used by bots and some way that we can't even imagine. So like there's this nervousness about what it's possible to do. So you, you did a really kind of brave and I think profound thing which just started a conversation about this, like, how do we release artificial intelligence models to the public if we do it all, how do we privately discuss with other even competitors about how we manage the use of the systems and so on. So from that this whole experience, you released a report on it. But in general, are there any insights that you've gathered from just thinking about this, about how you release models like this?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:26:54",
+  "End": "01:28:07",
+  "Text": "is obviously attacking us some on Twitter right now on a few different vectors and I have empathy because I believe he is so really stressed about A G I safety. sure there are some other motivations going on too, but that's definitely one of them. saw this video of LAN long time ago talking about SpaceX. Maybe it was on some new show and a lot of early pioneers in space were really bashing and maybe Elon two. And was visibly very hurt by that and said, know, those guys are heroes of mine and it sucks and I wish they would see how hard we're trying. Um I definitely grew up with Elon as a hero of mine. Um, know, despite him being a jerk on Twitter or whatever, I'm happy he exists in the world, but wish he would more to look at the hard work we're doing to get this stuff. Right."
+}

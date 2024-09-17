@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:46:16",
+  "End": "00:46:40",
+  "Text": ", but it's tricky. It has to do with language. Like there's like certain conspiracy theories you don't want the system to be speaking to, a very tricky language you should use. Because what if I wanna understand earth, if the earth is the idea that the earth is flat? And I wanna fully explore that. want the, I want G BT to help me"
+}

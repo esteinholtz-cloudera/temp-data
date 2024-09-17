@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:54:37",
+  "End": "01:54:52",
+  "Text": "was really good. It's a, it gives a theory of Nazi Germany and Hitler that so much can be described about Hitler and a lot of the upper echelon of Nazi Germany through the excessive use of drugs"
+}

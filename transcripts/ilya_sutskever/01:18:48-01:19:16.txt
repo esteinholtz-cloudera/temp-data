@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:18:48",
+  "End": "01:19:16",
+  "Text": ". Yeah. And I will also say that I expect the transfer capabilities of deep learning to increase in general and the better the transfer capabilities are the more useful simulation will become then you could take, you could experience something in simulation and then learn a moral of the story which you could then carry with you to the real world, right? As humans do all the time and they play computer games."
+}

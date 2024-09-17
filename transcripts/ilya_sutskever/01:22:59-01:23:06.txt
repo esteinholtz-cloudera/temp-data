@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:22:59",
+  "End": "01:23:06",
+  "Text": ". So right now they make mistakes in diff they might be more accurate than human beings, but they still, they make a different set of"
+}

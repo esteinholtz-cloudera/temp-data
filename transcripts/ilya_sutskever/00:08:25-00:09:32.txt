@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:08:25",
+  "End": "00:09:32",
+  "Text": "to tell. But my prior is not very high and I can tell, I can say why, you know, there are people who are interested in spiking neural networks and basically what they figured out is that they need to simulate the non spiking neural networks in spikes. that's how they are going to make them work. If you don't simulate the non spike in neural networks in spikes, it's not going to work because the question is why should it work? And that connects to questions around back propagation and questions around learning. You've got this giant neural network, why should it work at all? Why should the learning rule work at all? not a self evident question, especially if you, let's say if you were just starting in the field and you read the very early papers, you can say, hey, people are saying, let's build neural networks. That's a great idea because the brain is a neural network. So it would be useful to build neural networks. Now let's figure out how to train them. It should be possible to train them probably. But how and so the big idea is the cost function. the big idea. The cost function is a way of measuring the performance of the system according to some. By"
+}

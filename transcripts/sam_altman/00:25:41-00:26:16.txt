@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:25:41",
+  "End": "00:26:16",
+  "Text": "I was a little kid. I thought building a I, we didn't really call it A G I, at the time I thought building A, I would be like the coolest thing ever. I never really thought I would get the chance to work on it. But if you had told me that not only I would get the chance to work on it, but that after making a very, very larval proto A G I thing that the thing I'd have to spend my time on is, know, trying to argue with people about whether the number of characters that said nice things about one person was different than the number of characters that said nice about some other person. If you hand people an A G I and that's what they want to do. I wouldn't have believed you, but I understand it more now and I do have empathy for it."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:03:56",
+  "End": "01:04:20",
+  "Text": "I'll come back to the, would we go about our day or not? Thing? I think there's like a bunch of interesting lessons from COVID and the UFO videos and a whole bunch of other stuff that we can talk to there. But on the takeoff question, if we imagine a two by two matrix of short timelines till A G I starts long timelines till A G I starts slow, take off, fast, take off. Do you have an instinct on what do you think the safest quadrant would be?"
+}

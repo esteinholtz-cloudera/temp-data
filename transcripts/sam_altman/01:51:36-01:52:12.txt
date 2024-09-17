@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:51:36",
+  "End": "01:52:12",
+  "Text": ", to be clear, I don't, does anyone else open their eyes that they're like reading all the chat G BT messages. But I hear people using it for at least the people I talk to. And from what I see on Twitter, we are definitely mostly good, but, not all of us are of the time and b we really want to push on the edges of these systems and, know, we really want to test out some darker theories"
+}

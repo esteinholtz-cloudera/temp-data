@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:06:10",
+  "End": "00:07:18",
+  "Text": ", I mean, you you know, you got to be precise with these analogies between neural artificial neural networks in the brain. But there is no question that the brain is a huge source of intuition and inspiration for deep learning researchers since all the way from Rosenblatt in the sixties, if you look at the the whole idea of a neural network is directly inspired by the brain, you had people like mccallum and pits who were saying, hey, you got these new neurons in the brain. And hey, we recently learned about the computer and autometer can we use some ideas from the computer and autometer to design some kind of computational object that's going to be simple computational and kind of like the brain and they invented the neuron. they were inspired by it back then. Then you had the convolutional neural network from Fukushima. And then later Yan Le Khan, who said, hey, if you limit the receptive fields of a neural network, it's going to be especially suitable for images as it turned out to be true. So there was, there was a very small number of examples where analogies to the brain were successful. And I thought, well, probably an artificial neuron is not that different from the brain if it's cleaned hard enough. So it's just it is and enroll with it."
+}

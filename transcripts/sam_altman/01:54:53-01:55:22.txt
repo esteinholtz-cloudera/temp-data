@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:54:53",
+  "End": "01:55:22",
+  "Text": ", but also other stuff. But it's just a lot. And, uh, you know, that's really interesting. It's really compelling and for some reason like, whoa, that's really, would explain a lot that's somehow really sticky. It's an idea that's sticky. And then you read a lot of criticism of that book later by historians that that's actually there's a lot of cherry picking going on and it's actually is using the fact that that's a very sticky explanation. There's something about humans that likes a very simple narrative to describe everything and"
+}

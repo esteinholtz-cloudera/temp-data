@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:10:52",
+  "End": "01:12:03",
+  "Text": ". You haven't seen it? No, the director Alex Garland who had a conversation. So it's where a G I system is built, embodied in the body of a woman uh something he doesn't make explicit. But he, he said put in the movie without describing why. But at the end of the movie, spoiler alert, when the A I escapes, the woman escapes, she smiles nobody, for no audience. She smiles at the pers like at the freedom, is experiencing,, I don't know, anthropomorphizing. But he said the smile to me was the was passing the turing test for consciousness that you smile for no audience. You smile for yourself. That's an interesting thought. like you, you take an experience for the experience sake. I don't know. Um That seemed more like consciousness versus the ability to convince somebody else that you're conscious that feels more like a realm of emotion versus facts. But yes, if it knows."
+}

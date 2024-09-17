@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:14:24",
+  "End": "01:14:35",
+  "Text": "we know if like on Twitter, we were mostly having like ll MS direct the is flowing through that hive mind."
+}

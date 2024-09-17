@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:05:22",
+  "End": "01:06:26",
+  "Text": "think if it is like with the UFO videos,, we wouldn't know immediately. think it's actually hard to know that when I was, I've been thinking of playing with GP T for thinking how would I know if it's an A G I or not? Because I think in terms of to put it in a different way, um How much of A G I is the interface I have with the thing how much of it uh is the actual wisdom inside of it? a part of me thinks that you can have a model that's capable of super intelligence and it just hasn't been quite unlocked. What I saw with Chad GP T just doing that little bit of RL with human feedback makes the thing somewhat, much more impressive, much more usable. So maybe if you have a few more tricks, like you said, there's like hundreds of tricks inside open A I, a few more tricks and all whole leash and thing."
+}

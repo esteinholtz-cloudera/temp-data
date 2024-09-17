@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:38:24",
+  "End": "01:38:38",
+  "Text": "I take away the fact that I'm an A I person and just a programmer, more excited but still nervous. Yeah, nervous in brief moments, especially when sleep deprived. But there's a nervousness there. People who"
+}

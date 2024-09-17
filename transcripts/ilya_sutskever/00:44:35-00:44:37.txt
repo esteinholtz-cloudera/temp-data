@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:44:35",
+  "End": "00:44:37",
+  "Text": ", there is one other existence,"
+}

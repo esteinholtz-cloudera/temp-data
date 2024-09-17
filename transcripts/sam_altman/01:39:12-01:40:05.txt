@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:39:12",
+  "End": "01:40:05",
+  "Text": ", there's a lot of little, things and big things that are just really good about vsco and I've been, I can happily report and all the people who just go nuts, but I'm very happy. It was a very happy decision, but there was a lot of uncertainty. There's a lot of nervousness about it. There's fear and so on um taking that leap and that's obviously a tiny leap. Um But even just a leap to actively using Copilot using a generation of code, it makes you nervous. But ultimately, my life is much better as a programmer, purely as a programmer and a programmer of little things and big things is much better. But there's a nervousness and I think a lot of people will experience that, that and you will experience that by talking to them. And I don't know what would do with that. Um we comfort people in, in the, in the face of this uncertainty and"
+}

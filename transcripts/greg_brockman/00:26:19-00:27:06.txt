@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:26:19",
+  "End": "00:27:06",
+  "Text": ", you're also a dreamer. So who knows? Right. Right. OK. So speaking of that, competing with the big players, talk about some of the, some of the tricky things as you think through this process of growing of, uh seeing how you can develop these systems at a s at scale that competes. So you recently recently formed open A LP, new cap profit company that now carries the name Open Air. So Open Air is now this official company. The original nonprofit company still exists and carries the open A I nonprofit name. can you explain what this company is what the purpose of its creation is? And how did you arrive at the decision to create it?"
+}

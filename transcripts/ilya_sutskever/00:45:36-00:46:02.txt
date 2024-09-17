@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:45:36",
+  "End": "00:46:02",
+  "Text": "when it comes to our neural networks, I, the thing which I would say is that neural networks are capable of reasoning. if you train a neural network on a task which doesn't require reasoning. It's not going to reason this is a well known effect where the neural network will solve exactly the it will solve the problem that you pose in front of it in the easiest way possible,"
+}

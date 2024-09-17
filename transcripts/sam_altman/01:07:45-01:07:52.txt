@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:07:45",
+  "End": "01:07:52",
+  "Text": ". And then it starts getting weird. It's like, what is the difference between pretending to be conscious and conscious?"
+}

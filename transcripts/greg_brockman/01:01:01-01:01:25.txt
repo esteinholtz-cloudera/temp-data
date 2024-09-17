@@ -1,0 +1,6 @@
+{
+  "Speaker": "Greg Brockman",
+  "Start": "01:01:01",
+  "End": "01:01:25",
+  "Text": "and I think there's, there's another piece which is, which is interesting, which is this out of distribution generalization, right? That like thinking somehow lets us do that, right? That we haven't experienced a thing and yet somehow we just kind of keep refining our mental model of it. Um This is again, something that feels tied to whatever reasoning is maybe it's a small tweak to what we do, maybe it's many ideas and we'll take as many decades. So"
+}

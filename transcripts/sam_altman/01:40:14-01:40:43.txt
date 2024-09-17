@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:40:14",
+  "End": "01:40:43",
+  "Text": "steep. Yeah., and then there's moments when you're like, oh, it generates a function beautifully. sit back both proud, like a parent almost like proud, like and scared that this thing will be much smarter than, than me. Like both pride and sadness, almost like a melancholy feeling but ultimately joy, I think. Yeah. What kind of jobs do you think G BT language models would better than humans"
+}

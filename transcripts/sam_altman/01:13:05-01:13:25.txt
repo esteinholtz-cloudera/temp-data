@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:13:05",
+  "End": "01:13:25",
+  "Text": ", just to linger on the alignment problem a little bit maybe the control problem. What are the different ways? You think A G I might go wrong? That concern you. You said that fear? A little bit of fear is very appropriate here. He's been very transparent. Bob being mostly excited but also scared."
+}

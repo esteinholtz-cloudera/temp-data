@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:48:51",
+  "End": "00:49:01",
+  "Text": "should go to it. It's totally taken out of context, they didn't reference anything, they took it, this is what GP T four is going to be and I feel horrible"
+}

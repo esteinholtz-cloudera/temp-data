@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:56:59",
+  "End": "01:57:01",
+  "Text": "circumstantial evidence on either"
+}

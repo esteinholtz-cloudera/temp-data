@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:20:29",
+  "End": "01:20:59",
+  "Text": "companies? But you know, the incentives of capitalism? To create and capture unlimited value. a little afraid of. But again, no, I think no one wants to destroy the world. No one looks up saying like today I want to destroy the world. So we've got the, the mooch problem. On the other hand, we've got people who are very aware of that and I think a lot of healthy conversation about how can we collaborate to minimize of these very scary downsides."
+}

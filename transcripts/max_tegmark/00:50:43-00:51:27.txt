@@ -1,0 +1,6 @@
+{
+  "Speaker": "Max Tegmark",
+  "Start": "00:50:43",
+  "End": "00:51:27",
+  "Text": "two separate to your question there. One of them to do with communication, which is super interesting. And I get that in a sec. The other is whether we already have a G I, but we just haven't noticed it. I beg to differ. I, I don't think there's anything in any cellular automaton or anything or the internet itself or whatever that has general intelligence and that it can really do exactly everything we humans can do better. I think the day, if the day that happens when that happens, we will very soon notice, we'll probably notice even before. And because in a very, very big way. Uh But for the, for the second part though,"
+}

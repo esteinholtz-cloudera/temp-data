@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:22:32",
+  "End": "00:22:35",
+  "Text": "being a functional agent"
+}

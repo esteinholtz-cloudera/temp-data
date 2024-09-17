@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:20:02",
+  "End": "00:20:08",
+  "Text": ", it's always tempting to anthropomorphize this stuff too much. But I also feel that way. Maybe"
+}

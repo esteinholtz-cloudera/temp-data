@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:01:58",
+  "End": "01:02:47",
+  "Text": "just all different forms of love and drama and so on. OK. sure if you read a bit a lesson, a recent blog post by Ridge Sutton, he basically says something that echoes some of the ideas that you've been talking about, which is uh he says the biggest lesson that can be read from 70 years of A I research is that general methods that leverage computation are ultimately going to uh ultimately win out. Uh Do you agree with this? So, basically open A I in general about the ideas you're exploring about coming up with methods, whether it's GP T two modeling or whether it's uh open A I five playing Dota or a general method is better than a more fine tuned expert tuned."
+}

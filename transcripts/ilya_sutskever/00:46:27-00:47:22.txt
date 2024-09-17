@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:46:27",
+  "End": "00:47:22",
+  "Text": "the thing which I said precisely was that if you can find the shortest program that outputs the data in you at your disposal, then you will be able to use it to make the best prediction possible. that's a theoretical statement which can be proved mathematically., you can also prove mathematically that it is that finding the shortest program which generates some data is not, is not a computable operation, no finite amount of compute can do this. then, with neural networks, neural networks are the next best thing that actually works in practice. We are not able to find the best the shortest program which generates our data, we are able to find, you know, a small. But now, now that statement should be amended, even a large circuit which fits our data in some way. Well, I think"
+}

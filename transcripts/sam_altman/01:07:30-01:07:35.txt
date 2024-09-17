@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:07:30",
+  "End": "01:07:35",
+  "Text": "think it knows how to fake consciousness. Yes, how"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:25:45",
+  "End": "00:26:05",
+  "Text": ", I mean, in some perspective, it, it would be an incredibly boring life living forever. So, in the sort of loose subjective terms that you said of something exciting and something in this, that other humans would understand, I think is, yeah, it seems that the, the finite of it is important. Well,"
+}

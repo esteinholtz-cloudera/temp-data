@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:16:02",
+  "End": "02:16:12",
+  "Text": "you think that it's doing something or should be able to do something or rely on it for something that it's not capable of."
+}

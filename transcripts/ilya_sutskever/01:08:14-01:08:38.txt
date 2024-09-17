@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:08:14",
+  "End": "01:08:38",
+  "Text": ". So I think that for something like active learning or in fact, for any kind of capability like active learning, the thing that it really needs is a problem. It needs a problem that requires it. very hard to do research about the capability if you don't have a task because then what's going to happen is that you will come up with an artificial task, get good results but not really convince anyone"
+}

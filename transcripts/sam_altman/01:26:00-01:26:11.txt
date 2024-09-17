@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:26:00",
+  "End": "01:26:11",
+  "Text": "Twitter is unreadable. So sometimes I do, I can take a sample, a cup out of the waterfall. But I mostly take it from conversations like this."
+}

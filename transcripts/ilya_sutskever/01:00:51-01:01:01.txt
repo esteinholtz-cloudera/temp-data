@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:00:51",
+  "End": "01:01:01",
+  "Text": "you take a step back and say what is GP T two? Which is one of the big language models that was the conversation changer in the past couple of years."
+}

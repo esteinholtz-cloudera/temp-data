@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:28:51",
+  "End": "01:29:28",
+  "Text": "the same way that human parents want to help their Children. They want their Children to succeed. It's not a burden for them. They are excited to help the Children and to feed them and to dress them and to take care of them. And I believe high conviction that the same will be possible for an A G I, it will be possible to program an A G I to design it in such a way that it will have a similar deep drive that it will be delighted to fulfill and the drive will be to help humans flourish."
+}

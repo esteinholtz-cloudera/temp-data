@@ -1,0 +1,6 @@
+{
+  "Speaker": "Greg Brockman",
+  "Start": "00:25:20",
+  "End": "00:26:19",
+  "Text": "say that, you know, when we were starting open A I, uh that kind of the first question that we had is, is it too late to start a lab with a bunch of the best people? Is that even possible? That was an actual question. That was really, that was the core question of uh of, you know, we had this dinner in July of 2020 15. And there's, that was, that was really what we spent the whole time talking about. uh you know, because it's, you think about kind of where A I was is that it transitioned from being an academic pursuit to an industrial pursuit. And so a lot of the best people were in these big research labs and that we wanted to start our own one that, you know, no matter how much resources we could accumulate would be, you know, pale in comparison to the big tech companies. And we knew that there was a question of, are we going to be actually able to get this thing off the ground? You need a critical mass? You can't just do you and a co-founder, build a product, right? You really need to have a group of, you know, 5 to 10 people and uh we kind of concluded it wasn't obviously impossible. Uh So it seemed worth trying."
+}

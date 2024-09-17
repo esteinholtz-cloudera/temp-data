@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:13:12",
+  "End": "02:13:19",
+  "Text": "gives you hope in that shift from an economic perspective. Uh That sounds scary. The instability I"
+}

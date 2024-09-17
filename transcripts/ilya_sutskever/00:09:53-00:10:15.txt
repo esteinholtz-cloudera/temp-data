@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:09:53",
+  "End": "00:10:15",
+  "Text": "it seems trivial now. But because the reason I asked that and we'll talk about it because is there other things, is there things that don't necessarily have a cost function? Maybe have many cost functions or maybe have dynamic cost functions or maybe a totally different kind of architectures we have to think like that in order to arrive at something new, right?"
+}

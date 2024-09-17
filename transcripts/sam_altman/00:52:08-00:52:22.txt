@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:52:08",
+  "End": "00:52:22",
+  "Text": "is philosophizing a little bit what, what kind of components do you think um a technical sense or a poetic sense does need to have a body that it can experience the world directly."
+}

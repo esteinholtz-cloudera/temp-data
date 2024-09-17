@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:41:25",
+  "End": "01:41:45",
+  "Text": "is uh I'm trying to think of like a big category that I believe be massively impacted. I guess I would say customer service is a category that I could see there are just way fewer jobs relatively soon. not even certain about that, I could believe it."
+}

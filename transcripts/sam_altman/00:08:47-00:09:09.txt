@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:08:47",
+  "End": "00:09:09",
+  "Text": ". It's a system that we'll look back at and say it was a very early A I and it will, it's slow, it's buggy, it doesn't do a lot of things very well. Um But neither did the very earliest computers they still pointed a path to something that was going to be really important in our lives even though it took a few decades to evolve. Do you"
+}

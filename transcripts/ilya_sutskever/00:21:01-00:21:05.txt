@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:21:01",
+  "End": "00:21:05",
+  "Text": "do you mean by unity? Like overlap of ideas,"
+}

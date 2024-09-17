@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:13:58",
+  "End": "01:14:11",
+  "Text": "do you think it takes to? Let's talk about a gi a little bit. What do you think it takes to build a system of human level intelligence? We talked about reasoning, we talked about long term memory, but in general, what does it take? Do you think?"
+}

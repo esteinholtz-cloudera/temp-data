@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:14:50",
+  "End": "00:15:02",
+  "Text": ", some kind of recurrence, I think very likely neural networks for, as their thought of for processing sequences. I think it's also possible"
+}

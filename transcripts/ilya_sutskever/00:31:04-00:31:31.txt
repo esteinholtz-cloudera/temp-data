@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:31:04",
+  "End": "00:31:31",
+  "Text": "you have insights of what? So you just said empirical evidence is most of your of empirical evidence kind of convinces you. It's like evolution is empirical, it shows you that look this evolutionary process seems to be a good way to design that survive in their environment. But it doesn't really get you to the insides of how the whole thing"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:44:55",
+  "End": "00:45:26",
+  "Text": "think it will, I think, well, I don't want to make two overly definitive statements. I think it's definitely possible that the neural networks that will produce the reasoning, breakthroughs of the future will be very similar to the architecture that exist today. Maybe a little bit more recurrent, maybe a little bit deeper. But these, these neurons are so insanely powerful, why wouldn't they be able to learn to reason can reason? why can't neural networks?"
+}

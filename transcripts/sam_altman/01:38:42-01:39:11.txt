@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:38:42",
+  "End": "01:39:11",
+  "Text": "you're right. It's excited. It's ner nervous for change, nervous whenever there is significant, exciting kind of change. Um You know, I've recently started using um, I've been an emacs person for a very long time and I switched to VS Code a plot. That was one of the big reasons because this is where a lot of active development. Of course, you can probably do a copilot inside emacs. I mean, I'm sure I'm sure"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:48:11",
+  "End": "00:48:48",
+  "Text": "to hear the presentation. I gave no way. Yeah. Journalists just took a snapshot., I learned from this. right. When GP T three was released, I gave uh this on youtube, I gave a description of what it is spoke to the limitations of the parameters and where it's going and I talked about the human brain and how many parameters it has synapses and so on perhaps like an idiot, perhaps not. I said GP T four. The next as it progresses, what I should have said is GP TN or"
+}

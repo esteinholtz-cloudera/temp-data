@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:41:19",
+  "End": "01:41:26",
+  "Text": ". So in terms of really replace jobs, is that a worry for you?"
+}

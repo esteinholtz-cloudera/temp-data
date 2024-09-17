@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:18:46",
+  "End": "01:18:52",
+  "Text": "would be quite exciting if open A I reasoning team was able to prove that P equals NP, that would be very"
+}

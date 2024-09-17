@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:28:13",
+  "End": "01:28:44",
+  "Text": "mean, so much. Right. Like he has, has driven the world forward in important ways. I think we will get to electric vehicles much faster than we would have if he didn't exist. I think we'll get to space much faster than we would have if he didn't exist. a sort of like of the world, I'm very appreciative of that also like being a jerk on Twitter aside in many instances, he's like a very funny and warm guy"
+}

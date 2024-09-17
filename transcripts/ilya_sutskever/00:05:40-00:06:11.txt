@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:05:40",
+  "End": "00:06:11",
+  "Text": "your most of your intuition from empirical results by you and by others. So just actually demonstrating that a piece of program can train a 10 layer neural network or was there some pen and paper or marker and whiteboard thinking intuition? Because you just connected a 10 layer large neural network to the brain. So you just mentioned the brain. So in your intuition about neural networks, does the human brain into play as a intuition builder?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:01:25",
+  "End": "01:01:51",
+  "Text": ", the assumption there out of distribution is that it's possible to create new new ideas. Uh The, you know, it's possible that nobody's ever created any new ideas. And then with scaling GP T two to GP T 20 you would, you would essentially generalize to all possible thoughts that humans could have to play"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:10:33",
+  "End": "01:10:39",
+  "Text": "don't know because that's more in the space of facts versus like emotions. I"
+}

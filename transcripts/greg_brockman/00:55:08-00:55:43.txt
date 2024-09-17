@@ -1,0 +1,6 @@
+{
+  "Speaker": "Greg Brockman",
+  "Start": "00:55:08",
+  "End": "00:55:43",
+  "Text": ", here's another question is, is, you know, why, why is, why is solving this problem important, right? Like what aspects are really important to us? And I think that probably where we'll end up is we'll hone in on what do we really want out of knowing if we're talking to a human? Um And uh and I think that again, this comes down to identity. And so I think that, the internet of the future, I expect to be one that will have lots of agents out there uh that will interact with with you. But I think that the question of is this, you know, a flesh, real flesh and blood human or is this an automated system uh may, may actually just be less important,"
+}

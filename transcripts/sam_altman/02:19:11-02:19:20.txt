@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:19:11",
+  "End": "02:19:20",
+  "Text": "a much better estimate than the Drake equation with the knowledge we already have and maybe process all the because we've been collecting a lot of,"
+}

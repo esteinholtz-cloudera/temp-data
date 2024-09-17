@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:08:12",
+  "End": "02:08:47",
+  "Text": "mean, Microsoft, I'm guessing like IBM or like a lot of companies have been at it for a while, probably have like old school kind of momentum. you like inject a I into it, it's, it's very tough or, or anything even like open. So the, the culture of open source, like, how, how hard is it to walk into a room and be like, the way we've been doing, things are totally wrong. Like, I'm sure there's a lot of firing involved or a little like twisting of arms or something. So do you have to rule by fear by love? Like what can you say to the leadership aspect of this?"
+}

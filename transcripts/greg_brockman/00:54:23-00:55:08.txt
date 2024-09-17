@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:54:23",
+  "End": "00:55:08",
+  "Text": ", that's, that's quite interesting. I mean, ultimately, it boils down to physical world being the last frontier of proving. So you said, like basically networks of people, humans vouching for humans in the physical world and somehow the authentication ends there. I mean, if I had to ask you, mean, you're way too eloquent for a human. So if I had to ask you to authenticate, like prove, how do I know you're not a robot? And how do you know I'm not a robot. I think that's so far we're in this space, this conversation, we just had the physical movements we did is the biggest gap between us and A I systems is the physical manipulation. So maybe that's the last frontier."
+}

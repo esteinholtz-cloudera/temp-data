@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:51:18",
+  "End": "00:51:44",
+  "Text": "in some sense, the parameters already do that parameters are an aggregation of the day of the neural, of the entirety of the neural experience. And so they count as the long as long form long term knowledge people have trained various neural nets to act as knowledge base and you know, investigated people have investigated language and models as knowledge basis. So is work, there is work there."
+}

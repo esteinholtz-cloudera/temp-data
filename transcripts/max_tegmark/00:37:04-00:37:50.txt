@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:37:04",
+  "End": "00:37:50",
+  "Text": "in that picture, what would be the role of creativity? We had a few people ask about creativity. you think when you think about intelligence? I mean, certainly the uh the story you told at the beginning of your book involved, you know, creating movies and so on, sort of making, making money, you know, you can make a lot of money in our modern world with music and movies. So if you are an intelligence system, you may want to get good at that. that's not necessarily what I mean by creativity. Is it important on that complex goals where the sea is rising for there to be something creative or am I being very human centric and thinking? Creativity is somehow special relative to intelligence."
+}

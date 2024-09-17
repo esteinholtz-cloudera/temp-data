@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:31:01",
+  "End": "00:31:14",
+  "Text": "just the message and in general how you were able to make GP T four more steerable on the interaction that you just can have with it, which is one of his big, really powerful things."
+}

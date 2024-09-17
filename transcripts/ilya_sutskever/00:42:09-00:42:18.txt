@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:42:09",
+  "End": "00:42:18",
+  "Text": "You're saying that once we discover in the mechanism of learning in the brain or any aspects of that mechanism, we should also try to implement that in your network if it"
+}

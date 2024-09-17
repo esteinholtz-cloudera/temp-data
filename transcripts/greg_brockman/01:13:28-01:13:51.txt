@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:13:28",
+  "End": "01:13:51",
+  "Text": ", you mentioned, beat the world expert one V one then uh you didn't, weren't able to win five U five this year at the best players in the world. So what's, what's the comeback story? What's first of all, talk through that exceptionally exciting event and uh what's, what's the following months and this year look like?"
+}

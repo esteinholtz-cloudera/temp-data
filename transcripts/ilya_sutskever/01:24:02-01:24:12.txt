@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:24:02",
+  "End": "01:24:12",
+  "Text": "kind of hard to judge what depth means. But there's definitely a sense in which humans don't make mistakes that these models do."
+}

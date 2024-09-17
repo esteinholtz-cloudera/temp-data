@@ -1,0 +1,6 @@
+{
+  "Speaker": "Max Tegmark",
+  "Start": "00:07:56",
+  "End": "00:08:33",
+  "Text": ", yeah. When I was a teenager., I was al already very fascinated by the biggest questions and I felt that the two biggest mysteries of all in science were our universe out there and our universe in here. Yeah. So it's quite natural after having spent of a century uh on my career thinking a lot about this one that I now indulging in the luxury of, of doing research on this one. It's just so cool. I feel the time is right now for trans greatly deepening our understanding of this"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:21:04",
+  "End": "01:21:21",
+  "Text": ", I'd say I'd make the following argument, which is are conscious. if you believe that artificial neural nets are sufficiently similar to the brain, then they should at least exist artificial neural nets. You should be conscious to,"
+}

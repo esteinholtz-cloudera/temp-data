@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:23:08",
+  "End": "00:23:51",
+  "Text": "let me pause just because, um, I am a very kind of human centric way. See fear of death as a valuable motivator. So you don't think so do you think that's an artifact of evolution? So that's the kind of mind space evolution created that we're sort of almost obsessed about self-preservation, some kind of genetic. Well, you don't think that's necessary to be afraid of death. So not just a, a kind of sub goal of self preservation just so you can keep doing the thing, but more fundamentally sort of have the finite thing like this ends you at some point."
+}

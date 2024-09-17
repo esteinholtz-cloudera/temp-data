@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:29:57",
+  "End": "00:30:21",
+  "Text": "RLHF is the process that came applied very broadly across the entire system where human basically votes. What's the better way to say something? What's, you know, if, if a person asks, do I look fat in this dress?, um, there's different ways to answer that question that's aligned with human civilization"
+}

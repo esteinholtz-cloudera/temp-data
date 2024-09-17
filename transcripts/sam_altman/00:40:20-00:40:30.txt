@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:40:20",
+  "End": "00:40:30",
+  "Text": ", but how do you offload that? is it possible for open A I to offload that onto us humans? No,"
+}

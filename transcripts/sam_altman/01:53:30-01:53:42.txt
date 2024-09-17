@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:53:30",
+  "End": "01:53:42",
+  "Text": "you look for? We can not, not even just now, but in the future, can we as a human civilization? Look for, look to for truth."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:54:43",
+  "End": "00:55:35",
+  "Text": ", I said, I'm, I'm part of those people like the, the amount I derive a lot of happiness from programming together with GP T. Part of it is a little bit of terror of, can you say more about that? a meme I saw today that everybody's freaking out about sort of GP T taking programmer jobs. No, it's uh the, the reality is just, it's going to be taking like if it's going to take your job it means you're a shitty programmer. There's some truth to that. Maybe there's some human element that's really fundamental to the Creative Act, the act of genius that is in great design that has involved in programming. And maybe I'm just really impressed by the all the boilerplate that I don't see as boilerplate but is actually pretty boilerplate."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:36:54",
+  "End": "01:37:28",
+  "Text": "think I have more serious problems than that one. think I'm like, from like the reality of life for most people trying to really not just like empathize with but internalize what the impact on people that A G I is going to have. I probably like, feel that less than other people would."
+}

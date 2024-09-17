@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:26:15",
+  "End": "00:26:19",
+  "Text": "you don't have a fundamental intuition about how hard language understanding is."
+}

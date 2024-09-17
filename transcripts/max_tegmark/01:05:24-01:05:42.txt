@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:05:24",
+  "End": "01:05:42",
+  "Text": "really interesting. Yeah. So on another architecture type, I mean you mentioned Schroeder's equation and what, what are your thoughts about quantum computing the role of this kind of um computational unit in creating an intelligence system"
+}

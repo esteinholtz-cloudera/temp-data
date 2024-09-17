@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:43:10",
+  "End": "00:43:38",
+  "Text": "you feel pressure from Clickbait journalism that looks at 10,000?, that looks at the worst possible output of GP T? you feel a pressure to not be transparent because of that because you're sort of making mistakes in public and you're burned for the mistakes? there a pressure culturally within open A I that you're afraid you like, it might close you up a little?"
+}

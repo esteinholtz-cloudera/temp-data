@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:14:10",
+  "End": "01:14:20",
+  "Text": ", I can be sure, I think the deep learning plus may be another idea."
+}

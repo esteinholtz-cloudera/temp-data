@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:08:17",
+  "End": "00:08:25",
+  "Text": "interesting question. Do you, do you think it's important or not? That's one big architectural difference between artificial neural networks and it's"
+}

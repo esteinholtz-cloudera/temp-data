@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:24:11",
+  "End": "01:24:52",
+  "Text": "same is applied to autonomous vehicles. The same is probably going to continue being applied to a lot of artificial intelligence systems. We find this is the annoying thing. This is the process of in the 21st century. The process of analyzing the progress of A I the search for one case where the system fails in a big way where humans would not. And then many people writing articles about it. And then broadly as a as a, the public generally gets convinced that the system is not intelligent and we like pacify ourselves by thinking it's not intelligent because of this one anecdotal case and this seems to continue happening."
+}

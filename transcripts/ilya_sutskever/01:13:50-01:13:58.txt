@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:13:50",
+  "End": "01:13:58",
+  "Text": "don't love this. I've been in a pure academic for 10 years. I really like sharing ideas and it's fun. It's exciting."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:30:58",
+  "End": "01:31:12",
+  "Text": "system 100%? Uh We try to avoid the bubble. Um It's harder to avoid the A I groupthink bubble that follows you everywhere."
+}

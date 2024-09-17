@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:28:30",
+  "End": "00:28:54",
+  "Text": "the mission is a powerful one and it's uh it's one that I think most people would agree with. It's how we would hope A I progresses. so how do you tie yourself to that mission? How do you make sure you do not deviate from that mission that um you know, other incentives that are profit driven wouldn't, don't interfere with the mission."
+}

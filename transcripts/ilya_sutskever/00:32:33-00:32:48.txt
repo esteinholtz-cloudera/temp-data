@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:32:33",
+  "End": "00:32:48",
+  "Text": "in biology, things are really complicated and theories are really really, it's really hard to have good predictive theory. And in physics, the theories are too good in theory in physics, people make these super precise theories which make these amazing predictions. And in machine learning, we're kind of in between, kind"
+}

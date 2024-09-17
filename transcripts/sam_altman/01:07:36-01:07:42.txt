@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:07:36",
+  "End": "01:07:42",
+  "Text": "., if, if, if you provide the right interface and the right"
+}

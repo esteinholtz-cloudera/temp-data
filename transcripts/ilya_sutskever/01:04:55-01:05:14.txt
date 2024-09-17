@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:04:55",
+  "End": "01:05:14",
+  "Text": ". So we were talking offline about translating Russian to English and how there's a lot of brilliant work in Russian that the rest of the world doesn't know about. That's true for Chinese. It's true for a lot of, for a lot of scientists and just artistic work in general. you think translation is the place where we're going to see sort of economic big impact? I,"
+}

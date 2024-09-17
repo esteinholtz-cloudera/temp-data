@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:57:38",
+  "End": "01:58:10",
+  "Text": "have a different set of challenges faced by the previous generation of companies, which is talk about free speech issues with GP T, but it's not quite the same thing. It's not like this is a computer program and it's allowed to say and it's also not about the mass spread. And the challenges that I think may have made the Twitter and Facebook and others have struggled with so much. So we will have very significant challenges but they'll be very new and very different"
+}

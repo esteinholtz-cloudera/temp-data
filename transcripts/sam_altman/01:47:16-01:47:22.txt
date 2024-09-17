@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:47:16",
+  "End": "01:47:22",
+  "Text": "do you think I come from the Soviet Union? Why do you think communism and the Soviet Union"
+}

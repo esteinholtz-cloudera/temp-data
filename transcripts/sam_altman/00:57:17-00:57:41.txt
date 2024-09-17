@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:57:17",
+  "End": "00:57:41",
+  "Text": ", actually when two A I play each other, it's not a better game by our definition of, but we just can't understand it. No, I think, I think they just draw each other. I think human flaws and this might apply across the spectrum here with a is, will make life way better, we'll still want drama. We still want imperfection and flaws and A I will not have as much of that"
+}

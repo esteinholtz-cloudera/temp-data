@@ -1,0 +1,6 @@
+{
+  "Speaker": "Max Tegmark",
+  "Start": "00:54:02",
+  "End": "00:54:25",
+  "Text": "is also very important here because I mean, look, um part of my job is being a teacher and know some very intelligent even who just a bit hard time communicating, they come up with all these brilliant ideas. But, but to communicate with somebody else, you have to also be able to simulate their own mind."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:46:53",
+  "End": "00:47:04",
+  "Text": "the way, if you could just speak to the leap from GP T 42 GP T four from 3.5 from three, is there some technical leaps or is it really focused on the alignment?"
+}

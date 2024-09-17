@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:57:01",
+  "End": "01:57:19",
+  "Text": ". And then the other is more like biological theoretical kind of discussion. And I think the answer, the nuanced answer, the GP T provider was actually pretty damn good. And also importantly saying that there is uncertainty just, just the fact that there is uncertainty as a statement was really powerful"
+}

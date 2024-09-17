@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:26:16",
+  "End": "00:26:20",
+  "Text": "or bi uh or big, uh what's the of the infinite? Yeah, we could"
+}

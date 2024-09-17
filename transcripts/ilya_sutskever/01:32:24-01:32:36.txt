@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:32:24",
+  "End": "01:32:36",
+  "Text": "on on that topic of the objective functions of human existence. What do you, what do you think is the objective function simplicity in human existence? What's the meaning of life?"
+}

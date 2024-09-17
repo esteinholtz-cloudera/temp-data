@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:15:45",
+  "End": "01:15:49",
+  "Text": ". And AJ system would surprise us fundamentally"
+}

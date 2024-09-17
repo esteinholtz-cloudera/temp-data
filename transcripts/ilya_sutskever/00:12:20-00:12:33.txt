@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:12:20",
+  "End": "00:12:33",
+  "Text": "there other things about the brain that pop into your mind that might be different and interesting for us to consider in designing artificial neural networks. So we talked about spiking a little bit."
+}

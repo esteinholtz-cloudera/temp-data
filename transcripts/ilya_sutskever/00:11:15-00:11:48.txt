@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:11:15",
+  "End": "00:11:48",
+  "Text": "that's really interesting. So if evolution doesn't really have a cost function, like a cost function based on its akin to our mathematical conception of a cost function, then do you think cost functions and deep learning are holding us back? Yeah. So you just kind of mentioned that cost function is, is a nice first profound idea. you think that's a good idea? Do you think it's an idea we'll go past? self play starts to touch on that a little bit in reinforcement learning systems."
+}

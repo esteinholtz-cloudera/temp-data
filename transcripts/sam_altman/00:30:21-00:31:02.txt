@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:30:21",
+  "End": "00:31:02",
+  "Text": "there's no one set of human values or there's no one set of right answers to human civilization. I think what's going to have to happen is we will need to agree on as a society on very broad bounds. We'll only be able to agree on a very broad bounds of what these systems can do. And then within those, maybe different countries have different rlhf tunes. Certainly individual users have very different preferences. We launched this thing with GP T four called the system message, which is not RLHF but is a way to let users have a good degree of steer ability over what they want. And I think things like that will be important. He"
+}

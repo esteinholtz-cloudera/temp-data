@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:17:26",
+  "End": "02:17:38",
+  "Text": ", there's a lot of interesting possibilities. I think you'll discover them. I think as you go along, that's the whole point. Like the things you say in this conversation, you might in a year say this"
+}

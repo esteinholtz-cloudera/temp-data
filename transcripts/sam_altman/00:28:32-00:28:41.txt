@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:28:32",
+  "End": "00:28:41",
+  "Text": "some wisdom, some insights about that process that you learned how to solve that problem that you can speak to how to solve the"
+}

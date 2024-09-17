@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:26:10",
+  "End": "02:26:14",
+  "Text": ". And all of that was on this one exponential curve."
+}

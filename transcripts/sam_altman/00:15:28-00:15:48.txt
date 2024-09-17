@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:15:28",
+  "End": "00:15:48",
+  "Text": "know, like any new branch of science, there's, we're going to discover new things that don't fit the data and have to come up with better explanations and, know, that is the ongoing process of discovery in science. But with what we know now, even what we had in that GP T four blog post, like I think we should all just be in awe of how amazing it is that we can even predict to this current"
+}

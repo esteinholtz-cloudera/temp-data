@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:44:53",
+  "End": "01:45:19",
+  "Text": "we can linger on it, how do you think the economic and political systems will change as A I becomes a prevalent part of society. It's such an interesting sort of philosophical question. looking 1020 50 years from now, does the economy look like? What does politics look like? Do you see significant transformations in terms of the way democracy functions? Even?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:12:48",
+  "End": "00:13:16",
+  "Text": "STD it, it's a particular learning rule that uses spike timing to figure out how to determine how to update the. So it's kind of like if a synapse fires into the neuron before the neuron fires, then it strengthens the synapse. And if the synapse fires into the neuron shortly after the neuron fire, then it weakens the synapse something along this line, I'm 90% sure it's right. So if I said something wrong here, don't, don't get too angry,"
+}

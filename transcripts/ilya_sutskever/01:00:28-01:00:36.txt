@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:00:28",
+  "End": "01:00:36",
+  "Text": "with size you quickly run out of syntax, the model and then you really start to focus on the semantics would be the"
+}

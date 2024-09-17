@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:15:01",
+  "End": "00:15:07",
+  "Text": "is to you a recurrent neural network? And generally speaking, I guess what is a recurrent neural"
+}

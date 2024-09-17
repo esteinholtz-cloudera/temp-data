@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:29:44",
+  "End": "01:30:50",
+  "Text": ". Honestly, I barely know what woke means anymore. I did for a while and I feel like the word is morphed. So I will say, I think it was too biased and always be, there will be no one version of GP T that the world ever agrees is unbiased. think is we've made a lot like, again, even some of our harshest critics have gone off and been tweeting about 3.5 to 4 comparisons and be like, wow, these people really got a lot better, not that they don't have more work to do and we certainly do, but I, I appreciate critics who display intellectual honesty like that. And there's been more of that than I would have thought. Um We will try to get the default version to be as as possible, but as neutral as possible is not that neutral if you have to do it again for more than one person. And so this is where more steer ability, more control in the hands of the user of the system message in particular I think the real path forward as you pointed out these nuanced answers to look at something from several angles."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:49:20",
+  "End": "01:49:31",
+  "Text": ", that's true. would be nice. It would be nice if, whether it's engineered in or revealed to be happening, it would be nice for it to be happening"
+}

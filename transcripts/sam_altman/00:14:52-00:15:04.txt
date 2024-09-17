@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:14:52",
+  "End": "00:15:04",
+  "Text": "that so remarkable? By the way that there's like there's like a lot of science that lets you predict for these inputs, here's what's going to come out the other end. Like here's the level of intelligence you can expect,"
+}

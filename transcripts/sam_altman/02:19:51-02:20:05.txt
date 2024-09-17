@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:19:51",
+  "End": "02:20:05",
+  "Text": "source of joy and happiness and fulfillment of life is from other humans. So it's mostly nothing unless it causes some kind of threat. But that threat would have to be literally a fire."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Greg Brockman",
+  "Start": "01:18:27",
+  "End": "01:18:46",
+  "Text": "think so. Right. And I think that there's, there's, there's kind of other problems that are dual to theory improving in particular. Um You know, you think about uh programming, uh you think about even like security analysis of, of code um that these all kind of capture the same sorts of core reasoning and, and being able to do some out of distribution generalization."
+}

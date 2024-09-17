@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:23:05",
+  "End": "00:23:25",
+  "Text": "mean, reinforcement learning has some aspects of language and vision combined. Almost there's elements of a long term memory that you should be utilizing and there's elements of a really rich sensory space. So it seems like the, it's like the union of the two or something like that."
+}

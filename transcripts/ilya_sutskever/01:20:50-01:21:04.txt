@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:20:50",
+  "End": "01:21:04",
+  "Text": "you think that's an emergent thing that just comes from? Do you think consciousness could emerge from the representation that's stored within your networks. So like that, it naturally just emerges when you become more and more you're able to represent more and more of the world."
+}

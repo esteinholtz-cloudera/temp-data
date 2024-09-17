@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:48:02",
+  "End": "00:48:09",
+  "Text": "that's the the large circuit might be one that's helpful for the regular for the generalization. Yeah,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:21:39",
+  "End": "01:21:55",
+  "Text": "is a beautiful place to be in the world, terrifying but mostly beautiful. So that might make you and a handful of folks, the most powerful humans on earth. Do you worry that power might corrupt you"
+}

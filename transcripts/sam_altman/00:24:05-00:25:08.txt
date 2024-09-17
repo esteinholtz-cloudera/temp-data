@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:24:05",
+  "End": "00:25:08",
+  "Text": "I should say on this point, I've gotten to know Jordan Peterson and um I tried to talk to GP T four about Jordan Peterson and I asked it if Jordan Peterson is a fascist. of all, it gave context, it described actual like description of who Jordan Peterson is, his career psychologist and so on, it stated that uh some number of people have called Jordan Peterson a fascist, but there is no factual grounding to those claims. And it described a bunch of stuff that Jordan believes. Like he's been an outspoken critic of um various totalitarian um and he believes in individualism and various freedoms that contradict the ideology of fascism and so on. And it goes on and on, like really nicely and it wraps it up. It's, it's a college essay. I was like,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:11:54",
+  "End": "00:12:03",
+  "Text": "the feeling of alignment. Yes, I mean, that could be a more technical term for it. you're saying that not much data is required for that, not much human supervision is"
+}

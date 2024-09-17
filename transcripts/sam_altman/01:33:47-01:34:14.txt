@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:33:47",
+  "End": "01:34:14",
+  "Text": ". What I find, unfortunately, ever since COVID even more so that there's almost an emotional barrier, it's not even an intellectual barrier before they even get to the intellectual. There's an emotional barrier that says no, anyone who might possibly believe X, an idiot, they're evil, they're malevolent anything you want to assign. It's like they're not even loading in the data into their head. Look,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:26:16",
+  "End": "00:26:23",
+  "Text": "what you're implying in that statement is we took such giant leaps on the big stuff and we're complaining or arguing about small stuff."
+}

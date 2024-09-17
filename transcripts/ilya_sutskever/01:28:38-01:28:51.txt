@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:28:38",
+  "End": "01:28:51",
+  "Text": ", that's part of their. So it's not that they can't help but be controlled. But that's, that's um,, they exist that one of the objectives of their existence is to be controlled"
+}

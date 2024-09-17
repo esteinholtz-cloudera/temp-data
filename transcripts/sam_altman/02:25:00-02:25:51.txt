@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:25:00",
+  "End": "02:25:51",
+  "Text": "what I was going to say is, I don't think it's a small group of people. I think this is the, I think this is like the of the culmination of whatever you want to call it an amazing amount of human effort. And if you think about everything that had to come together for this to happen, those people discovered the transistor in the forties, like, is this what they were planning on all of the work that hundreds of thousands millions of people would ever? It's been that it took to go from one first transistor to packing the numbers we do into a chip and figuring out how to wire them all up together everything else that goes into this, the energy required the science just every, every step like is the output of like all of us. I think that's pretty cool."
+}

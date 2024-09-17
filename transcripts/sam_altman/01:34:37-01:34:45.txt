@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:34:37",
+  "End": "01:34:45",
+  "Text": "you anticipate? Do you worry about pressures from outside sources, from society, from politicians, from money sources?"
+}

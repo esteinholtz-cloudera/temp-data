@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:24:02",
+  "End": "01:24:14",
+  "Text": "know they're good people. I know a lot of people, I know they are good human beings. Um From a perspective of people that don't know the human beings, there's a concern of a super powerful technology in the hands of a few that's closed, it's"
+}

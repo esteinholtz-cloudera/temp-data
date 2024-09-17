@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:53:50",
+  "End": "01:54:11",
+  "Text": "have generally epistemic humility about everything and I'm freaked out by how little I know and understand about the world. So that even that question is terrifying to me. a bucket of things that are, a high degree of truthiness, which is where you put math. A lot of math"
+}

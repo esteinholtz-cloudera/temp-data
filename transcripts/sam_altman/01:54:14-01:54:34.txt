@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:54:14",
+  "End": "01:54:34",
+  "Text": ", I mean, some quite a bit of physics. Are there historical facts? Maybe dates of when a war started. There's a lot of details about military conflict inside, inside history. Of course, you start to get, you know, just read blitzed, which is this, oh, I want to"
+}

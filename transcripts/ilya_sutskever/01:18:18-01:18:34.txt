@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:18:18",
+  "End": "01:18:34",
+  "Text": ", the simulation was generally, so the simulation was trained to be robust to many different things but not the kind of perturbations we've had in the video. So it's never been trained with the glove, it's never been trained with a stuffed"
+}

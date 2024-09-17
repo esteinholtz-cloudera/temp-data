@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:19:46",
+  "End": "01:20:25",
+  "Text": "? We can't control what other people are going to do. Um We can try to build something and talk about it and influence others and provide value and you know, good systems for the world, but they're going to do what they're going to do. I think right now there's like fast and not super deliberate motion inside of some of these companies. But already I think people are as they see rate of progress, people are grappling with what's at stake here. And I think the better angels are gonna win out."
+}

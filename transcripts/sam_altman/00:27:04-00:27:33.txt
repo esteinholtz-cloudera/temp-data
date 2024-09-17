@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:27:04",
+  "End": "00:27:33",
+  "Text": ", I mean, there is, and you do, there's folks that open A I including yourself that do see the importance of these issues to discuss about them under the big banner of A I safety. That's something that's not often talked about with the release of GP T four. How much went into the safety concerns? How long also you spend on the safety concern? Can you, can you go through some of that process? What went into A I safety considerations of GP T four release?"
+}

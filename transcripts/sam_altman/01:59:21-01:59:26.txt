@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:59:21",
+  "End": "01:59:26",
+  "Text": "there could be harm caused by this tool and there will be harm"
+}

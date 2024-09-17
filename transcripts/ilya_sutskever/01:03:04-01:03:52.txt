@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:03:04",
+  "End": "01:03:52",
+  "Text": ", a little, little. Yeah, I mean, it's hard, it's hard to remember because you adapt really quickly, but it definitely was surprising. It definitely was, in fact, I'll, you know what I'll, I'll retract my statement. It was, it was pretty amazing. It was just amazing to see generate this text of this and you know, you got to keep in mind that we've seen at that time, you've seen all this progress in Gans in improving the, you know, the samples produced by Gans were just amazing. You have these realistic faces but text hasn't really moved that much suddenly we moved from, you know, whatever Gans were in 2015 the best, most amazing dance in one step. And I was really stunning even though theory predicted, yeah, you train a big language model, of course, you should get this. But then to see it with your own eyes, it's something else."
+}

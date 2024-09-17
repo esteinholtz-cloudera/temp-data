@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:41:16",
+  "End": "00:41:51",
+  "Text": "know, we've talked about putting out the base model, at least for researchers or something, but it's not very easy to use. Everyone's like, give me the base model. And again, we might, we might do that. I think what people mostly want is they want a model that has been rlhd the world view, they subscribe to, it's really about regulating other people's speech. Like people, you know, like in the debates about what set up in the Facebook feed. I having listened to a lot of people talk about that. Everyone is like, well, it doesn't matter what's in my feed because I won't be radicalized. I can handle anything. But I really worry about what Facebook shows you."
+}

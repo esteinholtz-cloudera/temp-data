@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:15:35",
+  "End": "02:15:48",
+  "Text": "one perspective, perspective I would take if it's done transparently, is projecting creatures onto a tool, makes that tool more usable if it's done well. Yeah. So"
+}

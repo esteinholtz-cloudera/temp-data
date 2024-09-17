@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:06:48",
+  "End": "01:07:31",
+  "Text": "mean for, I think for for sure, seeing what larger versions can do is one direction also, mean, there are many questions, there is one question which I'm curious about that following. So right now GPD two. So we feed it all this data from the internet, which means that it needs to memorize all those random facts about everything in the internet. it would be nice if model could somehow use its own intelligence to decide what data it wants to accept and what data it wants to reject. Just like people, people don't learn all data. Indiscriminately, we are super selective about what we learn. And I think this kind of active learning, I think would be very nice to have."
+}

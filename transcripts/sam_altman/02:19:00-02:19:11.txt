@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:19:00",
+  "End": "02:19:11",
+  "Text": "help us figure out how to go detect meaning to like send some emails to humans and say, can you run these experiments? Can you build the space probe? Can you wait, you know, a very long time or"
+}

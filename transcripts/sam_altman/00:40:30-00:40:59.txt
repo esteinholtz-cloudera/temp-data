@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:40:30",
+  "End": "00:40:59",
+  "Text": "have to be involved. Like I don't think it would work to just say like, hey, un go do this thing and we'll just take whatever you get back because we have a, we have the responsibility if we're the one putting the system out and if it breaks, we're the ones that have to fix it or be accountable for it. But b we know more about what's coming about where things are hard or easy to do than other people do. So we've got to be involved heavily involved. We've got to be responsible in some sense, but it can't just be our input."
+}

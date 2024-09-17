@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:49:04",
+  "End": "00:49:26",
+  "Text": "way. I mean, it's not good because again, size is not everything, but also people just take a lot of these kinds of discussions out of context. But it is interesting to, I mean, that's what I was trying to do to, to compare in different ways the difference between the human brain and the neural network. And this thing is getting so impressive. This is like"
+}

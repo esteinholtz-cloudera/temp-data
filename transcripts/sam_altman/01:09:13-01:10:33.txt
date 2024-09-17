@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:09:13",
+  "End": "01:10:33",
+  "Text": "I can just share a few disconnected thoughts here. But I'll tell you something that Ilya said to me once a long time ago that has stuck in my head. go yes, my co founder and the chief scientist to open the eye and sort of legend in the field. Um were talking about how you would know if a model were conscious or not many ideas thrown around. But he said one that, that I think is interesting if you trained a model on a data set that you were extremely careful to have no mentions of consciousness or anything close to it the training process. Like not only was the word never there but nothing about the sort of subjective experience of it or related concepts. then you started talking to that model about are things that you weren't trained about. And for most of them, the model was like, I have no idea what you're talking about. But then you asked it, you sort of described the, the subjective experience of consciousness and the model immediately responded, unlike the other questions. Yes, I know exactly what you're talking about.. would update me somewhat."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:47:48",
+  "End": "00:48:04",
+  "Text": "Let me ask you the all important question about size. the size matter in terms of neural networks with how good the system performs. So GP T 33.5 had 100 75 billion. I heard GP"
+}

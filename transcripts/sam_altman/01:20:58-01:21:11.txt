@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:20:58",
+  "End": "01:21:11",
+  "Text": ", nobody wants to destroy the world. Let me ask you a tough question. So are very likely to be one of not the person that creates a G I"
+}

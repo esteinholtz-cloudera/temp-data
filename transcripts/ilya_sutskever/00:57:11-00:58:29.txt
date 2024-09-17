@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:57:11",
+  "End": "00:58:29",
+  "Text": ", there's been lots of history, I think, I think the network was, was a, was a small tiny recurrent neural network applied to language back in the eighties. So the history is really, know, fairly long, at least. the thing that started the thing that changed the trajectory of neural networks and language is the thing that changed the trajectory of all deep learning and that state and compute. So suddenly you move from small language models which learn a little bit. And with language models in particular, you can, there's a very clear explanation for why they need to be large to be good because they're trying to predict the next word. So we don't, when you don't know anything, you'll notice very, broad stroke surface level patterns. Like there are characters and there is a space between those characters. You'll notice this pattern and you'll notice that sometimes there is a comma and then the next character is a capital letter. You'll notice that pattern., you may start to notice that there are certain words occur. Often you may notice that spellings are a thing, you may notice syntax. And when you get really good at all, these, you start to notice the semantics, start to notice the facts. But for that to happen, the language model needs to be larger."
+}

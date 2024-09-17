@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:25:15",
+  "End": "01:25:24",
+  "Text": ". There's a handful of companies, a handful of folks that are really pushing this forward. They're amazing folks and I don't want them to become cynical about the rest of the rest of the world."
+}

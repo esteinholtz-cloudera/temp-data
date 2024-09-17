@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:34:45",
+  "End": "01:34:58",
+  "Text": "both worry about it and want it like, you know, to the point of we're in this bubble and we shouldn't make all these decisions. We want society to have a huge degree of input here. That is pressure in some point in some way. Well,"
+}

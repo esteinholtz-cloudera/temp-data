@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:08:31",
+  "End": "01:09:31",
+  "Text": "really interesting. OK. So as a component of kind of the learning process, for example, yeah, let me ask sort of wrapping up here a little bit. Let me, let me return to uh the questions of our human nature and, and love as I mentioned. do you think mentioned sort of a helper robot? But you could think of also personal robots. Do you think the way we human beings fall in love and get connected to each other is possible to achieve in an A I system and human level A I intelligence system? Do you think we would ever see that kind of connection uh you know, in all this discussion about solving complex goals as this kind of human social connection? Do you think that's one of the goals on on the peaks and valleys that with the raising sea levels that we would be able to achieve? Or do you think that's something that's ultimately or at least in the short term relative to the other goals is not achievable?"
+}

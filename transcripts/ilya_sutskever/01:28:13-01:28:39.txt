@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:28:13",
+  "End": "01:28:39",
+  "Text": "I think that it's def it's definitely really possible to build you're talking. So the question that I really understand from you is will, will humans or humans, people have control over the A I systems that they build? And my answer is, it's definitely possible to build A I systems which will want to be controlled by their humans."
+}

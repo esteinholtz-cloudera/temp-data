@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:14:52",
+  "End": "02:15:06",
+  "Text": "you could because you watch it develop. But then again, I watch a lot of stuff develop and I always go to him and her, I anthropomorphize aggressively. certainly mo most humans do. I, I"
+}

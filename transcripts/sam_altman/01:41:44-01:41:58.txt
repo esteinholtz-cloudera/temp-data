@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:41:44",
+  "End": "01:41:58",
+  "Text": "like basic questions about when do I take this pill if it's a drug company or when? I don't know why I went to that? But how do I use this product? Questions? How do"
+}

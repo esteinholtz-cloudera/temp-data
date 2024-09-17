@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:49:45",
+  "End": "00:50:05",
+  "Text": ", I think the thing is that right now finding there are no good precedents of people successfully finding really well. so the way you'd find programs is you'd train a deep neural network to do it. Basically is, which is the right way to go about it,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:15:57",
+  "End": "02:16:03",
+  "Text": "the more creature like it is, the more it can manipulate you emotionally or just the"
+}

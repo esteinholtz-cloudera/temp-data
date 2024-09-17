@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:21:54",
+  "End": "01:22:54",
+  "Text": "sure. Um Look, I don't, think want about this technology and certainly decisions about is running this technology to become increasingly democratic over time. We haven't figured out quite how to do this. Um But we part of the reason for deploying like this is to get the world to have time to adapt and to reflect and to think about this to pass regulation for institutions to come up with new norms for the people working out together. Like that is a huge part of why we deploy. though many of the I say to people you referenced earlier think it's really bad even they acknowledge that this is like of some benefit. Um I think any version of one person is in control this is really"
+}

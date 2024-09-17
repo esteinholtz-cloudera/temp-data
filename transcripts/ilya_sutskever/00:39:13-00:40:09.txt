@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:39:13",
+  "End": "00:40:09",
+  "Text": "here is so there is one way OK. So maybe so let me try to give the explanation and maybe that will be that will work. So you got a huge neural network, I suppose you've got a, are, you have a huge neural network, you have a huge number of parameters. now let's pretend everything is linear, which is not, let's just pretend then there is this big subspace a new kerchief zero error SGT is going to find the point approximately the point with the smallest norm in that subspace.. And that can also be proven to be insensitive to the small randomness in the data when the dimensionality is high. But when the dimensionality of the data is equal to the dimensionality of the model, then there is a 1 to 1 correspondence between all the data sets and the models. So small changes in the data set actually lead to a lot of changes in the model. And that's why performance gets worse. So this is the best explanation more or less."
+}

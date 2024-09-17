@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:02:44",
+  "End": "01:03:45",
+  "Text": "four is not surprised me at all in terms of reception there, Chad GP T surprised us a little bit, but I still was advocating that we do it because I thought it was going to do really great. Um So like, you know, maybe I thought it would have been like 10th fastest growing product in history and not the number one fastest,, ok, you know, I think it's like hard, you should never kind of assume something's going to be like the most successful product launch ever. Um But we thought it was at least many of us thought it was going to be really good. GVT four has weirdly not been that much of an update for most people. You know, they're like, oh, it's better than 3.5 but I thought it was going to be better than 3.5. And it's cool. But, you know, this is like said to me over the weekend shipped an A G I and I somehow, like, I just going about my daily life and I'm not that impressed I obviously don't think we shipped an A G I. Um But I get the point and the world is continuing on"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:33:06",
+  "End": "00:33:12",
+  "Text": "? Definitely, I think that we are still massively underestimating deep learning."
+}

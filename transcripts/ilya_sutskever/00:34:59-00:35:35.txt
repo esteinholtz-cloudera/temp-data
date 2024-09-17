@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:34:59",
+  "End": "00:35:35",
+  "Text": "I see, think it's pretty unlikely. think it's pretty unlikely. I think that there are many, the, the stack of deep learning is starting to be quite deep. you look at it, you've got all the way from ideas, the systems to build the data sets, the distributed programming, the building the actual cluster, the GP U programming, putting it all together. So now the stack is getting really deep and I think it becomes, can be quite hard for a single person to become to be world class in every single layer of the stack. What"
+}

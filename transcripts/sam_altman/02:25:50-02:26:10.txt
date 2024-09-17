@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:25:50",
+  "End": "02:26:10",
+  "Text": "before the transistor there was 100 billion people who lived and died sex, fell in love, ate a lot of good food, murdered each other, sometimes, rarely, but mostly good to each other. Struggled to survive. And before that, there was bacteria and eu carats and all"
+}

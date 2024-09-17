@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:10:01",
+  "End": "00:10:15",
+  "Text": "is JG BT? What is RLHF reinforcement learning with human feedback? What was that little magic ingredient to the dish that made it so much more delicious?"
+}

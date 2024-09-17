@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:49:14",
+  "End": "00:49:25",
+  "Text": "that because if you can and whereas if you say, hey, let's find the shortest program, well, we can't do that. So it doesn't matter how useful that would be, can do it. So we won't."
+}

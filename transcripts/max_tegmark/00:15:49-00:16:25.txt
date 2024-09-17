@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:15:49",
+  "End": "00:16:25",
+  "Text": "such a difficult question because uh know, it's like when you're in a relationship and you say, well, I love you and the other person, I love you back. It's like asking, well, do they really love you back or are they just saying they love you back? Uh Do, don't you really want them to actually love you? I, it's hard to, it's hard to really know the difference between, uh, everything seeming like there's consciousness present, there's intelligence present, there is affection, passion, love, and it actually being there, I'm not sure. Do you have,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:23:10",
+  "End": "01:23:18",
+  "Text": "do you think we're doing like honest, how do you think we're doing so far? Like, how do you think our decisions are like, do you think we're making things better or worse? What can we do better?"
+}

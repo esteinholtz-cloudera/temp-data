@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:34:12",
+  "End": "01:34:46",
+  "Text": "very different. I think, I think, I think that probably is an evolutionary objective function which is to survive and procreate and make you make your Children succeed. would be my guess. But it doesn't give an answer to the question of what's the meaning of life. I think you can see how humans are part of this big process. This ancient process, we are, we are we exist on a small planet that's it. given that we exist, try to make the most of it and try to enjoy more and suffer less as much as we can."
+}

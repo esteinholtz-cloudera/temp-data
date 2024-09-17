@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:19:28",
+  "End": "01:19:31",
+  "Text": "is that it's much, much lower for like new investors. Now,"
+}

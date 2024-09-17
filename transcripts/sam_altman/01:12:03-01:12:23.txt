@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:12:03",
+  "End": "01:12:23",
+  "Text": "I think there's many other tasks, like that, we could look at too. Um you know, my personal beliefs, of very strange is going on. that."
+}

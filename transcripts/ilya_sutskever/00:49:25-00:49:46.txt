@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:49:25",
+  "End": "00:49:46",
+  "Text": "do you think you kind of mentioned that the neural networks are good at finding small circuits or large circuits? you think then the matter of finding small programs is just the data? No, sorry, not the size or character, the type of data sort of ask giving it programs?"
+}

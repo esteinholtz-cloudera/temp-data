@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:12:22",
+  "End": "01:12:31",
+  "Text": "you think it's attached to the particular medium of the human brain? Do you think an A I can be conscious?"
+}

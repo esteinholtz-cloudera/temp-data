@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:04:20",
+  "End": "02:04:37",
+  "Text": ". So then then you have a passion for the, for the, for the goal here. So everybody's really passionate across the different team. We care. How do you hire, how do you hire great teams. The folks I've interacted with open the eyes. Some of the most amazing folks I've ever met."
+}

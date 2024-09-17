@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:33:44",
+  "End": "01:34:12",
+  "Text": ". But they're so dynamic there, there's got to be some underlying sort of Freud. There's things, there's like sexual stuff, there's people who think it's the fear, fear of death and there's also uh the desire for knowledge and, you know, all these kinds of things of procreation, the sort of all the evolutionary arguments, it seems to be, there might be some kind of fundamental objective function from, from which everything else um emerges. it seems like"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:03:41",
+  "End": "02:03:59",
+  "Text": "GP T four is a pretty complex system. Like you said, there's like a million little hacks you can do to keep improving it. Uh There's the cleaning of the data set, all that, all those are like separate teams. So do you give autonomy? Is there just autonomy to these fascinating different problems?"
+}

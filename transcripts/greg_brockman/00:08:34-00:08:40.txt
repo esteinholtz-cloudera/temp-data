@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:08:34",
+  "End": "00:08:40",
+  "Text": "you wouldn't ask your colleague, you wouldn't ask, like Ilia, you would ask the A G I system. Oh,"
+}

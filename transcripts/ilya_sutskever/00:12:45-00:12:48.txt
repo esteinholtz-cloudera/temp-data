@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:12:45",
+  "End": "00:12:48",
+  "Text": ", sorry, spike time independent plasticity. Yeah,"
+}

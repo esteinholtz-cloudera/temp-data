@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:53:09",
+  "End": "00:53:15",
+  "Text": ", how do you, how do you make smart neural networks like language models interpretable?"
+}

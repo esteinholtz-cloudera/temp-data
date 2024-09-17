@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:24:14",
+  "End": "01:24:36",
+  "Text": "in some sense, but we give more access to it. And if this had just been Google's game, feel it's very unlikely that anyone would have put this api out. There's pr risk with it. I get personal threats because of it all the time. I think most companies wouldn't have done this. So maybe we didn't go as open as people wanted, but like we've distributed it pretty broadly. You"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:41:34",
+  "End": "00:41:38",
+  "Text": "the the spurious correlation which you don't want. Jeff"
+}

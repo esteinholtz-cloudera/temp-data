@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:13:15",
+  "End": "01:13:50",
+  "Text": ", it's uh tend to believe in the, the, the better angels of our nature, but I do hope A when you build a really powerful A I system in a particular domain that you also think about potential negative consequences of. Um Yeah, an interesting and scary possibility that there will be a race for a A I development that would push people to close that development and not share ideas with others."
+}

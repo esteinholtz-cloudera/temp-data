@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:07:11",
+  "End": "01:07:20",
+  "Text": "me. Some of the human factors are important here. you think four is conscious?"
+}

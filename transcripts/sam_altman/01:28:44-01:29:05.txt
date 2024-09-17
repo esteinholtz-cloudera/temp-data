@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:28:44",
+  "End": "01:29:05",
+  "Text": "some of the jerk on Twitter thing a fan of humanity laid out in its full complexity and beauty, I enjoy the tension of ideas expressed. So, you know, I earlier said that I admire how transparent you are, but I like how the battles are happening before our eyes as opposed to everybody closing off inside boardrooms. It's all laid"
+}

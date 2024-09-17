@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:16:11",
+  "End": "02:16:24",
+  "Text": "if it is capable? What about Sam Altman? What if it's capable of love? you think there will be romantic relationships, like in the movie? Her with GP? T"
+}

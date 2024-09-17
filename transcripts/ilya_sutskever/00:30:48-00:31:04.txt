@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:30:48",
+  "End": "00:31:04",
+  "Text": "mean, some definitely, well, we know that optimization we, we now have good, you know, take, we've had lots of empirical, you know, huge amounts of empirical reasons to believe that optimization should work on all most problems we care about."
+}

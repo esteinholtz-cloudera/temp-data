@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:17:46",
+  "End": "01:18:31",
+  "Text": "started as a nonprofit? Um We learned early on that we were going to need far more capital than we were able to raise as a nonprofit. Um Our nonprofit is still fully in charge. There is a subsidiary capped profit so that our investors and employees can earn a certain fixed return. then beyond that, everything else flows to the nonprofit and the nonprofit is like in voting control, lets us make a bunch of non-standard decisions. Um can cancel equity, can do a whole bunch of other things. Can let us merge with another org um Protects us from making decisions that are not in any like shareholders interest. So I think as a structure that has been important to a lot of the decisions we've made. What"
+}

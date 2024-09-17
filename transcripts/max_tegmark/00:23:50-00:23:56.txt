@@ -1,0 +1,6 @@
+{
+  "Speaker": "Max Tegmark",
+  "Start": "00:23:50",
+  "End": "00:23:56",
+  "Text": ". Do, do I think it's necessary for what precisely for"
+}

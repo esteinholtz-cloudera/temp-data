@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:09:06",
+  "End": "02:09:09",
+  "Text": "getting a lot of love, not fear."
+}

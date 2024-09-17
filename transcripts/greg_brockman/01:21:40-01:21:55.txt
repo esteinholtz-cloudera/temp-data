@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:21:40",
+  "End": "01:21:55",
+  "Text": "me just keep with the speculation. Do you think uh to create intelligence, general intelligence, you need one consciousness and to a body? Do you think any of those elements are needed or is intelligence something that's, orthogonal to"
+}

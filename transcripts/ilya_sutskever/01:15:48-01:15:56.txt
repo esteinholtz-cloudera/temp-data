@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:15:48",
+  "End": "01:15:56",
+  "Text": "to be precise, not just, not just a random surprise but to find a surprising solution to a problem that's also useful"
+}

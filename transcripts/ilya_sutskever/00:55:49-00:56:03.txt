@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:55:49",
+  "End": "00:56:03",
+  "Text": ", I think writing, writing really good code, think proving really hard theorems, solving open ended problems with out of the box solutions"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:07:52",
+  "End": "01:08:06",
+  "Text": "mean, you don't know, obviously we can go to the freshman year dorm, late Saturday night kind of thing. You don't know that you're not a G BT four roll out in some advanced simulation. So if we're willing to go to that level, sure."
+}

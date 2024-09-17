@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:00:09",
+  "End": "01:00:28",
+  "Text": "right. Like this is the person happy with something or is the person not happy with something. And so here we had very clear evidence that a small neural net does not capture sentiment while a large neural net does. And why is that? Well, our theory is that at some point you run out of syntax to models, you start to got to focus on something else"
+}

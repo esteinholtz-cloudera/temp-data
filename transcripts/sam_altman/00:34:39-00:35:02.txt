@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:34:39",
+  "End": "00:35:02",
+  "Text": ". So in the process, the iterative process, you could um it to generate a code to do something then something the code it generates and there's something that the code does. If you don't like it, you can ask it to adjust it. a weird different kind of way of debugging, I guess for"
+}

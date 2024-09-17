@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:27:38",
+  "End": "00:27:54",
+  "Text": "think, I think it's pretty likely that yes, if we can get one, we pro our machine learning is probably that good that we can get the other. But it's not 100 I'm not 100% sure. And also I think a lot, a lot of it really does depend on your definitions,"
+}

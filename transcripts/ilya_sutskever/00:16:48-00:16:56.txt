@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:16:48",
+  "End": "00:16:56",
+  "Text": "? OK. So the question is to make sure I didn't miss anything. The key ideas that led to the success of deep learning over the past 10"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:18:38",
+  "End": "01:18:49",
+  "Text": "that those are novel perturbation. Well, that's OK. a clean small scale but clean example of a transfer from the simulated world to the to the physical"
+}

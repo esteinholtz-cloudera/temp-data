@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:35:01",
+  "End": "00:35:35",
+  "Text": ". The first versions of these systems were sort of one shot. You said what you wanted, it wrote some code and that was it. Now you can have this back and forth dialogue where you can say no, no, I meant this or no, no fix this bug or no, no, do this. And then of course, the next version is the system can debug more on its own and kind of try to catch mistakes as it's making them. But this idea of dialogue interfaces iterating with the computer as a creative tool. think that's a really big deal."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:13:38",
+  "End": "00:14:10",
+  "Text": ", there is too much like where the task is not to find stuff but to filter out, right? Yeah. is, is there a magic to that? Because that seem there seems to be several components to solve uh the design of the you could say algorithms. So like the architecture of the neural networks, maybe the size of the neural network, there's the selection of the data, the the human supervised aspect of it with, you know RL with human feedback."
+}

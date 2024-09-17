@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:40:43",
+  "End": "01:40:51",
+  "Text": "like full like does the whole thing end to end better? Not, not, not like what it's doing with you where it's helping you be maybe 10 times more productive."
+}

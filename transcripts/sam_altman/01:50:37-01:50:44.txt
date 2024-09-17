@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:50:37",
+  "End": "01:50:44",
+  "Text": ", I mean, we can absolutely take a model back off the internet. We can take, can turn an API"
+}

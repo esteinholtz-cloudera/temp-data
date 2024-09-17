@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:42:32",
+  "End": "00:43:00",
+  "Text": "? I mean, I personally am a big fan of back propagation. I think it's a great algorithm because it solves an extremely fundamental problem which is finding neural circuit subject to some constraints. I don't see that problem going your way. So that's why I, really, I think it's pretty unlikely that we'll have anything which is going to be dramatically different. It could happen. But I wouldn't bet on it right now."
+}

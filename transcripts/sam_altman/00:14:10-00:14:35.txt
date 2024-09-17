@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:14:10",
+  "End": "00:14:35",
+  "Text": ", I think one thing that is not that well understood about creation of this final product, like what it takes to make G BT four, the version of it, we actually ship out that you get to use inside of cha G BT, the number of pieces that have to all come together. And then we have to figure out either new ideas or just execute existing ideas really well at every stage of this pipeline, there's quite a lot that goes into it."
+}

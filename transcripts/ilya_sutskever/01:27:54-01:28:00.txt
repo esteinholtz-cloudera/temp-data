@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:27:54",
+  "End": "01:28:00",
+  "Text": "essentially press the reset button, say the re randomize the parameters."
+}

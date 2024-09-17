@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:43:42",
+  "End": "01:44:45",
+  "Text": "think it is a component something we should pursue. It is not a full solution. I think people work for lots of reasons besides money. I think we are going to find incredible new jobs and society as a whole and people's individuals are going to get much, much richer, but as a cushion through a dramatic transition. And as just like, know, I think the world should eliminate poverty if able to do so, I think it's a great thing to do. Um a small part of the bucket of solutions, I helped start a project called World Coin, um is a technological solution to this. We also have funded a uh like a large, I think maybe the largest and most comprehensive Universal Basic Income study part of a sponsored by opening eye. I think it's like an area we should just be, be looking into"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:22:47",
+  "End": "02:23:32",
+  "Text": ". No, I think it is like good advice in some sense, but I also think way too tempting to take advice from other people and the stuff that worked for me, which I tried to write down there probably doesn't work that well or may not work as well for other people or like other people may find out that they want to just have a super different life trajectory. And I think I mostly what I wanted by ignoring advice. I think like I tell people not to listen to too much advice, listening to advice from other people should be approached with great caution."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Greg Brockman",
+  "Start": "00:15:22",
+  "End": "00:15:58",
+  "Text": "say this in a different way. I mean, think about how, how do we align humans, right? Think about like a human baby can grow up to be an evil person or a great person. a lot of that is from learning from data, right? That you have some feedback as a child is growing up, they get to see positive examples. And so I think that that just like them, that the, the only example we have of a general intelligence uh that is able to learn from data uh to align with human values and to learn values. Um I think we shouldn't be surprised that we can do the same sorts of, of, of techniques or whether the same sort of techniques end up being how we, we, we saw value alignment for a GIS."
+}

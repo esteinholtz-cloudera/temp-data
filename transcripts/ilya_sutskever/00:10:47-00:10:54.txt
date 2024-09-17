@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:10:47",
+  "End": "00:10:54",
+  "Text": ". That's really interesting. Yes. Again, it's the only one. It's kind of a, the cost function is emergent from the comparison. It's,"
+}

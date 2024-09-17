@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:56:46",
+  "End": "00:57:11",
+  "Text": ", that whole mortality thing is kind of kind of a sticky problem that we haven't quite figured out. Maybe we'll solve that one. think one of the fascinating things in your entire body of work, but also the work at open A I recently, one of the conversation changes has been in the world of language models. Can you briefly kind of try to describe the recent history of using neural networks in the domain of language and text?"
+}

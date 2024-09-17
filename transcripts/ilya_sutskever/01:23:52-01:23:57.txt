@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:23:52",
+  "End": "01:23:57",
+  "Text": ". That's definitely true. It has a lot more breadth of knowledge. Yes,"
+}

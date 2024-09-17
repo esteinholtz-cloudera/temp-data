@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:50:21",
+  "End": "00:50:43",
+  "Text": "kind of like, it's more a statement of, think that it's, I think that it's unwise to bet against deep learning and it's a, if it's a cognitive function that humans seem to be able to do then doesn't take too long for some deep neural net to pop up. That can do it too."
+}

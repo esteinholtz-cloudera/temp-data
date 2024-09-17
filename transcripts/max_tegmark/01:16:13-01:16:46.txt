@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:16:13",
+  "End": "01:16:46",
+  "Text": "think of the many various ways that can do that. Whether that's from my, my side of the world of autonomous vehicles. I, I, I'm personally actually from the camp that believes this human level intelligence is required to, to achieve something like vehicles that would actually be something we would enjoy using and being part of. So that's one example and certainly there's a lot of other types of robots in medicine so on. Uh so focusing on those and then, and then coming up with the obstacles, coming up with the ways that that can go wrong and solving those one at a time. And"
+}

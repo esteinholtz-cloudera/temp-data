@@ -1,0 +1,6 @@
+{
+  "Speaker": "Max Tegmark",
+  "Start": "00:18:41",
+  "End": "00:19:19",
+  "Text": "do think it helps a lot to have a physical embodiment to learn the kind of things about the world that are important to us, humans sure. don't think the physical embodiment is necessary after you've learned, it just have the experience. Think about when you're dreaming, right? eyes are closed, you're not getting any sensory input, you're not behaving or moving in any way, but there's still an experience there, right? so clearly, the experience that you have when you see something cool in your dreams isn't coming from your eyes. It's just the information processing itself in your brain, which is that experience, right?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:36:14",
+  "End": "01:36:20",
+  "Text": "the way, beautiful statement of humility. But I have to ask what's in what's in the negative column? I"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:52:05",
+  "End": "00:53:04",
+  "Text": ". I like, I like the word precisely. So thinking of the kind of compression of information, the knowledge base represent sort of creating a, I apologize for my sort of human centric thinking about what knowledge is because neural networks aren't interpretable necessarily with the kind of knowledge they have discovered. a good example for me is knowledge base being able to build up over time. Something like the knowledge that Wikipedia represents. a really compressed structured base, obviously not the actual Wikipedia or the language, but like a semantic web, the dream that semantic web represented. So it's a really nice compressed knowledge base or something akin to that in the non interpretable sense as neural networks would have."
+}

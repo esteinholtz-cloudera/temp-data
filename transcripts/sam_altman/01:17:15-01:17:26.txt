@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:17:15",
+  "End": "01:17:26",
+  "Text": "open A I and deep mind was a small collection of folks who were brave enough to talk A G I in the face of mockery."
+}

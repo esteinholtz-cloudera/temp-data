@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:37:33",
+  "End": "01:37:57",
+  "Text": "to like, want to just like buy our users, our developers, our users a drink and say, like, tell us what you'd like to change. And I think one of the things we are not good as good at as a company as I would like is to be a really user centric company. And I feel like by the time it gets filtered to me, it's like, totally meaningless. So I really just want to go talk to a lot of our users in very different"
+}

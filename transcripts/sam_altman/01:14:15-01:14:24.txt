@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:14:15",
+  "End": "01:14:24",
+  "Text": "these systems deployed at scale can shift woods of geopolitics and so on. How"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:21:11",
+  "End": "01:21:17",
+  "Text": "of one of and even then like we're on a team of many, there will be many teams"
+}

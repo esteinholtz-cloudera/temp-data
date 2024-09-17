@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:53:08",
+  "End": "01:53:30",
+  "Text": ", like math is true and the origin of COVID is not agreed upon as ground truth. are the two things and then there's stuff that's like, not true. between that 1st and 2nd, a lot of disagreement. What"
+}

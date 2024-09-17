@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:10:14",
+  "End": "00:11:13",
+  "Text": "we, we trained these models uh on a lot of text data. And in that process, they, they learn the underlying about the underlying representations of what's in here are in there and they can do amazing things. But when you first play with that base model that we call it after you finish training can do very well on evals, it can pass tests, it can do a lot of, you know, there's knowledge in there, but it's not very useful. or at least it's not easy to use, let's say. And Rlhf is how we take some human feedback. The simplest version of this is show two outputs ask which one is better than the other, uh which one the human writers prefer and then feed that back into the model with reinforcement learning. that process works remarkably well with in my opinion, remarkably little data to make the model more useful. So RLHF is how we align the model to what humans want it to do."
+}

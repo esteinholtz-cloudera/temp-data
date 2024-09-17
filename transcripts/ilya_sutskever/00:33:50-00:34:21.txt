@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:33:50",
+  "End": "00:34:21",
+  "Text": "make progress? We need to make progress. It depends on what you mean. I think the field will continue to make very robust progress for quite a while. I think for individual researchers, especially people who are doing um research, it can be harder because there is a very large number of researchers right now. think that if you have a lot of computes, then you can make a lot of very interesting discoveries. But then you have to deal with the challenge of a huge, huge, huge computer cluster to run your experiments. It's a little bit harder. So I'm"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:40:59",
+  "End": "00:41:16",
+  "Text": "bad is the completely unrestricted model? how much do you understand about that? You know, there's been a lot of discussion about free speech absolutism, how much if that's applied to an A I system,"
+}

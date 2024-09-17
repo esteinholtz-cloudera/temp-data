@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:47:41",
+  "End": "00:47:48",
+  "Text": "like collect the data, how we clean the data, how we do the training, how we do the optimizer, how we do the architecture like so many things."
+}

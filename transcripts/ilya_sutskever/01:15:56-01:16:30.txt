@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:15:56",
+  "End": "01:16:30",
+  "Text": "now, a lot of the self play mechanisms have been used in the game context or at least in the simulation context. much, how much do you, how far along the path to A G I, do you think will be done in simulation? How much faith promise do you have in simulation versus having to have a system that operates in the real world? Whether, whether it's the real world of digital, real world data or real world, like actual physical world with robotics, I"
+}

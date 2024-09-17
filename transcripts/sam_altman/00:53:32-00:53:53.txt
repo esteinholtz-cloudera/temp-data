@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:53:32",
+  "End": "00:53:53",
+  "Text": "prompting chain you extend it very far and then increase at scale the number of those interactions. Like what kind of these things start getting integrated into human society and it starts building on top of each other. I mean, I don't think we understand what that looks like. Like you said, it's been six"
+}

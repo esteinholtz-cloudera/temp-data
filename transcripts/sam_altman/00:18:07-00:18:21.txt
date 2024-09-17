@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:18:07",
+  "End": "00:18:21",
+  "Text": "knowledge. a good difference. there a difference between knowledge. So there's facts and there's wisdom and I feel like GP T four can be also full of wisdom. What's the leap from facts to wisdom?"
+}

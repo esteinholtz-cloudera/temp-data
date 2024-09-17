@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:30:50",
+  "End": "01:30:58",
+  "Text": ", it's, it's really, really fascinating. It's really fascinating. Is there something to be said about the employees of a company affecting the bias of"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:05:14",
+  "End": "01:05:45",
+  "Text": "don't know, I think, I think there is a huge number of, I mean, so first of all, I would want to, I want to point out that translation already today is huge. I think billions of people interact with uh big chunks of the internet primarily through translation. So translation is already huge and it's hugely hugely positive too. think self driving is going to be hugely impactful. And that's, know, it, it's unknown exactly when it happens. But again, I would, I would not bet against deep learning. So I, so that's"
+}

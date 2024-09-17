@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:32:42",
+  "End": "00:33:05",
+  "Text": ", it's so fascinating because it's remarkable in some sense. That's what we do with human conversation, right? In interacting with humans, we try to figure out like what words to use to unlock a greater wisdom from the other, the other party friends of yours or others. Here you get to try it over and over and over and over. You could experiment. There's"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:04:23",
+  "End": "01:04:55",
+  "Text": ". I think when you start to see really dramatic economic impact, that's when I think that's in some sense, the next barrier. Because right now if you think about the work in A I it's really confusing. It's really hard to know what to make of all these advances. It's kind of like, OK, you got an advance and now you can do more things and you got another improvement and you got another cool demo at some point. think people who are outside of A I, they can no longer distinguish this progress"
+}

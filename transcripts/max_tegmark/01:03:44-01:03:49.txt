@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:03:44",
+  "End": "01:03:49",
+  "Text": "., it's almost like our world was created for, I mean, they kind of come together. Yeah. But"
+}

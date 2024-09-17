@@ -1,0 +1,6 @@
+{
+  "Speaker": "Greg Brockman",
+  "Start": "01:04:40",
+  "End": "01:05:44",
+  "Text": "the way that I think about it is that there's this space of, of possible progress, right? There's a space of ideas and sort of systems that, that will work that will move us forward. there's a portion of that space and to some extent, an increasingly significant portion of that space that does just require massive compute resources. And for that, that I think that that the answer is kind of clear and that part of why we have the structure that, that we do is because we think it's really important to be pushing the scale and to be, you know, building these large clusters and systems. there's another part portion of the space that isn't about the large scale compute that are these ideas that and again, I think that for the A S to really be impactful and really shine that they should be ideas that if you scale them up would work way better than they do at small scale. Um But you can discover them without massive computational resources. if you look at the history of, of recent developments, you think about things like the GAN or the VA E that these are ones that I think you could come up with them uh without having and you know, in practice, people did come up with, with them without having massive massive computational resources. I"
+}

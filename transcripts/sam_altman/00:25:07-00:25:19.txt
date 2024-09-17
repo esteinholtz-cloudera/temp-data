@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:25:07",
+  "End": "00:25:19",
+  "Text": "thing that I hope these can do is bring some nuance back to the world. Yes, it felt, it felt really nuance, you know, Twitter kind of destroyed some and maybe we can get some back now. That"
+}

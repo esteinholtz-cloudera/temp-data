@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:43:44",
+  "End": "00:44:02",
+  "Text": "there will be a point at which regulation federal in the United States, the government steps in and, helps be the I I don't wanna say the adult in the room to make sure that there is strict rules, maybe conservative rules that nobody can cross."
+}

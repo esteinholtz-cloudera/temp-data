@@ -1,0 +1,6 @@
+{
+  "Speaker": "Greg Brockman",
+  "Start": "00:34:26",
+  "End": "00:34:44",
+  "Text": "think that's a, it's a really good question and there's, there's, there's some, some, you know, real like long standing debates in human society that are wrapped up in it. Uh, the way that I think about it is just think about what, what are the most impactful nonprofits in the world? are the most impactful for profits in the world? Right."
+}

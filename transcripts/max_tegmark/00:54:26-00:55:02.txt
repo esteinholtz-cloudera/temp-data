@@ -1,0 +1,6 @@
+{
+  "Speaker": "Max Tegmark",
+  "Start": "00:54:26",
+  "End": "00:55:02",
+  "Text": "enough. And that model of their mind that you can say things that they will understand and that's quite difficult, right? That's why today it's so frustrating. If, if you have a computer that's makes some cancer diagnosis and you ask it, well, why are you saying I should have a surgery it, and if it can only reply. I was trained on five terabytes of data and this is my. Boop boop beep beep and doesn't really instill a lot of confidence, right. So I think we have a lot of work to do on them communication there. So"
+}

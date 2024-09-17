@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:53:03",
+  "End": "00:53:09",
+  "Text": ", the neural networks would be un interpretable if you look at their rates, but their output should be very interpretable. OK. So"
+}

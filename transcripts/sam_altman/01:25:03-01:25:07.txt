@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:25:03",
+  "End": "01:25:07",
+  "Text": "? I think the Clickbait journalism bothers you more than it bothers me."
+}

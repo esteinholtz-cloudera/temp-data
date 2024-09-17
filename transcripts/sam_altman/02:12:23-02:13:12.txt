@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:12:23",
+  "End": "02:13:12",
+  "Text": "of the many lessons to take away from this SVB thing is how much,, how fast and how much the world changes and how little I think our experts,, business leaders, regulators, whatever understand it. So the speed with which the SVB bankrupt happened because of Twitter, because of mobile banking apps, whatever was so different than the 2008 collapse where we didn't have those things really. don't think that kind of the people in power realize how much the field had shifted. And I think that is a very tiny preview of the shifts that A G I will bring"
+}

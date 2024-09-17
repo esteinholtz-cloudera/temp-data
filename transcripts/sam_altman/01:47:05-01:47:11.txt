@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:47:05",
+  "End": "01:47:11",
+  "Text": "am a big believer in lift up the floor and don't worry about the ceiling."
+}

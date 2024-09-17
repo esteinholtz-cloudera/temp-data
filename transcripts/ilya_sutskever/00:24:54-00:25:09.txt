@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:24:54",
+  "End": "00:25:09",
+  "Text": "think is harder? So people like Noam Chomsky believe that language is fundamental to everything. So it underlies everything. Do you think language understanding is harder than visual scene understanding or vice versa?"
+}

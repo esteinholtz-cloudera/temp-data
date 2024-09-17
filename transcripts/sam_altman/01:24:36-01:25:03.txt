@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:24:36",
+  "End": "01:25:03",
+  "Text": "and open the eyes of culture is not so nervous about pr risk and all that kind of stuff. You're more nervous about the risk of the actual technology, and you reveal that. So, you know, the nervousness that people have is because it's such early days of the technology is that you will close off over time because more and more powerful, my nervousness is you get attacked so much by fear mongering, Clickbait journalism that you're like, why the hell do I need to deal with"
+}

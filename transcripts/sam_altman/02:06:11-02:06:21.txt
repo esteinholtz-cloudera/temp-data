@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:06:11",
+  "End": "02:06:21",
+  "Text": "a for profit company. It's very driven, very large scale. there pressure to kind of make a lot of"
+}

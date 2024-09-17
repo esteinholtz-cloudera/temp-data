@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:02:47",
+  "End": "00:03:04",
+  "Text": "you said uh mathematics. So if you look at the, the wet thing over here, our mind, you ultimately see it as just math is just information processing? Uh or is there some other magic as you've seen if you've seen through biology and chemistry and so on?"
+}

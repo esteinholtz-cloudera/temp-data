@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:40:41",
+  "End": "00:40:47",
+  "Text": ". Well, if you don't do the early stopping, you get these very, you get the very pronounced double descent."
+}

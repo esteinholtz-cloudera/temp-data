@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:03:59",
+  "End": "02:04:21",
+  "Text": "like most people in the company weren't really excited to work super hard and collaborate well on GP T four and thought other stuff was more important. There'd be very little I or anybody else could do to make it happen. spend a lot of time figuring out what to do, getting on the same page about why we're doing something and then how to divide it up and all coordinate"
+}

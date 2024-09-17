@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:09:34",
+  "End": "00:09:58",
+  "Text": ". So the Perceptron. Yeah. Uh So you coined this amazing term. It's a hypothetical state of matter of thinking from a physics perspective. What is the kind of matter that can help, as you're saying, uh subjective experience, emerge consciousness emerge. So how do you think about consciousness from this physics perspective?"
+}

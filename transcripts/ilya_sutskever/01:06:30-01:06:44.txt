@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:06:30",
+  "End": "01:06:44",
+  "Text": "the beautiful things is that GP T the transformers are fundamentally simple to explain to train. you think will continue to show better results in language?"
+}

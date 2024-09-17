@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:11:48",
+  "End": "00:12:20",
+  "Text": "right. Self play and also ideas around exploration where you're trying to take action that that surprise a predictor. a big fan of cost functions. I think cost functions are great and they serve us really well. And I think that whenever we can do things with cost functions, we should. you know, maybe there is a chance that we will come up with some yet another profound way of looking at things that will involve cost functions in a less central way. But I don't know, I think cost functions are, I mean, would not bet against against cost functions."
+}

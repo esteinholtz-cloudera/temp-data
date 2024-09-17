@@ -1,0 +1,6 @@
+{
+  "Speaker": "Max Tegmark",
+  "Start": "00:17:16",
+  "End": "00:18:09",
+  "Text": "I think we humans have a little bit of a bad track record also of making these self serving arguments that other entities aren't conscious. You know, people often say, oh, these animals can't feel pain. It's ok to boil lobsters because we asked them if it hurt and they didn't say anything. And now there was just a paper out saying lobsters did do feel pain when you boil them and they're banning it in Switzerland. And, and, and we did this with slaves too often and said, oh, they don't mind. Uh They don't maybe are conscious or women don't have souls or whatever. So I'm a little bit nervous when I hear people just take as an axiom machines can't have experience ever. I think this is just a really fascinating science question is what it is. Let's research it and try to figure out what it is that makes the difference between unconscious, intelligent behavior and conscious, intelligent behavior."
+}

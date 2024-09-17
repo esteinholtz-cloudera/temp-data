@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:49:17",
+  "End": "01:49:20",
+  "Text": "you don't know that's not happening inside one model."
+}

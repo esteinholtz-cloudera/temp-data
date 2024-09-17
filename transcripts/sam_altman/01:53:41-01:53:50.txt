@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:53:41",
+  "End": "01:53:50",
+  "Text": "do you know is true? are you? Absolutely certain is true."
+}

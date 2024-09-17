@@ -1,0 +1,6 @@
+{
+  "Speaker": "Max Tegmark",
+  "Start": "01:17:17",
+  "End": "01:18:11",
+  "Text": "uh I in this, in the very near term, even some people are advocating basic income, replace jobs. But if you, if the government is going to be willing to just hand out cash to people for doing nothing, one should also seriously consider whether the government should also hire a lot more teachers and nurses and the kind of jobs which people often find great fulfillment in doing. Right. I get very tired of hearing politicians saying, oh, we can't afford hiring more teachers, but we're going to maybe have basic income if we can have more, more serious research and thought into what gives meaning to our lives and the jobs give so much more than income. Right. then think about in the future, what are the roles of?, what are the roles that we wanna? People feeling empowered by machines?"
+}

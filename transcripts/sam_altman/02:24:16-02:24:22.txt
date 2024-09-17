@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:24:16",
+  "End": "02:24:22",
+  "Text": "certainly what it feels like. I mean, I think that's what most people would say if they were really honest about it."
+}

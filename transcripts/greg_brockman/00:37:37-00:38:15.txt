@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:37:37",
+  "End": "00:38:15",
+  "Text": ", which is one of the core aspects of the charter. So one concern people have not just with open A I, but with Google, Facebook, Amazon, anybody really that that's creating impact that scale is how do we avoid, as your charter says, avoid enabling the use of A I or A G I to unduly concentrate power. would not a company like open A I keep all the power of an A G I system to itself the charter, the charter. So, you know, how does the charter alize itself uh day to day? So"
+}

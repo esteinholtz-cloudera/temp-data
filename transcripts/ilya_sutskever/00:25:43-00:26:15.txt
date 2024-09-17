@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:25:43",
+  "End": "00:26:15",
+  "Text": ", like III I understand what you mean by that. So what I was going to say that a lot of it depends on, you know, once you solve a problem, it stops being hard and that's, that's always true. And so, but something is hard or not depends on what our tools can do today. So, you know, I say today, true human level language, understanding and visual perception are hard in the sense that there is no way of solving the problem completely in the next three months, right? So I agree with that statement that, I just my guess would be as good as yours. I don't know. OK,"
+}

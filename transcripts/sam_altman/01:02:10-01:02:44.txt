@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:02:10",
+  "End": "01:02:44",
+  "Text": "one of the main concerns here is something called A I takeoff or fast take off that the exponential improvement would be really fast to where like in days, in days. Yeah. Um I mean,, this is an, this is a pretty serious, at least to me it's become more of a serious concern how amazing Chad GP T turned out to be. And then the improvement of G BT four almost like to where it surprised everyone. Seemingly you can correct me, including you. So GP"
+}

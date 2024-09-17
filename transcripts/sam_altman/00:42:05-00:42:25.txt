@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:42:05",
+  "End": "00:42:25",
+  "Text": ". Of course, when you're evaluating this stuff is, you can always find anecdotal evidence of GP T slipping up and saying something either wrong or and so on. But it would be nice to be able to kind of generally make statements about the bias of the system. Generally make statements about"
+}

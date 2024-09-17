@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:34:02",
+  "End": "00:34:40",
+  "Text": "is Monday. We launched the previous Tuesday. So it's been six days, the degree, the degree to which it has already changed programming what I have observed from how my friends are creating the tools that are being built on top of it. Um I think this is where we'll see of the most impact in the short term. It's amazing what people are doing. It's amazing how tool, the leverage it's giving people to do their job or their creative work better and better and better., it's super"
+}

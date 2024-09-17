@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:49:50",
+  "End": "01:50:08",
+  "Text": "some of that is already handled with human alignment, human feedback when you first learning with human feedback, but it feels like there has to be engineered in a hard uncertainty, humility. You can put a romantic word to it. you think that's possible to do"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:25:49",
+  "End": "01:25:59",
+  "Text": "kind of questions do you think? Would they be factual or would they be, emotional, psychological? What do you think"
+}

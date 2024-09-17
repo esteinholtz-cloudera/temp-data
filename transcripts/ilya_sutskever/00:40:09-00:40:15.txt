@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:40:09",
+  "End": "00:40:15",
+  "Text": "then it would be good for the model to have more parameters. So uh to be bigger than the"
+}

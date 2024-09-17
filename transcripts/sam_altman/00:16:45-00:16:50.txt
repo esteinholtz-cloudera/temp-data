@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:16:45",
+  "End": "00:16:50",
+  "Text": "also just in a small tangent. Thank you for sort of open sourcing the evaluation process."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:51:22",
+  "End": "01:51:37",
+  "Text": "the millions of people that have used the chat GP T and GP T. What have you learned about human civilization in general? I mean, the question I ask is, are we mostly good is there a lot of malevolence in, in the human spirit?"
+}

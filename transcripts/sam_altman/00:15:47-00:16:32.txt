@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:15:47",
+  "End": "00:16:32",
+  "Text": ". Yeah, you can look at a one year old baby and predict it's going to do on the SAT si don't know uh seemingly an equivalent one. But because here we can actually in detail, introspect various aspects of the system, you can predict that said, uh just to jump around, you said language model that is GP T four, it learns and quotes something terms of science and art and so on. Is there with open A I within folks like yourself and I and the engineers a deeper and deeper understanding of what that something is or is it still a kind of magical mystery?"
+}

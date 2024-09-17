@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:19:18",
+  "End": "00:19:47",
+  "Text": "uh I if I put it another way, I'll say because it comes from neuroscience is the reason you wanna have a body and a physical, something like a phy physical,, you know, a physical system is because you want to be able to preserve something in order to have a self, you could argue, would you, you need to have some kind of of self to want to preserve?"
+}

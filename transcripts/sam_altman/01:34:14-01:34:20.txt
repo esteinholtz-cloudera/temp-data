@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:34:14",
+  "End": "01:34:20",
+  "Text": "think we'll find out that we can make GP T systems way less biased than any human. Yeah."
+}

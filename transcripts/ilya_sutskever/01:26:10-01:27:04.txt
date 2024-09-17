@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:26:10",
+  "End": "01:27:04",
+  "Text": "again, let me emphasize the fact that you truly are one of the people that might be in the room where this happens. let me ask of a profound question about. Um I just talked to a Stalin historian. I've been talking to a lot of people who are studying power. Uh Abraham Lincoln said nearly all men can stand adversity. But if you want to test a man's character, give him power, I would say the power of the 21st century, maybe the 22nd. But hopefully the 21st would be the creation of an A G I system and the people who have control, direct possession and control of the A G I system., what do you think after spending that evening having a discussion with the A G I system? What do you think you would do?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:15:20",
+  "End": "00:15:51",
+  "Text": "you think, know that's what like expert systems did, right? Symbolic A I uh the knowledge based growing and knowledge base is is maintaining a hidden state which is its knowledge base and is growing it by sequestered processing. Do you think of it more generally in that way? Or is it simply, is it the more constrained form that of, of a hidden state with certain kind of gating units that we think of as today with LSD MS? And that,"
+}

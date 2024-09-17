@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:09:08",
+  "End": "00:09:25",
+  "Text": "this is a pivotal moment, like out of all the versions of GP G 50 years from now they look back at an early system that was really kind of a leap in a Wikipedia page about the history of artificial intelligence, which of the GP TS would they put?"
+}

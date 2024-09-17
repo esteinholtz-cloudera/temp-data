@@ -1,0 +1,6 @@
+{
+  "Speaker": "Greg Brockman",
+  "Start": "00:44:02",
+  "End": "00:45:09",
+  "Text": "Well, I think there's, there's kind of maybe 22 angles to it. So today with narrow A I applications uh that I think there are already existing bodies that are responsible and should responsible for regulation. You think about, for example, with self driving cars that you want the uh you know, the National Highway uh uh exactly to, to be very good. And that, that makes sense, right? That basically what we're saying is that we're going to have these technological systems that are going to be doing performing applications that humans already do.. We already have ways of thinking about standards and safety for those. Um So I think actually empowering those regulators today is also pretty important. And then I think for, for a G I, you know, that there's going to be a point where we'll have better answers. And I think that maybe a similar approach of first measurement and, you know, start thinking about what the rules should be. I think it's really important that we don't prematurely squash, know, progress. Like I think it's very easy to, to kind of smother the a budding field. And I think that's something to, to really avoid, but I don't think it's the right way of doing it is to say let's just try to blaze ahead and not involve all these other stakeholders."
+}

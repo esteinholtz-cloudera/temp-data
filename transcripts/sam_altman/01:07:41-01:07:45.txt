@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:07:41",
+  "End": "01:07:45",
+  "Text": ", it definitely can answer as if it were."
+}

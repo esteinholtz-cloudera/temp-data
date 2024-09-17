@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:17:23",
+  "End": "01:17:47",
+  "Text": "I think that transfer from simulation to the real world is definitely possible and and has been exhibited many times by many different groups. been especially successful envision open A I in the summer has demonstrated a robot hand which was trained entirely in simulation a certain way that allowed for seem to real transfer to occur."
+}

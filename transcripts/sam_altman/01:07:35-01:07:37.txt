@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:07:35",
+  "End": "01:07:37",
+  "Text": "fake consciousness."
+}

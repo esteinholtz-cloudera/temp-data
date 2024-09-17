@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:16:55",
+  "End": "00:17:04",
+  "Text": ". Exactly. Even though the fundamental thing behind deep learning has been around for much longer. So"
+}

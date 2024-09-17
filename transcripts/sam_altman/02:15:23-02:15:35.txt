@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:15:23",
+  "End": "02:15:35",
+  "Text": "something is a creature, I'm happy for people to like think of it and talk about it as a creature. But I think it is dangerous to project creatures onto a tool."
+}

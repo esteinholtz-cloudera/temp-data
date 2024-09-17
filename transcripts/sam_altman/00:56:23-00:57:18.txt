@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:56:23",
+  "End": "00:57:18",
+  "Text": "know, when Kasparov lost to deep blue, somebody said, and maybe it was him that chess is over now. If an A I can beat a human at chess then no one's going to bother to keep playing. Right. Because what's the purpose of us or whatever that was 30 years ago, 25 years ago, something like that. believe that chess has never been more popular than it is right now keep wanting to play and wanting to watch. And by the way, we don't watch two A is play each other, which would be a far better game in some sense than whatever else. But that's, not what we choose to do. Like we are somehow much more interested in what humans do in this sense and whether or not Magnus loses to that kid, then what happens when two much, much better A is play each other?"
+}

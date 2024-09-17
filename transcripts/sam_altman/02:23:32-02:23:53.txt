@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:23:32",
+  "End": "02:23:53",
+  "Text": "would you describe how you've approached life of this advice you would advise to other people. So really just in the quiet of your mind to think gives me happiness, what is the right thing to do here? How can I have the most impact?"
+}

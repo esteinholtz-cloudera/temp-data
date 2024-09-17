@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:56:12",
+  "End": "00:56:20",
+  "Text": "I think so to speak to the psychology of terror is more like is awesome. This is too awesome. I'm awesome. Yeah,"
+}

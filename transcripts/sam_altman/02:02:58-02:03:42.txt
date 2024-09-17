@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:02:58",
+  "End": "02:03:42",
+  "Text": "mean, there's a question of, should we be really proud of that or should other companies be really embarrassed? And we believe in a very high bar for the people on the team, hard, you know, you're not even like supposed to say anymore or something. Um We give a huge amount of trust and autonomy and authority to individual people and we try to hold each other to very high standards know, there's a process which we can talk about, but it won't be that illuminating. Uh I think it's those other things that make us able to ship at a high velocity."
+}

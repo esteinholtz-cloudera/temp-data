@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:05:54",
+  "End": "00:06:09",
+  "Text": "there's some kind of invisible momentum that some people like Einstein or open the eye is plugging into, that anybody else can also plug into and ultimately, that wave takes us into a certain direction. That's what you mean by."
+}

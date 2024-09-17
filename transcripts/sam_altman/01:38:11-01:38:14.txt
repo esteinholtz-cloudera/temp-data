@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:38:11",
+  "End": "01:38:14",
+  "Text": "is a real Olympic response there. GP."
+}

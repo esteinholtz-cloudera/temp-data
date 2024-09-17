@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:09:47",
+  "End": "01:10:04",
+  "Text": "to take a step back. Can you can you talk through, in, you know, a story of dota, a story of leading up to opening I five and uh that past and what was the process of self play and a lot of training. So do"
+}

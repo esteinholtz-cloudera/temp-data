@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:48:55",
+  "End": "00:49:01",
+  "Text": "trainable means starting from scratch knowing nothing. You can actually pretty quickly converge towards knowing a"
+}

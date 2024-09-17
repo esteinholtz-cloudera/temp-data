@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:45:26",
+  "End": "00:45:37",
+  "Text": "do you think the kind of stuff we've seen neural networks do is a kind of just weak reasoning? So it's not a fundamentally different process. Again, this is stuff we don't, nobody knows the answer to."
+}

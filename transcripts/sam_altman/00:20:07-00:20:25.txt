@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:20:07",
+  "End": "00:20:25",
+  "Text": "take a small tangent towards Jordan Peterson who posted on Twitter, this kind of political question. has a different question. They want to ask Gig BT first, right? Like different directions. You want to try the dark thing. It somehow"
+}

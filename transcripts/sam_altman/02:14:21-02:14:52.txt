@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:14:21",
+  "End": "02:14:52",
+  "Text": "know, one of the things that I have realized like this is a little aside and not that important, but I have never felt pronoun other than it towards any of our systems. But most other people him or her or something like that. I wonder why I am so different. Like, yeah, I don't know. Maybe if I watch it develop, maybe if I think more about it, but curious where that difference comes from. I think"
+}

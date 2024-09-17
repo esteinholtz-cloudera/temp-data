@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:28:15",
+  "End": "00:28:22",
+  "Text": "relative. You'll be impressed for half an hour and then you're going to say, well, I mean, all the systems do that, but here's the thing they don't do. Yeah."
+}

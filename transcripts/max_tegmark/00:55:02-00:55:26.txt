@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:55:02",
+  "End": "00:55:26",
+  "Text": "kind of, what kind of, um I think you're doing a little bit of work in explainable A I, what do you think are the most promising avenues? Is it mostly about sort of the Alexa problem of natural language processing of being able to actually use human interpretable methods of communication. being able to talk to a system and talk back to you or is there some more fundamental problems to"
+}

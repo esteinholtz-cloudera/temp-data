@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:16:59",
+  "End": "00:17:17",
+  "Text": ". That's a really, that's a really clear way to put it. That's,, it feels like in that sense, experiencing it is a valuable quality. So actually being able to have subjective experiences, least in that case is, is valuable."
+}

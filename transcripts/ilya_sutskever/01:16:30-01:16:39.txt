@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:16:30",
+  "End": "01:16:39",
+  "Text": "think it's in either or I think simulation is a tool it helps it has certain strengths and certain weaknesses and we should use it. Yeah. But"
+}

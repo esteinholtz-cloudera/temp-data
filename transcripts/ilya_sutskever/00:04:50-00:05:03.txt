@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:04:50",
+  "End": "00:05:03",
+  "Text": "that you know, networks were heavily over parameterized wasn't discouraging to you. So you you were thinking about the theory that the number of parameters. The fact there's a huge number of parameters is OK is going to be"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:27:18",
+  "End": "02:27:51",
+  "Text": "for listening to this conversation with Sam Altman to support this podcast. Please check out our sponsors in the description. And now let me leave you with some words from Alan Turing in 1951. seems probable that once the machine thinking method has started, it would not take long to outstrip our feeble powers some stage. Therefore, we should have to expect the machines to take control. you for listening and hope to see you next time."
+}

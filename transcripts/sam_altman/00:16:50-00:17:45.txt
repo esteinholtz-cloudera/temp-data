@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:16:50",
+  "End": "00:17:45",
+  "Text": "think that'll be really helpful. the one that really matters is we pour all of this effort and money and time into this thing and then what it comes out with, like how useful is that to people? How much delight does that bring people? How much does that help them create a much better world, new science, new products, new services, whatever. And that's the one that matters and understanding for a particular set of inputs. Like how much value and utility to provide to people. I think we are understanding that better. Um we understand everything about why the model does one thing and not one other thing? Certainly not, not always. But I would say we are pushing back like fog of war more and more and we are, you know, it took a lot of understanding to make GP T four for"
+}

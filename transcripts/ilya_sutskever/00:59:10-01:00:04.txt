@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:59:10",
+  "End": "01:00:04",
+  "Text": ", I think it's pretty likely, but I also want to say that I don't really precisely what is, what Chomsky means. When he talks about him, you said something about imposing your structure and language. I'm not 100% sure what he means. But empirically, it seems that when you inspect those larger language models, they exhibit signs of understanding the semantics. Whereas the smaller language models do not. We've seen that a few years ago when we did work on the sentiment neuron, we trained the small, you know, smaller shell STM to predict the next character in Amazon reviews. we noticed that when you increase the size of the LSDM from 500 LSDM cells to 4000 LSTM cells, then one of the neurons starts to represent the sentiment of the article of sorry of the review., why is that sentiment is a pretty semantic attribute? It's not a syntactic attribute. And"
+}

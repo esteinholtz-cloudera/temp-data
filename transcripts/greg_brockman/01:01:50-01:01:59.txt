@@ -1,0 +1,6 @@
+{
+  "Speaker": "Greg Brockman",
+  "Start": "01:01:50",
+  "End": "01:01:59",
+  "Text": "advocate. I mean, how many, how many new story ideas have we come up with since Shakespeare? Right. Exactly."
+}

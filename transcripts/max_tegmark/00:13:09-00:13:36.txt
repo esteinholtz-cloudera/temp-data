@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:13:09",
+  "End": "00:13:36",
+  "Text": "? Well, the certainly we would, we would prefer I would prefer the appearance of consciousness. But the question is whether the appearance of consciousness is different than consciousness itself and sort of ask that as a question, do you think we need to, know, understand what consciousness is, solve the hard problem of consciousness in order to build something uh like an A G I"
+}

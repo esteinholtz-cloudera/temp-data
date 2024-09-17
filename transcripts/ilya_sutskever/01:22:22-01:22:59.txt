@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:22:22",
+  "End": "01:22:59",
+  "Text": "? mean, lots of things there's certain there's certain frontier, there is a certain frontier of capabilities today. Yeah. And there exists things outside of the frontier. And I would be impressed by any such thing. Like, for example, I would be impressed by deep learning system solves a very pedestrian, you know, pedestrian task, like machine translation or computer vision task or something, never makes a mistake. A human wouldn't make under any circumstances. think that is something which have not yet been demonstrated. And I would find it very impressive."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:17:45",
+  "End": "00:18:05",
+  "Text": ", but I, I'm not even sure we can ever fully understand. Like you said, you would understand by asking questions essentially because it's compressing all of the web, like a huge sloth of the web into a small number of parameters one organized black box. That is human wisdom."
+}

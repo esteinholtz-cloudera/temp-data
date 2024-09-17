@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:29:37",
+  "End": "00:29:48",
+  "Text": ", I think it all boils down to like reason people click like on stuff on the internet, which is, it makes them laugh. So it's like humor or wit or"
+}

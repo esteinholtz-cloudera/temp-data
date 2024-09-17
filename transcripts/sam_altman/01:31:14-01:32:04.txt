@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:31:14",
+  "End": "01:32:04",
+  "Text": ". Yeah, I'm going on a around the world user tour soon for a month to just go talk to our users in different cities and I can feel how much I'm craving doing that because I haven't done anything like that since in years. I used to do that more for YC to go talk to people in super different contexts it doesn't work over the internet. Like to go show up in person and sit down and go to the bars they go to and kind of walk through the city like they do, you learn so much get out of the bubble so much. Um think we are much better than any other company I know of in San Francisco for not falling into the kind of like sf craziness, but I'm sure we're still pretty deeply in"
+}

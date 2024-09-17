@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:21:29",
+  "End": "01:21:47",
+  "Text": "know, I know, I know. Um there's still an open question. If there's not some magic in the brain that we're not. mean, I don't mean a non materialistic magic but that the brain might be a lot more complicated and interesting that we give it credit for."
+}

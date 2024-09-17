@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:19:34",
+  "End": "00:20:02",
+  "Text": ". At least in interaction with humans, it seems to possess wisdom, especially when there's a continuous interaction of multiple problems. So I think what on the chat GP T side, it says the dialogue format it possible for Chad G BT to answer follow up questions, admit its mistakes, challenge incorrect premises and reject an appropriate request. But also there's a feeling like it's struggling with ideas."
+}

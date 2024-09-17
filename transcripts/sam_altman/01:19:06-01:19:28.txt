@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:19:06",
+  "End": "01:19:28",
+  "Text": "you kinda had this offhand comment of, worry about the uncapped companies that play with A G. you elaborate on the worry here? Because A G I out of all the technologies we have in our hands is the potential to make is uh the cap is 100 X for open A I. It"
+}

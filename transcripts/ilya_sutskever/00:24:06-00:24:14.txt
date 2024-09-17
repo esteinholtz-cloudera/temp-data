@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:24:06",
+  "End": "00:24:14",
+  "Text": "think it's a fundamentally different problem or is it just a more difficult general? It's a generalization of the problem of understanding. I mean,"
+}

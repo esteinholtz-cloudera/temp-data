@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:18:31",
+  "End": "02:19:00",
+  "Text": "like a theory of everything, be real happy faster than light, don't you wanna know? there's several things to know it's like and, and be hard. Um Is it possible in how to do it? Yeah, I want to know, I want to know probably the first question would be, are there other intelligent alien civilizations out there? But I don't think A G I has the, the ability to do that to, to, to know that might be able"
+}

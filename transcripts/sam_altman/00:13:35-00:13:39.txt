@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:13:35",
+  "End": "00:13:39",
+  "Text": "a lot of content in the world more than I think most people think."
+}

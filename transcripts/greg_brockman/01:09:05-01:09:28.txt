@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:09:05",
+  "End": "01:09:28",
+  "Text": ", but it still has the same flavors of uh you know, uh at least echoes of the expected billions. Uh Although I suspect with GP T is scaled more and more you might get surprising things. So, yeah, you're right. It's, it's interesting, it's, it's difficult to see how far an idea will go when it's scaled. It's an open question."
+}

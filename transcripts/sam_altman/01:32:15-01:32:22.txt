@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:32:15",
+  "End": "01:32:22",
+  "Text": "what's the selection of the human? Is there something you could speak to at a high level about the selection of the human Raiders?"
+}

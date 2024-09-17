@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:08:37",
+  "End": "01:08:47",
+  "Text": ", like we're now past the stage where getting a result on AMS some clever formulation of MNS will convince"
+}

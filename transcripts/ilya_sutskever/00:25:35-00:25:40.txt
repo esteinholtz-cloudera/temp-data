@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:25:35",
+  "End": "00:25:40",
+  "Text": "? So from the perspective of how much until we get to human level"
+}

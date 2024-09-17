@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:33:19",
+  "End": "00:33:48",
+  "Text": "if you look at all the progress on the past 10 years, I would say most of it, I would say there have been a few cases where some were things that felt like really new ideas showed up. But by and large it was every year we thought, ok, deep learning goes this far. No, it actually goes further and then the next year. OK. Now you now this is this is peak deep learning, we are really done. Nope goes further. It just keeps going further each year. So that means that we keep underestimating, we keep not understanding it as surprising properties all the time."
+}

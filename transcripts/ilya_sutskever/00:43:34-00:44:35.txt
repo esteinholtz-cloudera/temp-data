@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:43:34",
+  "End": "00:44:35",
+  "Text": "push back and disagree a little bit. We all agree that go is reasoning. I think I, I agree, I don't think it's a trivial. So obviously reasoning like intelligence is a, is a loose gray area term a little bit. Maybe you disagree with that. But, I think it has some of the same elements of reasoning. Reasoning is almost like akin to search, right? There's a sequential element of step wise consideration of possibilities sort of building on top of those possibilities in a sequential manner until you arrive at some insight. yeah, I guess plane goes kind of like that. And when you have a single neural network doing that without search, it's kind of like that. So there's an existent proof in a particular constrained environment that a process akin to what many people call reasoning exists, but more general kind of reasoning. So off the"
+}

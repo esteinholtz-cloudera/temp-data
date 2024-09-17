@@ -1,0 +1,6 @@
+{
+  "Speaker": "Greg Brockman",
+  "Start": "01:19:38",
+  "End": "01:20:02",
+  "Text": "I think it's, I think it's hard to have a AAA real opinion about it. Uh You know, it's actually interesting. I separate out things that I think can have like, you know, yield materially different predictions about the world um from ones that are just kind of, you know, fun, fun to speculate about. And I I kind of view simulation. It's more like is there a flying teapot between Mars and Jupiter like, but it's a little bit hard to know what that would mean for my life. So there"
+}

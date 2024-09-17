@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:13:21",
+  "End": "00:13:24",
+  "Text": "much of it is the memes subreddit? Not very"
+}

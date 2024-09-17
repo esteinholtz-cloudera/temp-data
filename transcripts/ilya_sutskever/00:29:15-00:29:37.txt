@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:29:15",
+  "End": "00:29:37",
+  "Text": ". II, I understand what you mean. Yeah, I feel like I misunderstood what you meant by impressing you. I thought you meant to impress you with its intelligence with how, how with how good, well, it understands an image. I thought you meant something like I'm going to show it a really complicated image and it's going to get it right. And you're going to say, wow, that's really cool systems of, you know, January 2020 have not been doing that. Yeah. No, I,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:11:09",
+  "End": "02:11:44",
+  "Text": "I think needs would be good to do right now is just, this requires statutory change, but it may be a full guarantee of deposits maybe a much, much higher than 250 K. But you really don't want to doubt security of their deposits. And this thing that a lot of people on Twitter were saying is like, well, it's their fault. They should have been like, you know, reading the balance sheet and the risk audit of the bank. Like, do we really want people to have to do that? I would argue. No."
+}

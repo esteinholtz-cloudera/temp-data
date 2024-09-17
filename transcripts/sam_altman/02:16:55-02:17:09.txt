@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:16:55",
+  "End": "02:17:09",
+  "Text": "? But also just building stuff myself. Like I have robot dogs now that I uh use um I use the, the movement of the, the, the robots to communicate emotion. I've been exploring how to do that."
+}

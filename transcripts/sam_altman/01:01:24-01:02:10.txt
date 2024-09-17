@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:01:24",
+  "End": "01:02:10",
+  "Text": "lot of the formative A I safety work was done before people even believed in deep learning and, and certainly before people believed in large language models. And I don't think it's like updated enough, given everything we've learned now and everything we will learn going forward. So I think it's got to be this tight feedback loop. I think the theory does play a real role of course. But continuing to learn what we learn from how the technology trajectory goes quite important. I think now is a very good time and we're trying to figure out how to do this to significantly ramp up technical alignment work. I think we have new tools, we have no understanding. And there's a lot of work that's important to do we can do now."
+}

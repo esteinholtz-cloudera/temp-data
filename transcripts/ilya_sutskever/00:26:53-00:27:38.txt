@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:26:53",
+  "End": "00:27:38",
+  "Text": ". So Chomsky would say it starts at language. So vision is just a little example of the kind of structure and you know, fundamental hierarchy of ideas that's already represented in our brain somehow that's represented through language. But does vision stop in language begin? a really interesting. one possibility is that it's impossible to achieve really deep understanding in either images or language without basically using the same kind of system. So you're going to get the other for free."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:12:03",
+  "End": "02:12:23",
+  "Text": "banks that there could be., even with FTX, I mean, I'm just well, that's fraud but there's mismanagement you wonder how stable our economic system is, with the new entrance with a GI I think"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:20:04",
+  "End": "02:20:31",
+  "Text": "we living now with a greater degree of digital intelligence than you would have expected three years ago in the world? And if you could go back and be told by an oracle three years ago, which is blink of an eye that in of 2023 you will be living with this degree of digital intelligence. Would you expect your life to be more different than it is right now."
+}

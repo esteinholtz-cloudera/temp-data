@@ -1,0 +1,6 @@
+{
+  "Speaker": "Greg Brockman",
+  "Start": "01:16:04",
+  "End": "01:16:10",
+  "Text": "scale. I will put an asterisk on that and just say, you know, I think that it's about ideas plus scale, you need"
+}

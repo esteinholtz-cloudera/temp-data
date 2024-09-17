@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:11:57",
+  "End": "02:12:03",
+  "Text": "system. We may not be done. That may have been like the gun show and falling off the nightstand in the first scene of the movie or whatever, it could be like"
+}

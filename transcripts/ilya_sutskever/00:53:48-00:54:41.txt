@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:53:48",
+  "End": "00:54:41",
+  "Text": "100%. I'm a big believer in self-awareness. And I think that I think, I think neural net self awareness will allow for things like the capabilities. Like the ones you describe, like for them to know what they know and what they don't know and for them to know where to invest, to increase their skills most optimally. And to a question of interpret ability, there are actually two answers to that question. One answer is, you know, we have the neural net so we can analyze the neurons and we can try to understand what the different neurons and different layers mean. And you can actually do that and open air has done some work on that. there is a different answer which is would say that's the human centric cancer where you say, know, you look at a human being, you can't read, you know, how, how do you know what a human being is thinking? And you ask them, you say, hey, what do you think about this? What do you think about that? you get some answers,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:19:20",
+  "End": "02:19:32",
+  "Text": "know, maybe it's in the data. Maybe we need to build better detectors which really advanced A I could tell us how to do. It may not be able to answer it on its own, but it may be able to tell us what to go build collect more data."
+}

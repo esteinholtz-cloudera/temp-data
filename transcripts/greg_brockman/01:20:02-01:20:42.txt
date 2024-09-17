@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:20:02",
+  "End": "01:20:42",
+  "Text": "something actionable. So some of the best work opening has done is in the field of reinforcement learning. And uh some of the success of reinforcement learning come from being able to simulate the problem you're trying to solve. So it do you have a hope for reinforcement for the future of reinforcement learning and for the future of simulation, like whether it's we're talking about autonomous vehicles or any kind of system, you see that scaling or we'll be able to simulate systems and and hence be able to create a simulator that echoes our real world and uh proving once and for all, even though you're denying it that we're living in a simulation,"
+}

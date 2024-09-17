@@ -1,0 +1,6 @@
+{
+  "Speaker": "Max Tegmark",
+  "Start": "00:08:34",
+  "End": "00:09:34",
+  "Text": "I think, I think a lot of people view intelligence as mysterious that can only exist in biological organisms like us and therefore dismiss all talk about artificial general intelligence. Is, is science fiction. But from my perspective, as a physicist, you know, I am a blob of, of quarks and electrons moving around in a certain pattern and processing information in certain ways. And this is also a blob of quarks and electrons. not smarter than the water bottle because I'm made of different kind of quirks. I'm made of up quarks and down quarks exact same kind as this. It's a, there's no secret sauce I think in me, it's, it's all about the the pattern of the information processing. And this means there's no law of physics saying that we, that we can't create technology, can help by being incredibly intelligent and help us crack mysteries that we couldn't. In other words, I think we've really only seen the tip of the intelligence iceberg so far."
+}

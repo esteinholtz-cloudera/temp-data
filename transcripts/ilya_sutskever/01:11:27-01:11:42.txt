@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:11:27",
+  "End": "01:11:42",
+  "Text": "question though that we know of. So in your view, stage release is at least part of the answer to the question of how do we,, what do we do once we create a system like"
+}

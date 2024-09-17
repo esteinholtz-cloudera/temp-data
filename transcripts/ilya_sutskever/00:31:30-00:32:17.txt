@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:31:30",
+  "End": "00:32:17",
+  "Text": ". I think a good analogy is physics. You know how you say, hey, let's do some physics calculation and come up with some new physics theory and make some prediction. But then you've got around the experiment, know, you got to run the experiment. It's important. So it's a bit the same here except that maybe some, sometimes the experiment came before the theory, but it still is the case. You know, you have some data and you come up with some prediction, you say, yeah, let's make a big neural network, let's train it and it's going to work much better than anything before it. And it will in fact, continue to get better as you make it larger. And it turns out to be true. That's, that's amazing when a theory is valued like this. You know, it's not a mathematical theory. It's more of a biological theory almost. I think there are not terrible analogies between deep learning and biology. I would say it's like the geometric mean of biology and physics, that's deep learning,"
+}

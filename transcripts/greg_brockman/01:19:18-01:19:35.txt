@@ -1,0 +1,6 @@
+{
+  "Speaker": "Greg Brockman",
+  "Start": "01:19:18",
+  "End": "01:19:35",
+  "Text": "a problem. Yeah. So I think reasoning is an important one. I think it's gonna be hard to get good results in 2019. Um You know, again, just like we think about the life cycle takes time. Um I think for 2019 language modeling seems to be kind of on that ramp, right? It's at the point that we have a technique that works, we want to scale 100 X 1000 X. See what happens?"
+}

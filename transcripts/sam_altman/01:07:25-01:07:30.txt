@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:07:25",
+  "End": "01:07:30",
+  "Text": "GP T is four is conscious?"
+}

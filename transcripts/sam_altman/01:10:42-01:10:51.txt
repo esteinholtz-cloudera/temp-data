@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:10:42",
+  "End": "01:10:51",
+  "Text": "think consciousness is ability to sort of experience this world really deeply. There's a movie called Ex Machina,"
+}

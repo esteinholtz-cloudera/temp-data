@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:57:25",
+  "End": "01:57:38",
+  "Text": ", really humbling, the humbling, the overreach of power in censorship. But that, that you, the more powerful GP T becomes, the more pressure there will be to censor"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:13:43",
+  "End": "01:14:16",
+  "Text": "current worries that I have are that are going to be disinformation problems or economic shocks or something else a level far beyond anything we're prepared for. that doesn't require super intelligence that doesn't require a super deep alignment problem in the machine, waking up and trying to deceive us. I don't think I get attention. mean, it's starting to get more, I guess."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:54:40",
+  "End": "00:55:50",
+  "Text": "answers you get are sticky in the sense you already have a mental model. You already have an,, a mental model of that human being. You already have an understanding of like a big conception of that human being, how they think what they know, how they see the world and then everything you ask, you're adding on to that that stickiness seems to be, one of the really interesting qualities of the human being is that information is sticky. You don't, you seem to remember the useful stuff, aggregate it well and forget most of the information that's not useful that that process. But that's also pretty similar to the process that neural networks do. It's just that neural networks are much crappier at this time. It, it doesn't seem to be fundamentally that different, but just to stick on reasoning for a little longer, said, why not? Why can't I reason what, what's a good impressive feat benchmark to you of reasoning you will be impressed by if you were able to do? Is that something you already have in mind?"
+}

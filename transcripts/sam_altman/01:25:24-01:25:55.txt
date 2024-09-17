@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:25:24",
+  "End": "01:25:55",
+  "Text": "think people at open air feel the weight of responsibility of what we're doing. And yeah, it would be nice if like, know, journalists were nicer to us and Twitter trolls gave us more benefit of the doubt. But like, I think we have a lot of resolve in what we're doing and why the importance of it. I really would love and I ask this of a lot of people, not just if cameras rolling any feedback you've got for how we can be doing better. We're in uncharted waters here, talking to smart people is how we figure out what to do better. How"
+}

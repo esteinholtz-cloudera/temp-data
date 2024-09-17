@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:21:31",
+  "End": "01:21:34",
+  "Text": "shit that happens more often than you would think. Now,"
+}

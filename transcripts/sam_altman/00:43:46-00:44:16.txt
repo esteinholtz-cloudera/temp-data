@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:43:46",
+  "End": "00:44:16",
+  "Text": "sure it has all sorts of subtle effects. I don't fully understand, I don't perceive much of that. I mean, we're, we're happy to admit when we're wrong, we want to get better and better., think we're pretty good about to listen to every piece of criticism. Think it through internalize what we agree with but like the breathless Clickbait headlines, know, I try to let those flow through"
+}

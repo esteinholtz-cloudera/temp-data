@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:32:54",
+  "End": "00:33:27",
+  "Text": "of the challenge here is uh your mission is would say beautiful, empowering and a beacon of hope for people in the research community and just people thinking about A I. So your decisions are scrutinized more than I think a regular profit driven company. Do you feel the burden of this in the creation of the charter and just in the way you operate? So why do you lean into the burden creating such a charter? Why not keep it quiet?"
+}

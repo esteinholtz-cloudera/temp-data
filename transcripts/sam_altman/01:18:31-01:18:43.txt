@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:18:31",
+  "End": "01:18:43",
+  "Text": "into that decision process of taking a leap from nonprofit to capped for profit. are the pros and cons you were deciding at the time? I mean, this was, it was"
+}

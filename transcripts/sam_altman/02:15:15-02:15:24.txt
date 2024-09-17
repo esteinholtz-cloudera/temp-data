@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:15:15",
+  "End": "02:15:24",
+  "Text": "think I, yes, but I also think there will be a room in society for creatures and we should draw hard lines between those."
+}

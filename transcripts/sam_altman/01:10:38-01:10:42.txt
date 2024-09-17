@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:10:38",
+  "End": "01:10:42",
+  "Text": "think consciousness is an emotion."
+}

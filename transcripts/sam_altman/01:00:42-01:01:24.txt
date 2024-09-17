@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:00:42",
+  "End": "01:01:24",
+  "Text": ", and I'll also have a conversation with him. Um is some aspect and, and I'm torn here because is difficult to reason about the exponential improvement of technology. But also I've seen time and time again how transparent iterative trying out as you improve the technology, trying it out, releasing it, testing it, how that can um your understanding of the technology in such that the philosophy of how to do, for example, safety of any kind of technology. But A I safety um gets adjusted over time rapidly."
+}

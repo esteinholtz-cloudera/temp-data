@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:14:20",
+  "End": "01:14:45",
+  "Text": "you think self play will be involved? So you've spoken about the powerful mechanism of self play where systems learn by of exploring the world in a competitive setting against other entities that are similarly skilled as them? And so incrementally improve in this way. Do you think self play will be a component of building an A G I system?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:46:40",
+  "End": "00:46:53",
+  "Text": "G BT four has enough nuance to be able to help you explore that without treat you like an adult in the process. G BT three, I think just wasn't capable of getting that right. But G BT four, I think we can get to do this,"
+}

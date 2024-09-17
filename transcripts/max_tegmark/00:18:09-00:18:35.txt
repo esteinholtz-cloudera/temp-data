@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:18:09",
+  "End": "00:18:35",
+  "Text": ", in terms of so if you think of a Boston dynamics, human robot being sort of uh with a broom being pushed around, it starts, it starts pushing on his consciousness question. So let me ask, do you think an A G I system like a few neuroscientists believe um needs to have a physical embodiment needs to have a body or something like a body? No,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Greg Brockman",
+  "Start": "00:03:04",
+  "End": "00:03:43",
+  "Text": "think it's really interesting to think about uh humans as just information processing systems and uh that it seems like it's actually a pretty good uh way of describing a lot of, of kind of how the world works or a lot of what we're capable of to think that, that, you know, again, if you just look at, at tech innovations over time that in some ways the most transformative innovation that we've had has been the computer, right? In some ways, the internet, you know, that what is the internet done? Right? The internet is not about these physical cables. It's about the fact that I am suddenly able to instantly communicate with any other human on the planet. I'm able to retrieve any piece of knowledge that in some ways the human race has ever had. Uh And that those are these insane transformations."
+}

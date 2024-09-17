@@ -1,0 +1,6 @@
+{
+  "Speaker": "Greg Brockman",
+  "Start": "00:39:51",
+  "End": "00:40:45",
+  "Text": ". Yeah. Yeah, for sure. I mean, I think that uh that we actually have, I think that's like a pretty important part of, of how, how we operate and how we have even again with designing the charter and, and designing open A LP in the first place. Uh that there has been a lot of conversation with employees here and a lot of times where employees said, wait a second, this seems like it's going in the wrong direction and let's talk about it. so I think one thing that's, that's, I think a really and, you know, here's, here's actually one thing that I think is very unique about us as a small company is that if you're at a massive tech giant, it's a little bit hard for someone who's aligned employee to go and talk to the CEO and say, I think that we're doing this wrong. Um And, you know, look at companies like Google that have had some collective action from employees to, you know, make uh ethical change around things like Maven. Um And so maybe there are mechanisms at other companies that work. Um But here super easy for anyone to pull me aside, to pull Sam aside, to pull ily aside and people do it all the time."
+}

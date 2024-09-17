@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:50:14",
+  "End": "00:50:34",
+  "Text": "a good question, how much if all you have is the internet data, much can you reconstruct the magic of what it means to be human? I think we would be surprised how much you can reconstruct you probably need a more better and better and better models. But on that topic, how much does size matter"
+}

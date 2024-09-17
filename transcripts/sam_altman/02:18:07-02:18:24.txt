@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:18:07",
+  "End": "02:18:24",
+  "Text": "there styles of conversation? Oh, no. Contents of conversations you're looking forward to with an A G I like GP T 567. Is there stuff where where do you go to outside of the fun meme stuff for"
+}

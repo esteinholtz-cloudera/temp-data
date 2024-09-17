@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:59:25",
+  "End": "01:59:41",
+  "Text": "by this tool. Um will be harm, there will be tremendous benefits but you know, tools do wonderful, good and real bad we will minimize the bad and maximize the good."
+}

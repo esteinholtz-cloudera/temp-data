@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:50:57",
+  "End": "01:51:22",
+  "Text": "do worry about that a lot. I mean, we try to figure out as much red teaming and testing ahead of time as we do to avoid a lot of those. But I can't emphasize enough how much the collective intelligence and creativity of the world will be open eye and all of the red teamers we can hire. So put it out, but we put it out in a way we can make changes"
+}

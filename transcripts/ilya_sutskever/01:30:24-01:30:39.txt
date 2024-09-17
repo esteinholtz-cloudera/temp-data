@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:30:24",
+  "End": "01:30:39",
+  "Text": "I'd find it trivial to do that. I'd find it trivial to really for this kind of, I mean, know, the the kind of scenario you are describing sounds terrifying to me. all would absolutely not want to be in that position."
+}

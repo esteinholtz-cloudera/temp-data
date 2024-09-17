@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:23:52",
+  "End": "02:24:14",
+  "Text": "wish it were that, you know, introspective all the time. It's a lot of just like, you know, what will bring me joy, what will bring me fulfillment, know, what will bring, what will be uh I, I do think a lot about what I can do that will be useful, but like who do I want to spend my time with what I want to spend my time doing?"
+}

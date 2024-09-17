@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:50:21",
+  "End": "01:50:37",
+  "Text": "your backpack. You think it's possible to have a switch, you think? I mean, more seriously and more specifically about sort of rolling out of different systems? Do you think it's possible to roll them unroll them? Pull them back in?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Max Tegmark",
+  "Start": "01:16:46",
+  "End": "01:17:15",
+  "Text": "because you can build an autonomous vehicle, even if you could build one that would drive this finalize, you know, maybe there are some things in life that we would actually want to do ourselves. That's right. Right. Like for example, you think of our society as a whole, there's some things that we, that we find very meaningful to do that doesn't mean we have to stop doing them just because machines can do them better. You know, I'm not gonna stop playing tennis just the day someone build a tennis robot and beat me."
+}

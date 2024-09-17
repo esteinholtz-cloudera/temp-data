@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:12:30",
+  "End": "01:13:05",
+  "Text": "certainly willing to believe that is somehow the fundamental substrate and we're all just in the dream or the simulation or whatever. I think it's interesting how much sort of the Silicon Valley religion of the simulation has gotten close to Bremen and how little space there is between them. But from these very different directions. So like maybe that's what's going on. But if, if it is like physical reality as we it and all of the rules of the game and what we think they are, then, then there's something I still think it's something very strange,"
+}

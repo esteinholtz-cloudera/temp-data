@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:50:11",
+  "End": "00:50:14",
+  "Text": "of the text output that humanity produces is somewhat different. And"
+}

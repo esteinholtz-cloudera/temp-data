@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:13:19",
+  "End": "02:14:05",
+  "Text": "II I am about the speed with, with this changes and the speed with which our institutions can adapt. Um is part of why we want to start deploying these systems really early, why they're really weak so that people have as much time as possible to do this. I think it's really scary to like, have nothing, nothing, nothing and then drop a super powerful A G I all at once on the world. I don't think people should want that to happen. But what gives me hope is like, I think the less zero, the more positive sum the world gets the better and the, the upside of the vision here, just how much better life can be. think that's gonna like unite a lot of us and even if it doesn't, it's just going to make it all feel more positive. Some"
+}

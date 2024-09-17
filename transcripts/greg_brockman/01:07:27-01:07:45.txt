@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:07:27",
+  "End": "01:07:45",
+  "Text": ". So do you think uh creating a G I something or some new models would we would see echoes of the brilliance even at the prototype level? So you would be able to develop those ideas without scale the initial uh seeds,"
+}

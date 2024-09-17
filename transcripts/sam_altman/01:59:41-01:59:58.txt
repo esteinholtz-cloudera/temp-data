@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:59:41",
+  "End": "01:59:58",
+  "Text": "have to carry the, the weight of that. How do you avoid G BT four from being hacked or jail broken? There's a lot of interesting ways that people have done that like uh with token smuggling other methods like Dan."
+}

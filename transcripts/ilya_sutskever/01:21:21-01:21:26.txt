@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:21:21",
+  "End": "01:21:26",
+  "Text": "leaning on that existence proof pretty heavily. OK?"
+}

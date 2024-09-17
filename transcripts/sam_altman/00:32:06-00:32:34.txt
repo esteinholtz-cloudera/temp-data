@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:32:06",
+  "End": "00:32:34",
+  "Text": "for, I'm not good at this. I've met people who are, yeah, and the creativity, kind of they almost some of them almost treat it like debugging software. Um But also they, they, met people who spend 12 hours a day for a month on end on this. And they really get a feel for the model and a feel how different parts of a prompt compose with each other. Like"
+}

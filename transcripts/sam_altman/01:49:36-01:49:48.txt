@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:49:36",
+  "End": "01:49:48",
+  "Text": "something also about uh I mean, Stuart Russell has talked about the control problem of um having A G I to be, have some degree of uncertainty, having a dogmatic certainty to"
+}

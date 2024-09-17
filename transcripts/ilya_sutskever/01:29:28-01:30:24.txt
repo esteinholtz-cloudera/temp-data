@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:29:28",
+  "End": "01:30:24",
+  "Text": "let me take a step back to that moment where you create the A G I system. I think this is a really crucial moment. between that moment and the, the Democratic board members with the A G I at the head, has to be a relinquishing of power. So as George Washington, despite all the bad things, he did. One of the big things he did is he relinquished power. He, first of all, didn't want to be president even when he became president, he gave, he didn't keep just serving as most dictators do for indefinitely. you see yourself able to control over an A G I system? Given how much power you can have over the world at first. Financial. Just make a lot of money. Right. And then control by having possession of a G I system."
+}

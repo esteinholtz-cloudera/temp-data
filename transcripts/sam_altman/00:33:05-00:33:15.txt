@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:33:05",
+  "End": "00:33:15",
+  "Text": "these ways that the kind of analogies from humans to a is like breakdown and the parallelism, the sort of unlimited rollouts. That's a big one."
+}

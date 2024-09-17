@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:47:26",
+  "End": "00:48:02",
+  "Text": ", I, the thing, the thing which I would change now back back then, I really have, I haven't fully internalized the over the over parameterized results. The the things we know about over parameterized neural nets. Now, I would phrase it as a large circuit whose weights contain a small amount of information, I think is what's going on. If you imagine the training process of a neural network as you slowly transmit entropy from the data set to the parameters, somehow the amount of information in the weights ends up being not very large, which would explain why they generalized so well."
+}

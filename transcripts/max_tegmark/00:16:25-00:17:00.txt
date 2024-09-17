@@ -1,0 +1,6 @@
+{
+  "Speaker": "Max Tegmark",
+  "Start": "00:16:25",
+  "End": "00:17:00",
+  "Text": ", let me ask you, can I ask you a question about this? Like to make it a bit more point that the Mass General Hospital is right across the river. Right? Suppose, suppose you're going in for a medical procedure they're like, you know, uh for, for anesthesia, what we're gonna do is we're gonna give you a muscle relaxant so you won't be able to move. Uh, and you're gonna feel excruciating pain during the whole surgery, but you won't be able to do anything about it. But then we're gonna give you this drug that erases your memory of it. you be cool about that? the difference that you're conscious about it not? If, if, if there's no behavioral change? Right."
+}

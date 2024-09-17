@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:32:43",
+  "End": "01:32:49",
+  "Text": "clearly don't want like all American elite university students giving you your labels. Well, see,"
+}

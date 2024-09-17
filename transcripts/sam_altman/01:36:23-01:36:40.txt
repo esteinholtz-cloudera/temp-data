@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:36:23",
+  "End": "01:36:40",
+  "Text": "a good one? mean, I think I'm not a great like spokesperson for the A I movement, I'll say that, I think there could be like a, more, like, could be someone who enjoyed it more, there could be someone who's much more charismatic. There could be someone who connects better, I think with people than I do"
+}

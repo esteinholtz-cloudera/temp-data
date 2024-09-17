@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:20:08",
+  "End": "01:20:37",
+  "Text": "even if you're not able to physically interact with the world and if you're not able to, I mean, I actually was getting at, let me ask on the more particular, I'm not sure if it's connected to having a body or not, but the idea of consciousness and a more constrained version of that is self awareness. Do you think an A G I system should have consciousness? can't define whatever the heck you think consciousness is"
+}

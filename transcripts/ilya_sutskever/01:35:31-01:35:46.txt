@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:35:31",
+  "End": "01:35:46",
+  "Text": "your academic accomplishments, all the papers, you're one of the most sighted people in the world. All of the breakthroughs I mentioned in computer vision and language and so on what is the source of happiness and pride for you?"
+}

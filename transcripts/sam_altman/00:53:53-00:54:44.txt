@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:53:53",
+  "End": "00:54:44",
+  "Text": ". The thing that I am so excited about with this is not that it's a system that kind of goes off and does its own thing, but that it's this tool that humans are using in this feedback loop. for us for a bunch of reasons, we get to, you know, learn more about trajectories through multiple iterations. But am excited about a world where A I is an extension of human will and a amplifier of our abilities and this like, you know, most useful tool yet created. And that is certainly how people are using it. And I mean, just like, look at Twitter like the, the results are amazing. People's like self reported happiness was getting to work with this are great. yeah, like maybe we never build a G I but we just make humans super great. Still a huge win."
+}

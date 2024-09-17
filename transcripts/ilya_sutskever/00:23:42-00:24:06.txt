@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:23:42",
+  "End": "00:24:06",
+  "Text": "? Well, one example, for instance is that you learn to act, you are fundamentally in a non stationary world because as your actions change the things you see start changing you, experience the world in a different way. And this is not the case for the more traditional static problem where you have some distribution and you just apply a model to that distribution."
+}

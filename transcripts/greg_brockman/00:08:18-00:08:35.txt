@@ -1,0 +1,6 @@
+{
+  "Speaker": "Greg Brockman",
+  "Start": "00:08:18",
+  "End": "00:08:35",
+  "Text": ". That's right. I think that at that point, if you've really built a powerful system that is capable of shaping the future of humanity, the first question that you really should ask is how do we make sure that this plays out well? Um And so that's actually the first question that I would ask powerful A G I system is"
+}

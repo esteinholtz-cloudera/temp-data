@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:23:29",
+  "End": "01:23:53",
+  "Text": ", that's, that's a really nice way to put it. But I also just don't like that. Human instinct to criticize a model is not intelligent. That's the same instinct as we do when we criticize any group of creatures as the other. very possible that G BT two is much smarter than human beings at many"
+}

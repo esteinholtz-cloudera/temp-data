@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:57:50",
+  "End": "00:58:10",
+  "Text": "the process of language modeling, far do you think it take us? Let's look at movie her. Do you think dialogue, natural language conversation is formulated by the Turing test? For example, do you think that process could be achieved through this kind of unsupervised language modeling? So"
+}

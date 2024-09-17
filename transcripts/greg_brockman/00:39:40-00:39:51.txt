@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:39:40",
+  "End": "00:39:51",
+  "Text": "here, there's people here who could speak up say, like, hold on a second. This is totally against what we stand for. Culture"
+}

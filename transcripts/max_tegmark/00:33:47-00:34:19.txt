@@ -1,0 +1,6 @@
+{
+  "Speaker": "Max Tegmark",
+  "Start": "00:33:47",
+  "End": "00:34:19",
+  "Text": "wouldn't mention myself in the, in the same breath as Andrew Wiles. But I, I've certainly had a number of moments when I realized something very cool about physics. This is completely made my head explode. In fact, some of my favorite discoveries I made, I later realized that they had been discovered earlier by someone who sometimes got quite famous for it. So I i it's too late for me to even publish it, but that doesn't diminish in any way the emotional experience you have when you realize it like."
+}

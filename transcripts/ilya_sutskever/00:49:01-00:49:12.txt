@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:49:01",
+  "End": "00:49:12",
+  "Text": "or even slowly. But it means that given the resources at your disposal, can train the neural net and get it to achieve performance."
+}

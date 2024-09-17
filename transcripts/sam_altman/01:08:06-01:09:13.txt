@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:08:06",
+  "End": "01:09:13",
+  "Text": "live in that, but that's an important, that's an important level. an important, uh a really important level because one of the things that makes it not conscious is declaring that it's a computer program, therefore it can't be conscious. So I'm not going to, I'm not even going to acknowledge it, that just puts in the category of other, I, I believe I can be conscious. then the question is, what would it look like when it's conscious? What would it behave like? it would probably say things like, first of all, I am conscious. Second of all, um display capability of suffering uh an, an understanding of self, having some itself and maybe interactions with you. Maybe there's a personalization aspect to it. And I think all of those capabilities are interface capabilities, not fundamental aspects of the actual knowledge deciding you on that."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Max Tegmark",
+  "Start": "00:18:35",
+  "End": "00:18:38",
+  "Text": "don't think so. You mean to have to have a conscious experience"
+}

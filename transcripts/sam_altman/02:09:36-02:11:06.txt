@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:09:36",
+  "End": "02:11:06",
+  "Text": "I think they just horribly mismanaged chasing returns in a very silly world of 0% interest rates. very long dated instruments by very short term and variable deposits. this was obviously dumb, think the fault of the management team. Although I'm not sure what the regulators were thinking either. an example of where I think see the dangers of incentive misalignment the fed kept raising, assume that the incentives on people working at SVB to not at a loss, their, you know, super safe bonds which were now down 20% or whatever, um, or, you know, down less than that, but then kept going down., know, that's like a classic example of incentive misalignment., I suspect they're not the only bank in a bad position here. response of the federal government, I think took much longer than it should have. But by Sunday afternoon, I was glad they had done what they've done. see what happens next."
+}

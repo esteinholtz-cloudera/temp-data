@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:53:19",
+  "End": "00:53:48",
+  "Text": "that the epitome of interpret ability? Like can you do better? Can you because you can't? OK. I would like to know what does it know and what doesn't know? I would like the neural network to come up with examples where it's completely dumb and examples where it's completely brilliant. the only way I know how to do that now is to generate a lot of examples and use my human judgment. But it would be nice if Anona had some self awareness about"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:14:32",
+  "End": "00:14:51",
+  "Text": "me uh in a small tangent say, do you think they'll be back? So, so much of uh the breakthroughs recently that we'll talk about on uh natural language processing and language modeling has been with transformers that don't emphasize their current. you think recurrence will make a comeback?"
+}

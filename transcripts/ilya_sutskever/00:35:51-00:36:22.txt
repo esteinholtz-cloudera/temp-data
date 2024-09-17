@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:35:51",
+  "End": "00:36:22",
+  "Text": "? I think there will be, I think there will be a large number of breakthroughs in general if you're not in the huge amount of compute. maybe I should clarify that. I think that some breakthroughs will require a lot of compute. And I think building systems which actually do things will require a huge amount of compute. That one is pretty obvious if you want to do X and X requires a huge neural net. You got to get a huge neural net. I think that there will be lots of, I think there is lots of room for very important work being done by small groups and individuals. Can you"
+}

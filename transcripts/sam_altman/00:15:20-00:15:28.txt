@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:15:20",
+  "End": "00:15:28",
+  "Text": "can really know the peculiar characteristics of the fully trained system from just a little bit of training,"
+}

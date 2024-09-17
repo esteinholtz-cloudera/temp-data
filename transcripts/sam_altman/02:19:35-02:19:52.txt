@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:19:35",
+  "End": "02:19:52",
+  "Text": "think I would just go about my life. Yeah, mean a version of that is like, what are you doing differently now that like if GP T four told you and you believe, OK, A G I is here A G is coming real soon. are you going to do differently?"
+}

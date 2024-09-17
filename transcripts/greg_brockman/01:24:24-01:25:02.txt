@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:24:24",
+  "End": "01:25:02",
+  "Text": "a really interesting idea that even G BT two has some degree of consciousness, that's something uh is actually not as crazy to think about. It's useful to think about as we think about what it means to create intelligence of a dog, intelligence of a cat and the intelligence of human. So last question, do you think will ever fall in love? Like in the movie, her with an artificial intelligence system or an artificial intelligence system falling in love with a human? I hope so. there's any better way to end it is on love. So, Greg, thanks so much for"
+}

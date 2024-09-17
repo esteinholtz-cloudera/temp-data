@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:47:14",
+  "End": "01:47:17",
+  "Text": "not going to be good, but let's try it."
+}

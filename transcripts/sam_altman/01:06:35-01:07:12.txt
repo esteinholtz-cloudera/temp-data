@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:06:35",
+  "End": "01:07:12",
+  "Text": "think we're getting into the phase where specific definitions of A G I really matter or we just say, you know, I know it when I see it and I'm not even going to bother with the definition, but under the, I know it, when I see it, doesn't feel that close to me., if, I were reading a sci fi book and there was a character that was an A G I, and that character was GP T four, I'd be like, oh, this is a shitty book, you know, that's not very cool. Like I was, I would have hoped we had done better"
+}

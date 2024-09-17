@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:32:37",
+  "End": "00:32:42",
+  "Text": "when you modify something, what kind of word to do it with?"
+}

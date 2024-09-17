@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:53:02",
+  "End": "00:53:15",
+  "Text": ". I could argue sort of the opposite point that you could have deep big scientific breakthroughs with just the data that GP T is trained on. Like like if you prompt it correctly,"
+}

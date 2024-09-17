@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:25:21",
+  "End": "00:25:36",
+  "Text": ". The non-interest dumb answer to that is there's, there's a benchmark and there's a human level performance on that benchmark. And how is the effort required to reach the human level"
+}

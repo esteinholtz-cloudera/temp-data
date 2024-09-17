@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:07:31",
+  "End": "01:08:15",
+  "Text": ", listen, I love active learning. So let me ask, does the selection of data? Can you just elaborate that a little bit more? Do you think the selection of data um I have this kind of sense that the optimization of how you select data? So the active learning process is going to be a place for a lot of breakthroughs in the near future because there hasn't been many breakthroughs there that are public. I feel like there might be private breakthroughs that companies keep to themselves because the fundamental problem has to be solved. If you want to solve self driving, if you want to solve a particular task, do you, what do you think about the space in general?"
+}

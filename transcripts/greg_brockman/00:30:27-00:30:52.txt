@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:30:27",
+  "End": "00:30:52",
+  "Text": "open A I uh the decision to create open A A LP was a really difficult one and there was a lot of discussions, as you mentioned for a year and uh there's different ideas, perhaps detractors within open A I sort of a different path that you could have taken. What were those concerns? What were the different paths considered? What was that process of making that decision like?"
+}

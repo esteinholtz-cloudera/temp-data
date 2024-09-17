@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:44:37",
+  "End": "00:44:55",
+  "Text": ", which one us humans? Yes. OK. All right. So you think the architecture will allow neural networks to reason will look similar to the neural network architectures we have today?"
+}

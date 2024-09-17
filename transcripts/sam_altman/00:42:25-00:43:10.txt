@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:42:25",
+  "End": "00:43:10",
+  "Text": "good work there. You know, if you ask the same question 10,000 times and you rank the outputs from best to worst, what most people see is of course something around output 5000 but the output that gets of the Twitter attention is output 10,000. And this is something that I think the world will just have to adapt to with these models is that there's a really egregiously dumb answer. in a world where you click screenshot and share might not be representative. Now, already, we're noticing a lot more people respond to those things saying, well, I tried it and got this. And so I think we are building up the antibodies there but it's a new thing."
+}

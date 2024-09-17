@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:14:35",
+  "End": "00:14:53",
+  "Text": "there's a lot of problem solving, like you've already said uh for GP T four in the, in the blog post and in general, already kind of a maturity that's happening on some of these steps like being able to predict before doing the full training of how the model will behave."
+}

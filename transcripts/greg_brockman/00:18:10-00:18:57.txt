@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:18:10",
+  "End": "00:18:57",
+  "Text": "if we take a little step back and we're having like a fascinating conversation and open as in many ways, a tech leader in the world. yet we're thinking about these big existential questions, which is fascinating and really important. I think you're a leader in that space and that's a really important space of just thinking how A I affects society in, in a big picture of you. So Oscar Wilde said we're all in the gutter, but some of us are looking at the stars and I think open A I has a charter that looks to the stars, I would say to create intelligence, to create general intelligence, make it beneficial, safe and collaborative. So can you tell me how that came about how a mission like that and the path to creating a mission like that? Open the eye was founded? Yeah."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:49:26",
+  "End": "00:49:52",
+  "Text": "some sense, someone said to me this morning actually. And I was like, oh, this might be right. This is the most complex software object humanity has yet produced it will be trivial in a couple of decades. Right. It'll be like kind of anyone can do it whatever. Um But yeah, the amount of complexity relative to anything we've done so far that goes into producing this one set of numbers quite something."
+}

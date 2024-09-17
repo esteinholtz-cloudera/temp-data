@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:16:38",
+  "End": "01:17:24",
+  "Text": ", I understand that that's um true. one of the criticisms of self play, one of the criticisms of reinforcement learning is one of the, the current power, its current results while amazing have been demonstrated in a simulated environments or very constrained physical environments, do you think it's possible to escape them, the simulated environments and be able to learn in non simulated environments? Or do you think it's possible to also just simulate in a photo realistic and physics realistic way the real world in a way that we can solve real problems with self play in simulation."
+}

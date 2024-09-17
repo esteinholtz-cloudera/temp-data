@@ -1,0 +1,6 @@
+{
+  "Speaker": "Max Tegmark",
+  "Start": "00:06:15",
+  "End": "00:07:29",
+  "Text": "think what we know is that going from no life to having life that can do our level of tech, there's some sort of to going beyond that then actually settling our whole universe with life. There's some road major roadblock, which is some great filter as um sometimes called which which is tough to get through. It's either that that roadblock is either be behind us or in front of us. I'm hoping very much that it's behind us. I'm, I'm super excited every time we get a new report from NASA saying they failed to find any life on Mars. Like just awesome because that suggests that the hard part maybe maybe it was getting the first ribosome or, or some some very low level kind of stone. So they were home free because if that's true, then the future is really only limited by our own imagination. It would be much sucker if it turns out that level of life is kind of a diamond dozen. But maybe there's some other problem, like, as soon as a civilization gets advanced technology within 100 years, they get into some stupid fight with themselves and poof. Yeah. No, that would be a bummer."
+}

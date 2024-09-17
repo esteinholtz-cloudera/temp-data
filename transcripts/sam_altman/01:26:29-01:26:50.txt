@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:26:29",
+  "End": "01:26:50",
+  "Text": "think we agree on the magnitude of the downside of A G I and the need to get only safety, right, but get to a world where people are much better off A G exists than if AGI had never been built."
+}

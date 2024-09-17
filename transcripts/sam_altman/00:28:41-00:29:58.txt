@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:28:41",
+  "End": "00:29:58",
+  "Text": "problem. So I want to be very clear, I do not think we have yet discovered a way to align a super powerful system. We have, we have something that works for our current scale called RLHF. we can talk a lot about the benefits of that and the utility it provides, it's not just an alignment, maybe it's not even mostly an alignment capability. It helps make a better system, a more usable system. is actually something that I don't think people outside the field understand enough. It's easy to talk about alignment and capability as orthogonal vectors. They're very close, alignment techniques lead to better capabilities and vice versa. There's cases that are different and they're important cases. But on the whole, I think things that you could say like RLHF or interpret ability that sound like alignment issues also help you make much more capable models and the division is just much fuzzier than people think. Um And so in some sense, the work we do to make GP D force safer and more aligned very similar to all the other work we do of solving the research and engineering problems associated with creating and powerful models."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:05:55",
+  "End": "01:05:58",
+  "Text": "check you're not seeing a connection between driving and language. No,"
+}

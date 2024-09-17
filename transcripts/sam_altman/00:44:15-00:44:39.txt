@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:44:15",
+  "End": "00:44:39",
+  "Text": ". Uh What is the open A I moderation tooling for GP T look like? What's the process of moderation? So there's several things, maybe, maybe it's the same thing you can educate me. So RLHF is the ranking is there a wall you're up against like where this is an unsafe thing to answer? What does that tooling"
+}

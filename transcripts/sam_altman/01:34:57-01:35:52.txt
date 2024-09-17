@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:34:57",
+  "End": "01:35:52",
+  "Text": ", you know, that's what to some degree Twitter files have revealed there was pressure from different organizations. You can see in the pandemic where the CDC or some other government organization might put pressure on, you know what, we're not really sure what's true, but it's very unsafe to have these kinds of nuanced conversations now. So let's censor all topics. So you get a lot of those emails, like, you know, emails, all different kinds of people reaching out at different places put subtle indirect pressure, direct pressure, financial political pressure, all that kind of stuff. Like how do you survive that? How do you, how much do you worry about that? GP T continues to get more and more intelligent and a source of information and knowledge for human civilization?"
+}

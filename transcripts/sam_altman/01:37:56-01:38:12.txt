@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:37:56",
+  "End": "01:38:12",
+  "Text": ". But like you said, a drink in person because mean, I, I haven't actually found the right words for it but I, I was, I was a little with the programming emotionally. I don't think it makes any sense."
+}

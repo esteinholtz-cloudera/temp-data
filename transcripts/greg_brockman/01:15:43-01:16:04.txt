@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:15:43",
+  "End": "01:16:04",
+  "Text": "do you see the field of deep learning heading in the next few years? Where do you see the work and reinforcement learning perhaps heading and specifically with open A I all the exciting projects that you're working on. What is 2019 hold for you"
+}

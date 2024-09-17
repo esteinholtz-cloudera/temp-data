@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:43:08",
+  "End": "00:43:35",
+  "Text": "not?, if you look, for example, at alpha go or alpha zero, neural network of alpha zero plays go, which, which we all agree is a game that requires reasoning better than 99.9% of all humans. Just the neural network without this search, just the neural network itself. Doesn't that give us an existence proof that neural networks can reason"
+}

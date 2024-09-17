@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:56:02",
+  "End": "00:56:06",
+  "Text": "uh sort of theorem type mathematical"
+}

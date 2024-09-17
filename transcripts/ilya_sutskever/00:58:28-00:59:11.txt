@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:58:28",
+  "End": "00:59:11",
+  "Text": "linger on that because that's where you and Noam Chomsky disagree. you think we're actually taking uh incremental steps, a sort of larger network larger compute will be able to to the semantics to be able to understand language without what Noam likes to sort of think of as a understandings of the structure of language, like um imposing your theory of language onto the learning mechanism. So you're saying the learning, you can learn from raw data, the mechanism that underlies language."
+}

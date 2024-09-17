@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:06:25",
+  "End": "01:06:33",
+  "Text": "I think that G BT four, although quite impressive is definitely not in Asia. But isn't it remarkable? We're having this debate?"
+}

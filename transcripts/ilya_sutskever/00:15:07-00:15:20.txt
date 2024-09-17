@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:15:07",
+  "End": "00:15:20",
+  "Text": "? You have a neural network which maintains a high dimensional hidden state. And then when an observation arrives, it updates its high dimensional hidden state through its in some way,"
+}

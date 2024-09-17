@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:17:54",
+  "End": "01:17:58",
+  "Text": ". So it wasn't in the phys that the hand wasn't trained,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:25:59",
+  "End": "01:26:10",
+  "Text": "of the above you ask for advice? Definitely. mean, why would I limit myself talking to a system like this?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:06:21",
+  "End": "02:06:49",
+  "Text": "? I think most other companies, maybe now they would, it wouldn't at the time have understood why we needed all the weird control provisions we have and why we need all the kind of like A G I specialness. Um I know that because I talked to some other companies before we did the first deal with Microsoft. And I think they were, they are unique in terms of the companies of that scale understood why we needed the control provisions we have."
+}

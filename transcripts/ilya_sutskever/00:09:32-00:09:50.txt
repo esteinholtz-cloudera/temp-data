@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:09:32",
+  "End": "00:09:50",
+  "Text": "way, that is a big actually, let me think is that, is that one a difficult idea to arrive at? And how big of an idea is that that there's a single cost function?, let me take a pause is supervised learning a difficult concept to come to."
+}

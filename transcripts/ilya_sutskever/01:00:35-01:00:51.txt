@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:00:35",
+  "End": "01:00:51",
+  "Text": ". That's right. And so I don't, I don't want to imply that our models have complete semantic understanding because that's not true, but they definitely are showing signs of semantic understanding, partial semantic understanding. But the smaller models do not show that those signs."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Max Tegmark",
+  "Start": "00:22:34",
+  "End": "00:23:08",
+  "Text": ". And, and, and similarly, you give any kind of more ambitious goal to an A G I, it's very likely they want to acquire more resources so we can do that better. And it's exactly from those sort of sub goals that we might not have intended that that some of the concerns about A G I safety come you give it some goal which seems completely harmless. then you realize it, it's also trying to do these other things that you didn't want to do and it's maybe smarter than us. So, so,"
+}

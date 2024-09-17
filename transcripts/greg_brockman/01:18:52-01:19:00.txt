@@ -1,0 +1,6 @@
+{
+  "Speaker": "Greg Brockman",
+  "Start": "01:18:52",
+  "End": "01:19:00",
+  "Text": ". It would be very, very exciting, especially if it turns out that P equals NP. That will be interesting too."
+}

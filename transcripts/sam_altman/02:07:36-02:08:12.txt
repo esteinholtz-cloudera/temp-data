@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:07:36",
+  "End": "02:08:12",
+  "Text": "think most are either great leaders or great managers. from what I observed have observed with Satya, is both visionary really like gets people excited, really makes long duration and correct calls. also he is just a super effective hands on executive and I assume manager too. I think that's pretty rare."
+}

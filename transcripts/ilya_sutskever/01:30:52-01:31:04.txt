@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:30:52",
+  "End": "01:31:04",
+  "Text": ". So I don't know if most people are good, but think that when it really counts, people can be better than we think"
+}

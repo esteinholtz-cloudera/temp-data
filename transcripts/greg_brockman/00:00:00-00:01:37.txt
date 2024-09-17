@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:00:00",
+  "End": "00:01:37",
+  "Text": "The following is a conversation with Greg Brockman. He's the co founder and CTO of Open A I A world class research organization, developing ideas in A I with a goal of eventually creating a safe and friendly artificial general intelligence. One that benefits and empowers humanity. Open A I is not only a source of publications, algorithms tools and data sets. mission is a catalyst for an important public discourse about our future with both narrow and general intelligence systems. This conversation is part of the Artificial Intelligence podcast at MIT and beyond. If you enjoy it, subscribe on youtube itunes or simply connect with me on Twitter at Lex Friedman spelled Fr ID. And now here's my conversation with Greg Brockman. in high school and right after you wrote a draft of a chemistry textbook, I saw that that covers everything from basic structure of the atom to quantum mechanics. So it's clear you have an intuition and a passion for both the uh the physical world with chemistry and non robotics to the digital world with uh A I deep learning reinforcement learning and so on. Do you see the physical world in the digital world is different. And what do you think is the"
+}

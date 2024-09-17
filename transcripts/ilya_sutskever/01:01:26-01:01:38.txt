@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:01:26",
+  "End": "01:01:38",
+  "Text": "is attention maybe too because I think that's an interesting idea, not necessarily sort of technically speaking, but the idea of attention versus maybe what recurring networks"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:05:51",
+  "End": "00:06:15",
+  "Text": ". So, from a physics perspective, do you think life? So it's unique from a sort of statistical view of the size of the universe? But from the basic matter of the universe, how difficult is it for intelligent life to come about? The kind of advanced tech building life implied in your statement that it's really difficult to create something like a human species. Well, I"
+}

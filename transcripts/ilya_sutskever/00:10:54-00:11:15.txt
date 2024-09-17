@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:10:54",
+  "End": "00:11:15",
+  "Text": "don't, I don't know if it has a cost function. I don't know if it's meaningful to talk about the cost function of. Again, it's kind of like the cost function of biological evolution or the cost function of the economy. It's you can talk about to which it will go towards. But I don't think, don't think the cost function analogy is the most useful. So evolution"
+}

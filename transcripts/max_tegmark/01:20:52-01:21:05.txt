@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:20:52",
+  "End": "01:21:05",
+  "Text": ". And that's, I think why it's really exciting that, yeah. Uh, you and others are connected with some of the work Elon Musk is doing because he's literally going out into that space, really exploring our universe. And it's wonderful."
+}

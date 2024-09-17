@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:11:56",
+  "End": "01:12:36",
+  "Text": "course. But is there some moral, ethical responsibility when you have a very powerful model to sort of communicate? Like as you said, when you had GP T two, it was unclear how much it could be used for misinformation. It's an open question getting an answer to that might require that you talk to other really smart people that are outside of uh outside your particular group. you please tell me there is some optimistic pathway for people across the world to collaborate on these kinds of cases is it still really difficult from, from one company to talk to another company?"
+}

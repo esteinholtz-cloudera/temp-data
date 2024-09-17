@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:35:46",
+  "End": "01:36:22",
+  "Text": "mean, all those things are a source of pride for sure. I'm very grateful for having done all those things and it was very fun to do them. happiness comes but, you know, you can happiness. Well, my current view is that happiness comes from our to a lot to a very large degree from the way we look at things, know, can have a simple meal and be quite happy as a result. Or you can talk to someone and be happy as a result as well. Or con conversely, you can have a meal and be disappointed that the meal wasn't a better meal. I think a lot of happiness comes from that, but I'm not sure I don't want to be too confident. I"
+}

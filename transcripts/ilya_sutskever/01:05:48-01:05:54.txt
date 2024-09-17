@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:05:48",
+  "End": "01:05:54",
+  "Text": ", deep learning for self driving. But I, I was talking about sort of language models. I see just"
+}

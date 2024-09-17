@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:15:48",
+  "End": "02:15:58",
+  "Text": ", if there's like kind of U I affordances that, I understand that I still think we want to be like pretty careful with it"
+}

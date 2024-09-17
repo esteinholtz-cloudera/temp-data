@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:01:06",
+  "End": "02:01:14",
+  "Text": "don't really jailbreak iphones that much anymore and it's gotten harder for sure. But also like you can just do a lot of stuff now"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:35:35",
+  "End": "00:35:51",
+  "Text": "the, what like Vladimir Vab NK really insists on is taking AM NS and trying to learn from very few examples. So being able to learn more efficiently, do you think that's there'll be breakthroughs in that space that would may not need a huge"
+}

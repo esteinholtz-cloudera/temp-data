@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:32:52",
+  "End": "01:33:33",
+  "Text": ". Nice. it's so that's a good, there's a million heuristics you can use that to me that's a shallow heuristic because like any one kind of category of human that you would think would have certain beliefs might actually be really open minded in an interesting way. So you have to optimize for how good you are actually answering at doing these kinds of rating tasks, good you are at empathizing with an experience of other humans. That's a big one and being able to actually like, what is the worldview look like for all kinds of groups of people that would answer this differently. I mean, I have to do that constantly instead of like you've asked this a"
+}

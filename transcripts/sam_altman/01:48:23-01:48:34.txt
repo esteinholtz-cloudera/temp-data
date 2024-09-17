@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:48:23",
+  "End": "01:48:34",
+  "Text": "it's really interesting uh that centralized planning failed so, so in such big ways. what if hypothetically the centralized planning, it"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Greg Brockman",
+  "Start": "00:42:40",
+  "End": "00:43:44",
+  "Text": "that that first of all, um it's really important the government's in there, right, in some way, shape or form, you know, at the end of the day, we're talking about building technology that will shape how the world operates and that there needs to be government as part of that answer. so that's why we've uh we've, we've done a number of different congressional testimonies, we uh interact with a number of different lawmakers and uh that, you know, right now, a lot of our message to them is that it's not time for regulation, it is the time for measurement, right? That our main policy recommendation is that people and you know, the government does this all the time with bodies like nist um spend time trying to figure out just where the technology is, how fast it's moving. Um And can really uh become literate and up to speed with respect to what to expect. So I think that today, the answer really is about, about about measurement. Um And I think that there will be a time and place where that will change. And uh I think it's a little bit hard to predict exactly uh what, what exactly that trajectory should look like."
+}

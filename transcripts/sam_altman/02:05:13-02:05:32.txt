@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:05:13",
+  "End": "02:05:32",
+  "Text": "announced a new multiyear multibillion dollar reported to be $10 billion investment into open A I. Can you describe the thinking that went into this? What are the pros, what are the cons of working with a company like Microsoft?"
+}

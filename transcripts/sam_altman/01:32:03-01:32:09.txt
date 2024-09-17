@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:32:03",
+  "End": "01:32:09",
+  "Text": ", but is it possible to separate the bias of the model versus the bias of the employees?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:24:51",
+  "End": "01:25:17",
+  "Text": ", I mean, there is truth to that though. There is people, although I'm sure that plenty of people are also extremely impressed by the system that exists today. But I think this connects to the earlier point we discussed that it's just confusing to judge progress in A I.. And you know, you have a new robot demonstrating something, how impressed should you be? I, and I think that people will start to be impressed once A I starts to really move the needle on the GDP."
+}

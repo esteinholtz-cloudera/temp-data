@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:30:03",
+  "End": "00:30:39",
+  "Text": "I think the most beautiful thing about deep learning is that it actually works. I mean, it, because you've got these ideas, you've got the little neural network, you've got the back propagation algorithm then you've got some theories as to, you know, this is kind of like the brain. So maybe if you make it large, if you make the neural network large and you're trained in a lot of data, then it will the same function that the brain does. And it turns out to be true. That's crazy. now if you just drain these neural networks and you make them larger and they keep getting better. And I find it unbelievable. I find it unbelievable that this whole A I stuff with neural networks works."
+}

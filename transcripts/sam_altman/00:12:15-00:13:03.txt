@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:12:15",
+  "End": "00:13:03",
+  "Text": "so interesting. The science of human guidance. a very interesting science. And it's going to be a very important science to understand how to make it usable, how to make it wise, how to make it ethical, how to make it aligned in terms of all the kind of stuff we think about it matters, which are the humans and what is the process of incorporating that human feedback? And what are you asking the humans? Is it two things? Are you asking them to rank things? What aspects are you letting or asking the humans to focus in on? It's really fascinating but uh what is the data set it's trained on? Can you kind of loosely speak to the enormity of this data, pre training, data set, the pre training"
+}

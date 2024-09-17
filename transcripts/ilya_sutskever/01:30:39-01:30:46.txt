@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:30:39",
+  "End": "01:30:46",
+  "Text": "you think you represent the majority or the minority of people in the eye community?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:40:54",
+  "End": "00:41:28",
+  "Text": "I try, let's see, the intuition is basically is this that when the data set has as many degrees of freedom as the model, then there is a 1 to 1 correspondence between them and so small changes to the data set lead to noticeable changes in the model. So your model is very sensitive to all the randomness it is unable to discard it. Whereas it turns out that when you have lot more data than parameters or a lot more parameters than data, the resulting solution will be insensitive to small changes in the data set. So"
+}

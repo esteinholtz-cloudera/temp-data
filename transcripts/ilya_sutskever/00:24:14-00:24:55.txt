@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:24:14",
+  "End": "00:24:55",
+  "Text": "it's it's a question of definitions. Almost there is a huge, I know there's a huge amount of commonality for sure. You take gradients, you try, you take gradients, you try to approximate gradients. In both cases. In some case, in the case of reinforcement learning, you have some tools to reduce the variance of the gradients. You do that. lots of commonality use the same neural net. In both cases, you compute the gradient, you apply atom in both cases. mean there's lots in common for sure, but there are some small differences which are not completely insignificant. It's really just a matter of your of your point of view. What frame of reference. How much do you want to zoom in or out as you look at these problems, which problem do"
+}

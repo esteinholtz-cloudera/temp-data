@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:31:14",
+  "End": "00:32:01",
+  "Text": "the system message is a way to say, you know, hey model, please pretend like you or please only answer this message as if you were Shakespeare doing thing X or please only respond with Jason no matter what was one of the examples from our blog post. But you could also say any number of other things to that. then we,, we tune GP T four in a way to really treat the system message with a lot of authority. sure there's not always, hopefully, but for a long time, there'll be more jailbreaks and we'll keep sort of learning about those. But we program, we develop whatever you want to call it the model in such a way to learn that it's supposed to really use that system message."
+}

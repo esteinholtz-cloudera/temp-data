@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:18:24",
+  "End": "02:18:32",
+  "Text": ", I mean, what I'm excited for is like, explain to me how all of physics works and solve all remaining mysteries."
+}

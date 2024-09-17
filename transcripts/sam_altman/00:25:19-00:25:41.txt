@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:25:19",
+  "End": "00:25:41",
+  "Text": "is exciting to me. Like, for example, I asked, of course, you know, the CV D virus leak from a lab again, answer very nuanced. There's two hypotheses. It described them, it described the amount of data that's available for each. It was like, was like a breath of fresh air"
+}

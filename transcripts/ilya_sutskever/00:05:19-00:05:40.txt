@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:05:19",
+  "End": "00:05:40",
+  "Text": "the main doubt was can we train a big will we have enough computer to train a big enough neural net with back propagation, back propagation? I thought would work. This image wasn't clear what was whether there would be enough compute to get a very convincing result. Then at some point, Alex Kozy wrote these insanely fast good kernels for training convolutional neural nets. That was bam, let's do this, let's get an image net and it's going to be the greatest thing"
+}

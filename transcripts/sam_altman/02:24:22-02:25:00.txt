@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:24:22",
+  "End": "02:25:00",
+  "Text": ". If they really think. Yeah. And some of that then gets to the Sam Harris discussion of free well being and illusion, which very well might be, which is a really complicated thing to wrap your head around. do you think is the meaning of this whole thing? a question you could ask in a g what's the meaning of life far as you look at it? You're part of a small group of people that are creating something truly special. Something that feels like, almost feels like humanity was always moving towards."
+}

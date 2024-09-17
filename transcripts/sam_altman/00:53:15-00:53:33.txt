@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:53:15",
+  "End": "00:53:33",
+  "Text": "if an oracle told me far from the future that GP T 10 turned out to be a true A G I somehow maybe just some very small new ideas, I would be like, OK, I can't believe that what I would have expected sitting here and would have set a new big idea. But I can believe that"
+}

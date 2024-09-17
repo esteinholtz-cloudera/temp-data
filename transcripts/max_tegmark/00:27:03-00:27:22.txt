@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:27:03",
+  "End": "00:27:22",
+  "Text": ". Right. Exactly. Uh So you mentioned in defining intelligence as the ability to solve complex goals. So where would you draw a line or how would you try to define human level intelligence and superhuman level intelligence where this consciousness part of that definition,"
+}

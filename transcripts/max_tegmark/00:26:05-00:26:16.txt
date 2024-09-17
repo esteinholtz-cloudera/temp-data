@@ -1,0 +1,6 @@
+{
+  "Speaker": "Max Tegmark",
+  "Start": "00:26:05",
+  "End": "00:26:16",
+  "Text": "good news I have for you then is based on what we understand about cosmology. Everything is in our universe is brought probably finite. Although, although big"
+}

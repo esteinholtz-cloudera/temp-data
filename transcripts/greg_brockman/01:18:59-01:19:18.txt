@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:18:59",
+  "End": "01:19:18",
+  "Text": "would be ironic and humorous. So what problem stands out to you is the most exciting and challenging, impactful to the work for us as a community in general. And for open A I this year you mentioned reasoning. I think, that's a heck"
+}

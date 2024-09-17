@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:11:09",
+  "End": "01:11:29",
+  "Text": "uh to one side note, first of all, it's an exceptionally popular video game. The side effect is that there's a lot of incredible human experts at that video game. So the benchmark that you're trying to reach is is very high. And the other can you talk about the approach that was used initially and throughout training these agents to play"
+}

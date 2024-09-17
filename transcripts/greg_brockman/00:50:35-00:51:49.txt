@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:50:35",
+  "End": "00:51:49",
+  "Text": "positive are actually pretty easy to imagine. Uh There, you know, the usual N LP applications are really interesting, but let's go there. It's kind of interesting to think about a world where look at Twitter, not just fake news, but smarter and smarter bots being able to spread in an interesting complex networking way in information that just floods out us regular human beings with our original thoughts. So what are your views of this world with GP T 20? Right. What do you, how do we think about it again? It's like one of those things about in the fifties trying to describe uh the internet or the smartphone. What do you think about that world? The nature of information? Do we? One possibility is that we'll always try to design systems that identify robot versus human and we'll do so successfully and so we will authenticate that we're still human. the other world is that we just accept the fact that we're swimming in a sea of fake news and just learn to swim"
+}

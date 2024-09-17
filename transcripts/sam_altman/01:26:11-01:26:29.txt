@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:26:11",
+  "End": "01:26:29",
+  "Text": "Speaking of feedback, somebody, you know, well, you worked together closely on some of the ideas behind open A is Elon Musk. You have agreed on a lot of things. You've disagreed on some things, what have been some interesting things you've agreed and disagreed on. Speaking of fun debate on Twitter,"
+}

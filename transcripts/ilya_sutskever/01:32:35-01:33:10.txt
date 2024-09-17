@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:32:35",
+  "End": "01:33:10",
+  "Text": "think the question is, is, is wrong in some way. I think that the question implies that there is an, there is an objective answer which is an external answer. You know, your meaning of life is X I think what's going on is that we exist? And amazing. we should try to make the most of it and try to maximize our own value and enjoyment of our very time. While we do exist."
+}

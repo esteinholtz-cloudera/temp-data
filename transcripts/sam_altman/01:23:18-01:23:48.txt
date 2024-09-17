@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:23:18",
+  "End": "01:23:48",
+  "Text": ", the things I really like, because I know a lot of folks that open A I the thing I really like is the transparency everything you're saying, which is like failing publicly, papers, releasing different kinds of about the safety concerns involved and doing it out in the open. great. because especially in contrast to some other companies that are not doing that, they're being more closed said you could be more open. Do you think we"
+}

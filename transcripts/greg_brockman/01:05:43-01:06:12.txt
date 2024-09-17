@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:05:43",
+  "End": "01:06:12",
+  "Text": "talked to Young Goodfellow. But the thing is initial G produced pretty terrible results, right? So only because it was a very specific, it was only because they're smart enough to know that this is quite surprising, they can generate anything that they know. Do you see a world or is that too optimistic and dreamer? Like to imagine that compute resources are something that's owned by governments and provided uh as utility"
+}

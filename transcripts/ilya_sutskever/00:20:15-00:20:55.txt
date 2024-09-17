@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:20:15",
+  "End": "00:20:55",
+  "Text": "incredibly, you've contributed some of the biggest recent ideas in A I in in computer vision language, natural language processing reinforcement learning of everything in between maybe not guns there, may not be a topic you have in touch. And of course the the fundamental science of deep learning, is the difference to you between vision language and as in reinforcement, learning action as learning problems and what are the commonalities do you see them as all interconnected or are they fundamentally different domains that require different approaches?"
+}

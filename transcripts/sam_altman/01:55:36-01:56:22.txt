@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:55:36",
+  "End": "01:56:22",
+  "Text": ". The, the military strategy uh employed uh the atrocities, the speeches. Uh The the way Hitler was as a human being, the way Hitler was as a leader, all of that could be explained through this one little lens. And it's like, well, that's, if you say that's true, that's a really compelling truth. So maybe truth is in one sense is defined as a thing that is a collective intelligence. We kind of all our brains to and we're like, yeah. Yeah. Yeah. Yeah. Yeah. A bunch of, a bunch of ants get together and like, yeah, this is, it, I was going to say sheep but there's a connotation to that. But yeah, it's hard to know what is true. And I think when constructing a GP T like model, you have to contend with that."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:31:17",
+  "End": "01:32:24",
+  "Text": ", definitely. some sense, kind of question which you are asking is so if we were to translate that question to today's terms, it would be a question about to get an RL agent that's optimizing a value function, which itself is learned. if you look at humans, humans are like that because the reward function, the value function of humans is not external, it is internal. are definite ideas of how to train a value function. Basically an objective, you know, and as objective as possible perception system will be trained separately recognize, internalize human judgments on different situations. then that component would then be integrated as the value as the base value function. For some more capable RL system, you could imagine a process like this. I'm not saying this is the process. I'm saying this is an example of the kind of thing you could do"
+}

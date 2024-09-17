@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:43:41",
+  "End": "00:43:47",
+  "Text": "you don't feel that, I mean, there is a pressure but it doesn't affect you."
+}

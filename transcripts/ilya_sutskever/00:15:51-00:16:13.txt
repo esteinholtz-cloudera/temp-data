@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:15:51",
+  "End": "00:16:13",
+  "Text": "mean, the hidden state is technically what you describe the the hidden state that goes inside the LSDM or the RNN or something like this. But then what should be contained, you know, if you want to make the expert system? Um analogy, I'm not, mean, you could say that the knowledge is stored in the connections and then the short term processing is done in the, in the hidden state."
+}

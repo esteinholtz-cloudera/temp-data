@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:28:22",
+  "End": "00:29:16",
+  "Text": "I, I don't have that with humans. Humans continue to impress me. Is that true?, the ones? Ok. So I'm a fan of monogamy. So I like the idea of marrying somebody being with them for several decades. So I believe in the fact that yes, it's possible to have somebody continuously giving you, uh, pleasurable, interesting witty, new ideas. Friends. Yeah, I think, I think so. They continue to surprise you surprise. It's, um, you know, that injection of randomness, seems to be a, it seems to be a nice source of. Yeah. Continued,. Inspiration. Like the wit the humor, I think. Yeah,, that the, that would be a, it's a very subjective test. But I think if you have enough humans their own."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:41:51",
+  "End": "00:42:01",
+  "Text": "would love it if there is some way which I think my interaction with GP T has already done that some way to in a nuanced way present the tension of"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:34:45",
+  "End": "01:35:02",
+  "Text": "me ask two silly questions about life., do you have regrets moments that if you uh went back, you would do differently. And two are there moments that you're especially proud of that made you truly happy?"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:37:45",
+  "End": "00:38:39",
+  "Text": ". You know, I think something the A I community does is a little bit of sleight of hand. Sometimes when people talk about lining A I to human preferences and values, like a hidden asterisk which is the values and preferences that I approve of and navigating that tension of who gets to decide what the real limits are how do we build technology that is going to, is going to have huge impact to be super powerful get the right balance between people have the system. The A I that is the A I they want, which will offend a lot of other people and that's OK but still draw the lines we all agree have to be drawn somewhere."
+}

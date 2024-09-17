@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:01:00",
+  "End": "01:01:27",
+  "Text": ". So GP T two is a transformer 1.5 billion parameters that was trained on a on about 40 billion tokens of text were obtained from web pages that were linked to from reddit articles with more than three uploads. And what's the transformer? The transformer is the most important advance in neural network architectures in recent history."
+}

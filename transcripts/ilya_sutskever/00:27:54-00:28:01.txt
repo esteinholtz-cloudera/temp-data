@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:27:54",
+  "End": "00:28:01",
+  "Text": ", of like perfect vision, you know, reading his vision. But should it count?"
+}

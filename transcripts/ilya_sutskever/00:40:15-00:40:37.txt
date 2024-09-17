@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:40:15",
+  "End": "00:40:37",
+  "Text": ". That's right. But only if you don't early stop, if you introduce early stop in your regularization, you can make the double descent bump almost completely disappear. What is early stop, early stopping is when you train your model you monitor your validation performance then if at some point validation performance starts to get worse, you say, OK, let's stop training, you're good, you're good, you're good enough. So the"
+}

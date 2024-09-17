@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:29:52",
+  "End": "00:30:04",
+  "Text": "forgive the romanticized question. But looking back to you, what is the most beautiful or surprising idea in deep learning or A I in general you've come across."
+}

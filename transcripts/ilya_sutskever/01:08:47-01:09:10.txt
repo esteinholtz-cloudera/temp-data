@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:08:47",
+  "End": "01:09:10",
+  "Text": ". That's right. In fact, you could quite easily come up with a simple active L scheme on AMN and get a 10 X speed up but then, so what? I think that with active learning there needs, they need active learning will naturally arise as there are as problems that require it to pop up. how I would. That's my take on it."
+}

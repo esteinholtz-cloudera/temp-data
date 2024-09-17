@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:00:49",
+  "End": "01:01:01",
+  "Text": ". Yeah. Just exactly how we, you said, think is the process of generating thought by thought in the same kind of way. Like you said, keep the last bit, thing that we converge towards."
+}

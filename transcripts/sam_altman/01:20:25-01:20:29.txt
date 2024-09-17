@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:20:25",
+  "End": "01:20:29",
+  "Text": "you elaborate on that, the better NGO S of individuals, the individuals within"
+}

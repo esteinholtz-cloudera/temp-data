@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:39:51",
+  "End": "00:40:14",
+  "Text": ". So uh it's actually a beautiful way to put it. I think we do try to grab grasp at the, you know, the de the definition of intelligence is everything we don't understand how, how to build. So like, so we as human, try to find things well that we have and machines don't have and maybe creativity is just one of the things, one of the words we use to describe that a really interesting way to"
+}

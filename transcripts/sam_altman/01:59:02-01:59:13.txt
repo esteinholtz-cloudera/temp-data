@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:59:02",
+  "End": "01:59:13",
+  "Text": "think we as open a, I have responsibility for tools we put out into the world. I think the tools themselves can't have responsibility in the way I understand it. Wow."
+}

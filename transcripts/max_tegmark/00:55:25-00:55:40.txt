@@ -1,0 +1,6 @@
+{
+  "Speaker": "Max Tegmark",
+  "Start": "00:55:25",
+  "End": "00:55:40",
+  "Text": "solved? I think it's all of the above uh you, the natural language processing is obviously important, but they are also more fundamental problems. Like if you, if you take play chess,"
+}

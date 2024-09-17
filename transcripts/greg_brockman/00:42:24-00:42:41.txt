@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:42:24",
+  "End": "00:42:41",
+  "Text": "what role do you think government, favorite entity has in setting policy and rules about this domain? From research to the development to early stage, to late stage A A I and A G I development. So I"
+}

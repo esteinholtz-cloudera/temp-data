@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:11:34",
+  "End": "00:11:44",
+  "Text": "just because it's much easier to use, it's much easier to get what you want. You get to write more often the first time and ease of use matters a lot, even if the base capability was there before. And"
+}

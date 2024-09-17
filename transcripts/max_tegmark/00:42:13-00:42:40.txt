@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:42:13",
+  "End": "00:42:40",
+  "Text": "a really interesting. So people don't often think about that. They think about when there's going, if, if there's machines that are more intelligent, you naturally think that that's not going to be, um, a beneficial type of intelligence. You don't realize it could be, you know, like peers with Nobel prizes that, that would be just fun to talk with and they might be clever about certain topics and uh you can have fun having a few drinks with them."
+}

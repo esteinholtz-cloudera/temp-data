@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:46:57",
+  "End": "01:47:06",
+  "Text": "that it reallocates some resources in a way that supports kind of lifts the, people who are struggling."
+}

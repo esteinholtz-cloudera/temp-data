@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:01:15",
+  "End": "01:01:26",
+  "Text": "right. You've given the, given that the example exactly of mechanical birds and airplanes and airplanes do a pretty good job of flying without really mimicking bird flight. And"
+}

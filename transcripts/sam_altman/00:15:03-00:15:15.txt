@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:15:03",
+  "End": "00:15:15",
+  "Text": "it close to a science or is it still you said the word law and science, which are very ambitious terms close to us to be"
+}

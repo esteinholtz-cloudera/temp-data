@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:46:01",
+  "End": "00:46:27",
+  "Text": "? That takes us to the one of the brilliant sort of ways you describe neural networks, which is uh you've referred to neural networks as the search for small circuits and maybe general intelligence as the search for small programs I found as a metaphor. Very compelling. Can you elaborate on that difference? Yeah."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Greg Brockman",
+  "Start": "00:33:27",
+  "End": "00:33:35",
+  "Text": "mean, it just boils down to the to the mission, right? Like, like I'm here and everyone else is here because we think this is the most important mission to"
+}

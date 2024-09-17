@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:23:05",
+  "End": "01:23:29",
+  "Text": ". So my, my, I would guess that a lot of the skepticism that some people have about deep learning is when they look at their mistakes and they say, well, those mistakes, make no sense. Like if you understood the concept, you wouldn't make that mistake. I think that changing that would be, would, would, that would, that would inspire me. That would be, yes, this is this, this is, this is progress."
+}

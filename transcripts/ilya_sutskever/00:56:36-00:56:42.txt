@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:56:36",
+  "End": "00:56:42",
+  "Text": ". And then of course, just like you said, people kind of take that for granted and say that wasn't actually a hard problem. Well,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:51:27",
+  "End": "00:52:15",
+  "Text": ", can, can I, sorry. So, uh the, because you, you have this beautiful way to formulating consciousness as uh uh as a, know, as information processing and you can think of intelligence and information processing and there's, you can think of the entire universe, there's these particles and these systems roaming around that have this information processing power. You, you don't, you don't think there is something with the power to process information in the way that we human beings do that's out there that that needs to be sort of connected to it seems a little bit philosophical perhaps, but there's something compelling to the idea that the power is already there, which is the focus should be more on the, on being able to communicate with it."
+}

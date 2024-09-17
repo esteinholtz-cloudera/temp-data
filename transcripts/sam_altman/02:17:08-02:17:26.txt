@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:17:08",
+  "End": "02:17:26",
+  "Text": ", there are gonna be interactive GP T four powered pets or whatever, companions and lot of people seem really excited about that."
+}

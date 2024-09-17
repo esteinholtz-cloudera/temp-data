@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:49:10",
+  "End": "00:49:20",
+  "Text": "there. So there's a lot of, that's a, that's a great point. So, not, not chasing perfect. There's a lot of things that a lot that most of the world agrees on. Let's start there, let's start"
+}

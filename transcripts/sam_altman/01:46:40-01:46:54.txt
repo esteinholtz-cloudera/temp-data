@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:46:40",
+  "End": "01:46:54",
+  "Text": "you think there will be more don't know what the term is but systems that resemble something like democratic socialism. I've talked to a few folks on this podcast about these kinds of topics."
+}

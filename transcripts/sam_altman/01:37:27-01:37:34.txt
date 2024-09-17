@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:37:27",
+  "End": "01:37:34",
+  "Text": "really well put. And you said like, you're going to travel across the world to, to empathize with different users and empathize"
+}

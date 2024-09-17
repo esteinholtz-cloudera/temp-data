@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:13:27",
+  "End": "00:13:35",
+  "Text": "some of it is reddit, some of it is news sources all like a huge number of newspapers. There's the general web,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:40:37",
+  "End": "00:40:41",
+  "Text": "magic happens after, after that moment. So you don't want to do the early"
+}

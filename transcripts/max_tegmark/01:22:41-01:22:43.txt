@@ -1,0 +1,6 @@
+{
+  "Speaker": "Max Tegmark",
+  "Start": "01:22:41",
+  "End": "01:22:43",
+  "Text": "Bolshoi."
+}

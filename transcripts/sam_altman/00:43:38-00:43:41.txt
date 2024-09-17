@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:43:38",
+  "End": "00:43:41",
+  "Text": "mean, evidently there doesn't seem to be, we keep doing our thing, you know."
+}

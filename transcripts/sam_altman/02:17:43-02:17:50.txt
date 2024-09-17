@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:17:43",
+  "End": "02:17:50",
+  "Text": "whatever. Maybe you want your programming assistant to be a little kinder and not mock you. You're incompetent."
+}

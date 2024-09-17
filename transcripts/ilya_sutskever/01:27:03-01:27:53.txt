@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:27:03",
+  "End": "01:27:53",
+  "Text": ", the ideal world I'd like to imagine one where humanity alike, board, the board members of a company where the A G I is the CEO. it would be, would like the, the picture which I would imagine is you have some kind of different, different countries or cities and the people that live there vote for what the A G I that represents them should do. And an A G I that represents them goes and does it, I think a picture like that find very appealing and you could have multiple, you would have an A G I for a city for a country and there would be, would be trying to in effect, take the democratic process to the next"
+}

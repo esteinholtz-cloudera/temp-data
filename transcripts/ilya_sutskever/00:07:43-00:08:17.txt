@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:07:43",
+  "End": "00:08:17",
+  "Text": "a good question to ask, what is, what is an interesting difference between the neural, between the brain and our artificial neural networks. So I feel like today artificial neural networks. So we all agree that there are certain dimensions in which the human brain vastly outperforms our models. But I also think that there are some ways in which our artificial neural networks have number of very important advantages over the brain. Look, looking at the advantages versus disadvantages is a good way to figure out what is the important difference. So the brain the spikes, which may or may not be important. That's a"
+}

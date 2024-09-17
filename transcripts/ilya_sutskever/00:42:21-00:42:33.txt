@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:42:21",
+  "End": "00:42:33",
+  "Text": "can't find back propagation in the brain., I guess your answer to that is back propagation is pretty damn useful. So why are we"
+}

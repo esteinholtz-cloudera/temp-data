@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:34:18",
+  "End": "00:34:33",
+  "Text": ". Yeah. So what would it take in that, that moment? That, wow, that was yours in that moment. So what do you think it takes an intelligence system? An A G I system, an A I system to have a moment like that."
+}

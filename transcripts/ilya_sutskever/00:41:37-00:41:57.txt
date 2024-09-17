@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:41:37",
+  "End": "00:41:57",
+  "Text": "suggested we need to throw back propagation. We already kind of talked about this a little bit, but he suggested that we need to throw away back propagation and start over. mean, of course, some of that is a little bit um and humor. But what do you think? What could be an alternative method of training neural networks?"
+}

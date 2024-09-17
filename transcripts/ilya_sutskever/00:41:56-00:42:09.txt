@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:41:56",
+  "End": "00:42:09",
+  "Text": ", the thing that he said precisely is that to the extent that you can't find back propagation in the brain, it's worth seeing if we can learn something from how the brain learns, but back propagation is very useful and we should keep using it."
+}

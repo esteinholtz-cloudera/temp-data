@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:59:13",
+  "End": "00:59:43",
+  "Text": "speaking of software that nobody understands how it works. Of course, a bunch of people ask um about your paper about your thoughts of why does deep and cheap learning work so well? That's the paper. But um what, what, what are your thoughts on deep learning? These kind of simplified models of our own brains and have been able to do some successful perception work, pattern recognition work and now with Alpha zero and so on, do some some clever things. What are your thoughts about promise limitations of this piece?"
+}

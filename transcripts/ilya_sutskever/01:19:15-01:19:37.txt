@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:19:15",
+  "End": "01:19:37",
+  "Text": "me ask sort of a embodied question staying on a G I for a sec. Do you think a G I system? We need to have a body, we need to have some of those human elements of self awareness, consciousness, sort of fear of mortality, sort of self preservation in the physical space, which comes with having a body."
+}

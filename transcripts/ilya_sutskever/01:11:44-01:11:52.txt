@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:11:44",
+  "End": "01:11:52",
+  "Text": "there any other insights like, say you don't want to release the model at all? Because it's useful to you for whatever the business"
+}

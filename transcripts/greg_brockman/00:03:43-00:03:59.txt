@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:03:43",
+  "End": "00:03:59",
+  "Text": "you see society as a whole, the collective as another extension of the intelligence of the human being. So if you look at the human being as an information processing system, you mentioned the internet, the networking. Do you see us all together as a civilization as a, as a kind of intelligence system?"
+}

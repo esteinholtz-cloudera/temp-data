@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:00:04",
+  "End": "01:00:09",
+  "Text": "people who might not know, I don't know if that's a standard term but sentiment is whether it's a positive or a negative review."
+}

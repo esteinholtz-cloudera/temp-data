@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:07:29",
+  "End": "00:07:56",
+  "Text": ". So, you've explored the mysteries of the universe, the Cosmological Universe. The one that's between us today. think you've also begun to explore the other universe, which is sort of the mystery, the mysterious universe of the mind of intelligence, of intelligent life. So, is there a common thread between your interest or in the way you think about space and intelligence?"
+}

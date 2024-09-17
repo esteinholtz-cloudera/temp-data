@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "00:36:39",
+  "End": "00:37:05",
+  "Text": ", definitely. So what happened is that some over over the years, some small number of researchers noticed that it is kind of weird that when you make the neural network large, it works better and it seems to go in contradiction with statistical ideas. And then some people made an analysis showing that actually you got this double descent bump. And what we've done was to show that double descent occurs for all for pretty much all practical deep learning systems and that it will be also so can"
+}

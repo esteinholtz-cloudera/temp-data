@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:33:35",
+  "End": "00:34:26",
+  "Text": "to dream, right? So, uh do you think you can be good for the world or create an A G I system that's good when you're a for profit company? From my perspective, I don't understand why profit interferes with the positive impact on society. I don't understand why, uh, Google that makes most of its money from ads can't also do good for the world or other companies. Facebook anything. I don't, I don't understand why those have to interfere. You know, you can, um, profit isn't the thing in my view that affects the impact of a company. What affects the impact of the company is the charter is the culture, is, you know, the people inside and profit is the thing that just fuels those people. So, what, what are your views there? Yeah. So I think,"
+}

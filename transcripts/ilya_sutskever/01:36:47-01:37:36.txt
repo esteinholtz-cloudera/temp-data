@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:36:47",
+  "End": "01:37:36",
+  "Text": "for listening to this conversation with Ilias Discover and thank you to our presenting sponsor Cash app. Please consider supporting the podcast by downloading Cash app and using the Code Lex podcast. If you enjoy this podcast, subscribe on youtube, review it with five stars in Apple podcast support on Patreon or simply connect with me on Twitter at Lex Friedman Now let me leave you with some words from Alan Turing on machine learning. of trying to produce a program to simulate the adult mind. Why not rather try to produce one which simulates the child. this were then subjected to an appropriate course of education, one would obtain the adult brain. you for listening and hope to see you next time."
+}

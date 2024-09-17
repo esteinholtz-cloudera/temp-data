@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:13:02",
+  "End": "00:13:21",
+  "Text": "set, we spend a huge amount of effort pulling that together from many different sources. Um There's like a lot of there are open source databases of information. Uh We get stuff via partnerships, there's things on the internet. Um It's a lot of our work is building a great data set."
+}

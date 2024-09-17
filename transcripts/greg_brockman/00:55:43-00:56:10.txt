@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:55:43",
+  "End": "00:56:10",
+  "Text": "actually go there. It's GP T two is impressive and let's look at GP T 20. Why is it so bad that all my friends are GP T 20? is it? So why is it so important on the internet? Do you think to interact with only human beings? Why can't we live in a world where ideas can come, models trained on human data? Yeah, I, I"
+}

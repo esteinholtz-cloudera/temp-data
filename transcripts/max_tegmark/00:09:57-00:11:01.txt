@@ -1,0 +1,6 @@
+{
+  "Speaker": "Max Tegmark",
+  "Start": "00:09:57",
+  "End": "00:11:01",
+  "Text": "good question. So, um I think people have underestimated our ability to make progress on this convincing themselves. It's hopeless because somehow we're missing some that we need. There's some new consciousness particle or whatever I happen to think that we're not missing anything and it's not the interesting thing about the consciousness that gives us this amazing subjective experience of colors and sounds and emotions and so on rather something at the higher level about the patterns of information processing. And why I, that's why I like to think about this idea of Perceptron. And what does it mean for an arbitrary physical system to be conscious in, in terms of its particles are doing or, or, or its information is doing? I don't think I don't I hate carbon chauvinism. You know, this attitude, you have to be made of carbon atoms to be smart or or conscious"
+}

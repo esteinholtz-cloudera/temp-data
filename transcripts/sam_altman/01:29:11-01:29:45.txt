@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:29:11",
+  "End": "01:29:45",
+  "Text": "all fascinating to watch. And I think both of you are brilliant people and have early on for a long time, really cared about A G I and had great concerns about A G I but a great hope for a G I. And that's cool to see these big minds having those discussions even if they're tense at times. think it was Elon that said that uh G BT is too woke, is GP T two woke? Is, can you still man the case that it is? And not, this is going to our question about"
+}

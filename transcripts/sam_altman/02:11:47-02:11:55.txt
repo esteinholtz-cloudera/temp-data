@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:11:47",
+  "End": "02:11:55",
+  "Text": ", there was a weekend of terror for sure. And now I think even though it was only 10 days ago, it feels like forever and people have forgotten about it,"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:32:17",
+  "End": "00:32:34",
+  "Text": "geometric mean of biology and physics. I think I'm gonna need a few hours to wrap my head around that. because just to find the geometric just to find uh the set of what biology represents or"
+}

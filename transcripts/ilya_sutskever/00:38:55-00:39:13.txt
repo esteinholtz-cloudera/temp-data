@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:38:55",
+  "End": "00:39:13",
+  "Text": "OK. So at a very basic level, to me, it is the most surprising thing that networks don't over ft every time very quickly uh ever being able to learn anything, there are a huge number of parameters."
+}

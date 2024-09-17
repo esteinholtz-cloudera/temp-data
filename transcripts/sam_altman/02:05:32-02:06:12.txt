@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:05:32",
+  "End": "02:06:12",
+  "Text": "not all or easy, but on the whole, they have been an amazing partner to us. and Kevin Mchale, are super aligned with us. Super flexible, have gone like way above and beyond the call of duty to do things that we have needed to get all this to work. Um This is like a big iron, complicated engineering project they are a big and complex company and think like many great partnerships or relationships, we've sort of just continued to ramp up our investment in each other it's been very good."
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:58:10",
+  "End": "01:59:02",
+  "Text": "maybe, yeah, very new, very different is a good way to put it. There could be truths that are harmful in their truth. Um I don't know, group difference is an IQ, there you go, work that when spoken might do more harm. you asked GP T that should GP T tell you there's books written on this that are rigorous scientifically but are very uncomfortable and probably not productive in any sense. But maybe are there people are arguing all kinds of sides of this and a lot of them have hate in their heart. And so what do you do with that? If there's a large number of people who hate others? I actually um citing scientific studies, what do you do with that? What does GP T do with that? What is the priority of GP T to decrease the amount of hate in the world? Is it up to GP T or is it up to us humans?"
+}

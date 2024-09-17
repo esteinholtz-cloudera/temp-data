@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:06:21",
+  "End": "01:06:30",
+  "Text": "simple. So don't have much to ask you take a transformer, you make it bigger, you give it more data and suddenly it does all those amazing things. Yeah. One"
+}

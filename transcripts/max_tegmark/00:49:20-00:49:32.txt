@@ -1,0 +1,6 @@
+{
+  "Speaker": "Max Tegmark",
+  "Start": "00:49:20",
+  "End": "00:49:32",
+  "Text": ". And then, and then once we start there, we'll also get into the habit of, of having these kind of conversations about. Ok, what else should we put in here and have these discussions? This should be a gradual process then? Great."
+}

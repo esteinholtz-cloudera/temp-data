@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:14:37",
+  "End": "01:15:18",
+  "Text": "and then as on Twitter. So everywhere else eventually.. How would we know my statement is we wouldn't that's a real danger. do you prevent that danger? I think there's a lot of things you can try., but at this point, it is a certainty there are soon going to be a lot of capable open source LL MS with very few to none, no safety controls on them. so can try, with regulatory approaches, you can try with using more powerful A is to detect this stuff happening. Um, I'd like us to start trying a lot of things very soon."
+}

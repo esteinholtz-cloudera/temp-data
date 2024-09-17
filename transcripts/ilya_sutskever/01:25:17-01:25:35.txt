@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:25:17",
+  "End": "01:25:35",
+  "Text": "you're one of the people that might be able to create an A G I system here. Not you, but you, and open A I, if, if you do create an A GS system and you get to spend sort of the evening with it. Him, her, what would you talk about? Do you think"
+}

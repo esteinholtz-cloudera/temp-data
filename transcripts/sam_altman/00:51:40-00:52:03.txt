@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:51:40",
+  "End": "00:52:03",
+  "Text": "I with Noam Chomsky, who's been kind of um one of the many people that are critical of large language models being able to achieve general intelligence, right? And so it's an interesting question that they've been able to achieve so much incredible stuff. Do, do you think it's possible that large language models really is the way we, we build A G I,"
+}

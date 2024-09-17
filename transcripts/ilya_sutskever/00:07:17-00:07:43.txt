@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:07:17",
+  "End": "00:07:43",
+  "Text": "we're now at a time where deep learning is very successful. So let us squint less and say, let's open our eyes and say what to you is an interesting difference between the human brain. Now, I know you're probably not an expert, neither a neuroscientist or neuro biologist, but loosely speaking, what's the difference between the human brain and artificial neural networks? That's interesting to you for the next decade or two."
+}

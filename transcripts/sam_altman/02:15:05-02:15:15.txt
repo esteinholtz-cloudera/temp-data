@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "02:15:05",
+  "End": "02:15:15",
+  "Text": "it's really important that we try to, to educate people that this is a tool and not a creature."
+}

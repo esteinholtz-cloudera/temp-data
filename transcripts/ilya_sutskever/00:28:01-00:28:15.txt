@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:28:01",
+  "End": "00:28:15",
+  "Text": ", to me. So my definition is if a system looked at an image and then a system looked at a piece of text and then told me something about that and I was really impressed."
+}

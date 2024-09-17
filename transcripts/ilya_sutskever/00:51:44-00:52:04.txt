@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:51:44",
+  "End": "00:52:04",
+  "Text": ", but in some sense, do you think in every sense, do you think there's a,, it's all just a matter of coming up with a better mechanism of forgetting the useless stuff and remembering the useful stuff because right now, I mean, there's not been mechanisms that do remember really long term information."
+}

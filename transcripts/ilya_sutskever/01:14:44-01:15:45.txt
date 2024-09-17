@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:14:44",
+  "End": "01:15:45",
+  "Text": ". So what I would say to build a GI I think it is going to be learning plus some ideas. I think self play will be one of those ideas. think that that is a very play. Has this amazing property that it can surprise us truly novel ways. For example, we, I mean, pretty much every self play system are do bot, I don't know if opening had a release about multi agent where you had two little agents who were playing hide and seek. And of course, also Alpha zero, they were all produced surprising behaviors. They all produce behaviors that we didn't expect. They are creative solutions to problems. that seems like an important part of A G I that our systems don't exhibit routinely right now. so that's why I like this area. I like this direction because of its ability to surprise us to surprise"
+}

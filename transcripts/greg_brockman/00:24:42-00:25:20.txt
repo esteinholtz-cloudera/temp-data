@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:24:42",
+  "End": "00:25:20",
+  "Text": "me just pause for a second. You said a lot of things and let me just admire the jarring aspect of what open A I stands for, which is daring to dream. I mean, you said it's pretty powerful. You caught me off guard because I think that's very true. The, the, the step of just daring to dream about the possibilities of creating intelligence in a positive and a safe way. But just even creating intelligence is a much needed, refreshing catalysts for the A I community. So that's, that's the starting point. OK. So then formation of open A I, uh I just, I would"
+}

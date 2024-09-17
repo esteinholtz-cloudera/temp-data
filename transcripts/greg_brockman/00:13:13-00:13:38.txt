@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:13:13",
+  "End": "00:13:38",
+  "Text": "do you share the intuition that some people have? Uh I mean, from Sam Harris to even Elon Musk himself, it's tricky as you develop A G I to keep it from slipping into the existential threats into the negative. What's your intuition about? How hard is it to keep A I on the positive track and what's your intuition there"
+}

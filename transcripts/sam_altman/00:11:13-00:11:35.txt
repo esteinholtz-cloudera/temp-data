@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:11:13",
+  "End": "00:11:35",
+  "Text": "there's a giant language model that's strained in a giant data set to create this kind of background wisdom knowledge that's contained within the internet then adding a little bit of human guidance on top of it through this process it seem so much more awesome."
+}

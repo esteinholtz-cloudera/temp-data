@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:46:38",
+  "End": "00:47:02",
+  "Text": "do you think it's possible, sort of that? So you create a beautiful vision that includes, uh, sort of the diversity, cultural diversity and various perspective on discussing rights, freedoms, human dignity. But how hard is it to come to that consensus? Do you think, uh, it's certainly a really important thing that we should all try to do? But do you think it's feasible?"
+}

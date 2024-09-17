@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "02:26:13",
+  "End": "02:26:36",
+  "Text": ". How many others are there? I wonder we will ask that. Isn't the question number one for me, for a how many others? I'm not sure which answer I want to hear Sam. You're an incredible person. It's an honor to talk to you. Thank you for the work you're doing. Like I said, I've talked to, I talked to Greg, I've talked to so many people at open A I, they're really good people. They're doing really interesting"
+}

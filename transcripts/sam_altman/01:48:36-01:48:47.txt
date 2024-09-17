@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:48:36",
+  "End": "01:48:47",
+  "Text": "intelligent A G I., it might go in the same kind of ways, but it might not, we don't really know,"
+}

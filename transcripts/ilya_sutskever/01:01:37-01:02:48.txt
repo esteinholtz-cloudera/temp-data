@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:01:37",
+  "End": "01:02:48",
+  "Text": ". Yeah. So the thing is the transformer is a combination of multiple ideas simultaneously of each attention is one. you think attention is the key? No, it's a key but it's not the key. The transformer is successful because it is the simultaneous combination of multiple ideas. And if you were to remove either idea, it would be much less successful. the transformer uses a lot of attention but attention existed for a few years. So that can't be the main innovation. transformer designed in such a way that it runs really fast on the GP U that makes a huge amount of difference. This is one thing. The second thing is that transformer is not recurrent and that is really important too because it is more shallow and therefore much easier to optimize. So in other words, it uses attention. It is, it is a really great fit to the GP U it is not recurring. So therefore less deep and easier to optimize and the combination of those factors make it successful. So now it makes, it makes great use of your GP U. It allows you to achieve better results for the same amount of compute that's why it's successful."
+}

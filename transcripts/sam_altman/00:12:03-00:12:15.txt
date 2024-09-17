@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "00:12:03",
+  "End": "00:12:15",
+  "Text": "for that to be fair. We understand the science of this part at a much stage than we do the science of creating these large pre trainin models in the first place. But yes, less data, much less data."
+}

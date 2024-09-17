@@ -1,0 +1,6 @@
+{
+  "Speaker": "Sam Altman",
+  "Start": "01:59:16",
+  "End": "01:59:22",
+  "Text": "of us, all of us at the company."
+}

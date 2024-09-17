@@ -1,0 +1,6 @@
+{
+  "Speaker": "Ilya Sutskever",
+  "Start": "01:12:36",
+  "End": "01:12:49",
+  "Text": "it's definitely possible, it's definitely possible to discuss kind of models with colleagues elsewhere and to get their, get their take on what's on what to do."
+}

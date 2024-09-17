@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "00:15:05",
+  "End": "00:15:22",
+  "Text": "have an intuition and a hope that from data, you know, looking at the value alignment problem from data, we can build systems that align the collective better angels of our nature. So align with um the ethics and the morals of human beings to"
+}

@@ -1,0 +1,6 @@
+{
+  "Speaker": "Lex Fridman",
+  "Start": "01:03:44",
+  "End": "01:03:56",
+  "Text": "you build or somebody builds an artificial general intelligence, would that be fast or slow? Would we it's happening or not? Would we go about our day on the weekend or not?"
+}
