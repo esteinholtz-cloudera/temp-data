@@ -1,6 +1,0 @@
-{
-  "Speaker": "Aella",
-  "Start": "01:30:27",
-  "End": "01:30:29",
-  "Text": "seems like you're going through the same kind of thought"
-}

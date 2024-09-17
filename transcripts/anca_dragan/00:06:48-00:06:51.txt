@@ -1,6 +1,0 @@
-{
-  "Speaker": "Lex Fridman",
-  "Start": "00:06:48",
-  "End": "00:06:51",
-  "Text": "the first program you've written?"
-}

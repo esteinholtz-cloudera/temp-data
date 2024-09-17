@@ -1,6 +1,0 @@
-{
-  "Speaker": "Andrej Karpathy",
-  "Start": "01:08:52",
-  "End": "01:08:54",
-  "Text": "hard."
-}

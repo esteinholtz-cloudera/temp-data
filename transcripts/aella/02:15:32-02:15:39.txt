@@ -1,6 +1,0 @@
-{
-  "Speaker": "Aella",
-  "Start": "02:15:32",
-  "End": "02:15:39",
-  "Text": "is impossible. Not super likely assuming that they are attracted to each other."
-}

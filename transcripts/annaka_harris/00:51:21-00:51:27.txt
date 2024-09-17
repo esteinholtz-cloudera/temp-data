@@ -1,6 +1,0 @@
-{
-  "Speaker": "Annaka Harris",
-  "Start": "00:51:21",
-  "End": "00:51:27",
-  "Text": ". Yes. The truth is often crazier than what, what the situation feels a"
-}

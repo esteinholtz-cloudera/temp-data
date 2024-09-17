@@ -1,6 +1,0 @@
-{
-  "Speaker": "Lex Fridman",
-  "Start": "01:11:55",
-  "End": "01:11:58",
-  "Text": "for doing that to have a beginner. is a beautiful,"
-}

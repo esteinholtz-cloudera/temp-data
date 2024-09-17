@@ -1,6 +1,0 @@
-{
-  "Speaker": "Ayanna Howard",
-  "Start": "01:18:47",
-  "End": "01:18:49",
-  "Text": "to use that word particularly"
-}

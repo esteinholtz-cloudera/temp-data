@@ -1,6 +1,0 @@
-{
-  "Speaker": "Lex Fridman",
-  "Start": "01:23:52",
-  "End": "01:23:54",
-  "Text": "Miscavige believe they exist?"
-}

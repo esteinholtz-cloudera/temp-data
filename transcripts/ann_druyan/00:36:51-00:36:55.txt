@@ -1,6 +1,0 @@
-{
-  "Speaker": "Ann Druyan",
-  "Start": "00:36:51",
-  "End": "00:36:55",
-  "Text": "you could also send now cosmos."
-}

@@ -1,6 +1,0 @@
-{
-  "Speaker": "Aella",
-  "Start": "02:42:50",
-  "End": "02:42:53",
-  "Text": ", I didn't measure old fetishes at all,"
-}

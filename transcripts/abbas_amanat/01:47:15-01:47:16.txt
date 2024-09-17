@@ -1,6 +1,0 @@
-{
-  "Speaker": "Abbas Amanat",
-  "Start": "01:47:15",
-  "End": "01:47:16",
-  "Text": "the"
-}

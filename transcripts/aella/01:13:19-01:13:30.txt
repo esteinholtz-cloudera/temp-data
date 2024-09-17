@@ -1,6 +1,0 @@
-{
-  "Speaker": "Aella",
-  "Start": "01:13:19",
-  "End": "01:13:30",
-  "Text": "are treated. I never heard anything about the ethical side. I just knew that it was like lower quality. Like the girls seemed like they were less to it. And like, less."
-}

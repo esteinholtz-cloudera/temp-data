@@ -1,6 +1,0 @@
-{
-  "Speaker": "Aaron Smith Levin",
-  "Start": "01:15:35",
-  "End": "01:15:38",
-  "Text": "you were full ot you could,"
-}

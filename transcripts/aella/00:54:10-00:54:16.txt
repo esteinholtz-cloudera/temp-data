@@ -1,6 +1,0 @@
-{
-  "Speaker": "Aella",
-  "Start": "00:54:10",
-  "End": "00:54:16",
-  "Text": "? Well, I mean, it looks hard because you have, it looks like it's high depression on the keys."
-}

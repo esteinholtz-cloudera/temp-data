@@ -1,6 +1,0 @@
-{
-  "Speaker": "Aella",
-  "Start": "00:16:01",
-  "End": "00:16:09",
-  "Text": ". But I felt like really unpleasant things if you're in, in like a deep agony.. That's fun."
-}

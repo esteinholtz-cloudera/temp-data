@@ -1,6 +1,0 @@
-{
-  "Speaker": "Aella",
-  "Start": "00:26:11",
-  "End": "00:26:15",
-  "Text": ". I guess if, what is the truth?"
-}

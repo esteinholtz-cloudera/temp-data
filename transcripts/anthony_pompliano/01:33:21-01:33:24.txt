@@ -1,6 +1,0 @@
-{
-  "Speaker": "Lex Fridman",
-  "Start": "01:33:21",
-  "End": "01:33:24",
-  "Text": "from asset to asset."
-}

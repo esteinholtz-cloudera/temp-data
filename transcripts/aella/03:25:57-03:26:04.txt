@@ -1,6 +1,0 @@
-{
-  "Speaker": "Aella",
-  "Start": "03:25:57",
-  "End": "03:26:04",
-  "Text": ". Yeah, it was in a little castle is in the winter So we're all closed up by the fire."
-}

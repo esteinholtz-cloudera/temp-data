@@ -1,6 +1,0 @@
-{
-  "Speaker": "Aella",
-  "Start": "02:59:13",
-  "End": "02:59:17",
-  "Text": "plow forward"
-}

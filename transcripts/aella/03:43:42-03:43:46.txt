@@ -1,6 +1,0 @@
-{
-  "Speaker": "Aella",
-  "Start": "03:43:42",
-  "End": "03:43:46",
-  "Text": "also in the deck of cards, the asshole. Yeah."
-}

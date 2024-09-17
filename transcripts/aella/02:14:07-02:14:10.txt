@@ -1,6 +1,0 @@
-{
-  "Speaker": "Aella",
-  "Start": "02:14:07",
-  "End": "02:14:10",
-  "Text": "make it flourish into lots of other new definitions."
-}

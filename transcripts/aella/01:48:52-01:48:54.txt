@@ -1,6 +1,0 @@
-{
-  "Speaker": "Aella",
-  "Start": "01:48:52",
-  "End": "01:48:54",
-  "Text": ". If you go to mass manufacture,"
-}

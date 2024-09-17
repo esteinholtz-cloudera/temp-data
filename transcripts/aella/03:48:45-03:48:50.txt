@@ -1,6 +1,0 @@
-{
-  "Speaker": "Aella",
-  "Start": "03:48:45",
-  "End": "03:48:50",
-  "Text": "all organic life is that gap. It's all around us."
-}

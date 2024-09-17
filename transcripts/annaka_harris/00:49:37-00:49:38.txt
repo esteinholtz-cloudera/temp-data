@@ -1,6 +1,0 @@
-{
-  "Speaker": "Annaka Harris",
-  "Start": "00:49:37",
-  "End": "00:49:38",
-  "Text": "to them"
-}

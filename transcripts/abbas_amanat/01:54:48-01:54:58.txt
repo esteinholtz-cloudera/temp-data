@@ -1,6 +1,0 @@
-{
-  "Speaker": "Abbas Amanat",
-  "Start": "01:54:48",
-  "End": "01:54:58",
-  "Text": "Khomeini who eventually was known as Imam Khomeini, he was kind of promoted to a even more sublime position. Can"
-}

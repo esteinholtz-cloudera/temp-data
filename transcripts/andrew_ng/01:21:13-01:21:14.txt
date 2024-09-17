@@ -1,6 +1,0 @@
-{
-  "Speaker": "Andrew Ng",
-  "Start": "01:21:13",
-  "End": "01:21:14",
-  "Text": "two are not"
-}

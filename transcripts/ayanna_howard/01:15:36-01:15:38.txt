@@ -1,6 +1,0 @@
-{
-  "Speaker": "Ayanna Howard",
-  "Start": "01:15:36",
-  "End": "01:15:38",
-  "Text": "income,"
-}

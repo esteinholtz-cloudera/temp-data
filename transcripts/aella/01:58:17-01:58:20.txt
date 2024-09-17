@@ -1,6 +1,0 @@
-{
-  "Speaker": "Aella",
-  "Start": "01:58:17",
-  "End": "01:58:20",
-  "Text": "?. Or do you"
-}

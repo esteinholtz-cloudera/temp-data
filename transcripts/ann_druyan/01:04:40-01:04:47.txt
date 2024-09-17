@@ -1,6 +1,0 @@
-{
-  "Speaker": "Ann Druyan",
-  "Start": "01:04:40",
-  "End": "01:04:47",
-  "Text": "you ponder? Human mortality and maybe even your own mortality? Oh,"
-}

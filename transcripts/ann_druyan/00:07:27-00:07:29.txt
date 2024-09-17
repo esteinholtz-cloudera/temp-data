@@ -1,6 +1,0 @@
-{
-  "Speaker": "Ann Druyan",
-  "Start": "00:07:27",
-  "End": "00:07:29",
-  "Text": "is love."
-}

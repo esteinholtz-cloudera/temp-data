@@ -1,6 +1,0 @@
-{
-  "Speaker": "Aella",
-  "Start": "02:15:58",
-  "End": "02:16:02",
-  "Text": ". Sorry that my phone"
-}

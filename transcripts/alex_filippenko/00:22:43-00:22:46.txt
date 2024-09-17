@@ -1,6 +1,0 @@
-{
-  "Speaker": "Lex Fridman",
-  "Start": "00:22:43",
-  "End": "00:22:46",
-  "Text": "get lucky, if we get and intelligent, I know."
-}

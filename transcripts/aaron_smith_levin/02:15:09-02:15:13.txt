@@ -1,6 +1,0 @@
-{
-  "Speaker": "Aaron Smith Levin",
-  "Start": "02:15:09",
-  "End": "02:15:13",
-  "Text": ". If I can make my kids happy, that's success. To me,"
-}

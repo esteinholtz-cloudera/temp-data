@@ -1,6 +1,0 @@
-{
-  "Speaker": "Annaka Harris",
-  "Start": "01:50:00",
-  "End": "01:50:03",
-  "Text": ". I mean, because"
-}

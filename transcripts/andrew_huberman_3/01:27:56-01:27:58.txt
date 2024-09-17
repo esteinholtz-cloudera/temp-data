@@ -1,6 +1,0 @@
-{
-  "Speaker": "Andrew Huberman",
-  "Start": "01:27:56",
-  "End": "01:27:58",
-  "Text": "unparalleled."
-}

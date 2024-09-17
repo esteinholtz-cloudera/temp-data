@@ -1,6 +1,0 @@
-{
-  "Speaker": "Annaka Harris",
-  "Start": "00:36:31",
-  "End": "00:36:33",
-  "Text": "can't answer that. You"
-}
